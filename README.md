@@ -12,6 +12,8 @@ Electrified fixed-bed CaL requires frequent transitions between CO2 capture by c
 
 The broader array concept uses **time-division multiplexing of a shared electrical supply**: regeneration power is allocated sequentially among reactors instead of providing a dedicated supply for every reactor. With suitable cycle timing and switching hardware, this can reduce power-equipment cost and support a smaller system footprint and higher system-level space–time yield. These are system-design objectives, not performance guarantees provided by the software.
 
+<img width="1800" height="1200" alt="7508f9ec1dbe96bb0e8cfd08cdea4a19" src="https://github.com/user-attachments/assets/606f4cbf-0f7c-41b6-8c3e-3f28cbe74473" />
+
 > **Scope:** A 4 × 4 array is an illustrative configuration, not the only intended array size. The current implementation exposes **four heater channels and eight logical valve channels**; it does not by itself provide independent control of 16 complete reactors or arbitrary N × M arrays. The demonstration shows **inlet-valve switching only**; practical operation requires switching both inlet and outlet paths.
 
 ## Contents
