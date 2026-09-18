@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <RootNamespace>SPHCaLArrayRMS.App</RootNamespace>
+    <AssemblyName>SPH CaL Array RMS - Control</AssemblyName>
+    <Product>SPH CaL Array RMS - Control</Product>
+    <Title>SPH CaL Array RMS - Control</Title>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SPHCaLArrayRMS.Core\SPHCaLArrayRMS.Core.csproj" />
+  </ItemGroup>
+</Project>
