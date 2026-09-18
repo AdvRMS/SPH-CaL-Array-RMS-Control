@@ -9,7 +9,7 @@ Experimental sequence-control software for arrayed electrified carbon capture.
 SPH CaL Array RMS (Reactor Management System) provides a modular interface for programming valve switching, electrical heating, delays, and repeated process sequences in the SPH calcium-looping (CaL) platform.
 
 Electrified fixed-bed CaL requires frequent transitions between CO2 capture by carbonation and electrically heated regeneration. These transitions require coordinated switching of both inlet and outlet flow paths together with the heating mode. This project provides the experimental sequence-control layer for that operation.
-[Figure 4-26V2.tif](https://github.com/user-attachments/files/32382146/Figure.4-26V2.tif)
+<img width="3053" height="3053" alt="Figure 4-26V2" src="https://github.com/user-attachments/assets/4b8ab5c9-0a76-4482-b19b-37adc786611a" />
 The broader array concept uses **time-division multiplexing of a shared electrical supply**: regeneration power is allocated sequentially among reactors instead of providing a dedicated supply for every reactor. With suitable cycle timing and switching hardware, this can reduce power-equipment cost and support a smaller system footprint and higher system-level space–time yield. These are system-design objectives, not performance guarantees provided by the software.
 
 <img width="1800" height="1200" alt="7508f9ec1dbe96bb0e8cfd08cdea4a19" src="https://github.com/user-attachments/assets/606f4cbf-0f7c-41b6-8c3e-3f28cbe74473" />
