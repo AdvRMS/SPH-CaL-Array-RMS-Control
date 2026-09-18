@@ -1,0 +1,4152 @@
+﻿[10:20:50.563] System monitor started.
+[10:20:52.830] Valve Relay Board connected on COM9.
+[10:20:53.868] Heater Relay Board connected on COM10.
+[10:21:01.099] Process loaded: process06015.json.
+[10:21:31.212] Process started with 34 steps and 1 global loop(s).
+[10:21:31.214] Wait 5.00 s.
+[10:21:36.237] Heater parameters sent: CH2, 13277 W.
+[10:21:36.250] Heater Relay Board Y7 -> ON.
+[10:21:36.250] Heater CH2, 13277 W, On, 0.34 s.
+[10:21:36.611] Heater Relay Board Y7 -> OFF.
+[10:21:36.611] Heater CH2, 0 W, Off, 0.36 s.
+[10:21:36.990] Heater parameters sent: CH4, 13277 W.
+[10:21:37.001] Heater Relay Board Y7 -> ON.
+[10:21:37.001] Heater CH4, 13277 W, On, 0.34 s.
+[10:21:37.362] Heater Relay Board Y7 -> OFF.
+[10:21:37.362] Heater CH4, 0 W, Off, 0.36 s.
+[10:21:37.741] Heater parameters sent: CH1, 13277 W.
+[10:21:37.752] Heater Relay Board Y7 -> ON.
+[10:21:37.752] Heater CH1, 13277 W, On, 0.34 s.
+[10:21:38.112] Heater Relay Board Y7 -> OFF.
+[10:21:38.112] Heater CH1, 0 W, Off, 0.36 s.
+[10:21:38.495] Heater parameters sent: CH3, 13277 W.
+[10:21:38.505] Heater Relay Board Y7 -> ON.
+[10:21:38.505] Heater CH3, 13277 W, On, 0.34 s.
+[10:21:38.867] Heater Relay Board Y7 -> OFF.
+[10:21:38.867] Heater CH3, 0 W, Off, 0.36 s.
+[10:21:39.228] Wait 13.20 s.
+[10:21:52.448] Valve Relay Board Y2 -> ON.
+[10:21:52.448] D2 -> Open.
+[10:21:52.460] Valve Relay Board Y4 -> ON.
+[10:21:52.460] D4 -> Open.
+[10:21:52.472] Valve Relay Board Y1 -> ON.
+[10:21:52.472] D1 -> Open.
+[10:21:52.484] Valve Relay Board Y3 -> ON.
+[10:21:52.484] D3 -> Open.
+[10:21:52.484] Wait 4.00 s.
+[10:21:56.508] Heater parameters sent: CH2, 4611 W.
+[10:21:56.519] Heater Relay Board Y7 -> ON.
+[10:21:56.519] Heater CH2, 4611 W, On, 0.50 s.
+[10:21:57.033] Heater Relay Board Y7 -> OFF.
+[10:21:57.033] Heater CH2, 0 W, Off, 0.20 s.
+[10:21:57.255] Heater parameters sent: CH4, 4611 W.
+[10:21:57.266] Heater Relay Board Y7 -> ON.
+[10:21:57.266] Heater CH4, 4611 W, On, 0.50 s.
+[10:21:57.781] Heater Relay Board Y7 -> OFF.
+[10:21:57.781] Heater CH4, 0 W, Off, 0.20 s.
+[10:21:58.004] Heater parameters sent: CH1, 4611 W.
+[10:21:58.015] Heater Relay Board Y7 -> ON.
+[10:21:58.016] Heater CH1, 4611 W, On, 0.50 s.
+[10:21:58.532] Heater Relay Board Y7 -> OFF.
+[10:21:58.532] Heater CH1, 0 W, Off, 0.20 s.
+[10:21:58.755] Heater parameters sent: CH3, 4611 W.
+[10:21:58.765] Heater Relay Board Y7 -> ON.
+[10:21:58.765] Heater CH3, 4611 W, On, 0.50 s.
+[10:21:59.281] Heater Relay Board Y7 -> OFF.
+[10:21:59.282] Heater CH3, 0 W, Off, 0.20 s.
+[10:21:59.489] Wait 165.20 s.
+[10:24:44.709] Valve Relay Board Y2 -> OFF.
+[10:24:44.709] D2 -> Close.
+[10:24:44.709] Wait 1.00 s.
+[10:24:45.725] Valve Relay Board Y4 -> OFF.
+[10:24:45.725] D4 -> Close.
+[10:24:45.726] Wait 1.00 s.
+[10:24:46.748] Valve Relay Board Y1 -> OFF.
+[10:24:46.748] D1 -> Close.
+[10:24:46.748] Wait 1.00 s.
+[10:24:47.767] Valve Relay Board Y3 -> OFF.
+[10:24:47.767] D3 -> Close.
+[10:24:47.767] Wait 9.00 s.
+[10:24:56.783] Heater parameters sent: CH2, 13277 W.
+[10:24:56.796] Heater Relay Board Y7 -> ON.
+[10:24:56.796] Heater CH2, 13277 W, On, 0.34 s.
+[10:24:57.160] Heater Relay Board Y7 -> OFF.
+[10:24:57.161] Heater CH2, 0 W, Off, 0.36 s.
+[10:24:57.539] Heater parameters sent: CH4, 13277 W.
+[10:24:57.550] Heater Relay Board Y7 -> ON.
+[10:24:57.550] Heater CH4, 13277 W, On, 0.34 s.
+[10:24:57.911] Heater Relay Board Y7 -> OFF.
+[10:24:57.911] Heater CH4, 0 W, Off, 0.36 s.
+[10:24:58.293] Heater parameters sent: CH1, 13277 W.
+[10:24:58.305] Heater Relay Board Y7 -> ON.
+[10:24:58.305] Heater CH1, 13277 W, On, 0.34 s.
+[10:24:58.668] Heater Relay Board Y7 -> OFF.
+[10:24:58.668] Heater CH1, 0 W, Off, 0.36 s.
+[10:24:59.048] Heater parameters sent: CH3, 13277 W.
+[10:24:59.060] Heater Relay Board Y7 -> ON.
+[10:24:59.060] Heater CH3, 13277 W, On, 0.34 s.
+[10:24:59.426] Heater Relay Board Y7 -> OFF.
+[10:24:59.426] Heater CH3, 0 W, Off, 0.36 s.
+[10:24:59.789] Wait 13.20 s.
+[10:25:13.014] Valve Relay Board Y2 -> ON.
+[10:25:13.014] D2 -> Open.
+[10:25:13.027] Valve Relay Board Y4 -> ON.
+[10:25:13.027] D4 -> Open.
+[10:25:13.040] Valve Relay Board Y1 -> ON.
+[10:25:13.040] D1 -> Open.
+[10:25:13.054] Valve Relay Board Y3 -> ON.
+[10:25:13.054] D3 -> Open.
+[10:25:13.054] Wait 4.00 s.
+[10:25:17.084] Heater parameters sent: CH2, 4611 W.
+[10:25:17.096] Heater Relay Board Y7 -> ON.
+[10:25:17.096] Heater CH2, 4611 W, On, 0.50 s.
+[10:25:17.614] Heater Relay Board Y7 -> OFF.
+[10:25:17.614] Heater CH2, 0 W, Off, 0.20 s.
+[10:25:17.837] Heater parameters sent: CH4, 4611 W.
+[10:25:17.849] Heater Relay Board Y7 -> ON.
+[10:25:17.849] Heater CH4, 4611 W, On, 0.50 s.
+[10:25:18.366] Heater Relay Board Y7 -> OFF.
+[10:25:18.366] Heater CH4, 0 W, Off, 0.20 s.
+[10:25:18.591] Heater parameters sent: CH1, 4611 W.
+[10:25:18.603] Heater Relay Board Y7 -> ON.
+[10:25:18.603] Heater CH1, 4611 W, On, 0.50 s.
+[10:25:19.118] Heater Relay Board Y7 -> OFF.
+[10:25:19.119] Heater CH1, 0 W, Off, 0.20 s.
+[10:25:19.341] Heater parameters sent: CH3, 4611 W.
+[10:25:19.353] Heater Relay Board Y7 -> ON.
+[10:25:19.353] Heater CH3, 4611 W, On, 0.50 s.
+[10:25:19.872] Heater Relay Board Y7 -> OFF.
+[10:25:19.872] Heater CH3, 0 W, Off, 0.20 s.
+[10:25:20.079] Wait 165.20 s.
+[10:28:05.301] Valve Relay Board Y2 -> OFF.
+[10:28:05.301] D2 -> Close.
+[10:28:05.302] Wait 1.00 s.
+[10:28:06.320] Valve Relay Board Y4 -> OFF.
+[10:28:06.320] D4 -> Close.
+[10:28:06.321] Wait 1.00 s.
+[10:28:07.341] Valve Relay Board Y1 -> OFF.
+[10:28:07.341] D1 -> Close.
+[10:28:07.341] Wait 1.00 s.
+[10:28:08.363] Valve Relay Board Y3 -> OFF.
+[10:28:08.363] D3 -> Close.
+[10:28:08.363] Wait 9.00 s.
+[10:28:17.384] Heater parameters sent: CH2, 13277 W.
+[10:28:17.396] Heater Relay Board Y7 -> ON.
+[10:28:17.396] Heater CH2, 13277 W, On, 0.34 s.
+[10:28:17.755] Heater Relay Board Y7 -> OFF.
+[10:28:17.755] Heater CH2, 0 W, Off, 0.36 s.
+[10:28:18.135] Heater parameters sent: CH4, 13277 W.
+[10:28:18.146] Heater Relay Board Y7 -> ON.
+[10:28:18.146] Heater CH4, 13277 W, On, 0.34 s.
+[10:28:18.508] Heater Relay Board Y7 -> OFF.
+[10:28:18.508] Heater CH4, 0 W, Off, 0.36 s.
+[10:28:18.885] Heater parameters sent: CH1, 13277 W.
+[10:28:18.896] Heater Relay Board Y7 -> ON.
+[10:28:18.896] Heater CH1, 13277 W, On, 0.34 s.
+[10:28:19.263] Heater Relay Board Y7 -> OFF.
+[10:28:19.263] Heater CH1, 0 W, Off, 0.36 s.
+[10:28:19.640] Heater parameters sent: CH3, 13277 W.
+[10:28:19.651] Heater Relay Board Y7 -> ON.
+[10:28:19.651] Heater CH3, 13277 W, On, 0.34 s.
+[10:28:20.015] Heater Relay Board Y7 -> OFF.
+[10:28:20.015] Heater CH3, 0 W, Off, 0.36 s.
+[10:28:20.381] Wait 13.20 s.
+[10:28:33.608] Valve Relay Board Y2 -> ON.
+[10:28:33.608] D2 -> Open.
+[10:28:33.621] Valve Relay Board Y4 -> ON.
+[10:28:33.621] D4 -> Open.
+[10:28:33.634] Valve Relay Board Y1 -> ON.
+[10:28:33.634] D1 -> Open.
+[10:28:33.647] Valve Relay Board Y3 -> ON.
+[10:28:33.647] D3 -> Open.
+[10:28:33.647] Wait 4.00 s.
+[10:28:37.677] Heater parameters sent: CH2, 4611 W.
+[10:28:37.689] Heater Relay Board Y7 -> ON.
+[10:28:37.689] Heater CH2, 4611 W, On, 0.50 s.
+[10:28:38.209] Heater Relay Board Y7 -> OFF.
+[10:28:38.209] Heater CH2, 0 W, Off, 0.20 s.
+[10:28:38.433] Heater parameters sent: CH4, 4611 W.
+[10:28:38.445] Heater Relay Board Y7 -> ON.
+[10:28:38.445] Heater CH4, 4611 W, On, 0.50 s.
+[10:28:38.963] Heater Relay Board Y7 -> OFF.
+[10:28:38.963] Heater CH4, 0 W, Off, 0.20 s.
+[10:28:39.187] Heater parameters sent: CH1, 4611 W.
+[10:28:39.199] Heater Relay Board Y7 -> ON.
+[10:28:39.199] Heater CH1, 4611 W, On, 0.50 s.
+[10:28:39.720] Heater Relay Board Y7 -> OFF.
+[10:28:39.720] Heater CH1, 0 W, Off, 0.20 s.
+[10:28:39.943] Heater parameters sent: CH3, 4611 W.
+[10:28:39.955] Heater Relay Board Y7 -> ON.
+[10:28:39.955] Heater CH3, 4611 W, On, 0.50 s.
+[10:28:40.474] Heater Relay Board Y7 -> OFF.
+[10:28:40.474] Heater CH3, 0 W, Off, 0.20 s.
+[10:28:40.678] Wait 165.20 s.
+[10:31:25.898] Valve Relay Board Y2 -> OFF.
+[10:31:25.899] D2 -> Close.
+[10:31:25.899] Wait 1.00 s.
+[10:31:26.918] Valve Relay Board Y4 -> OFF.
+[10:31:26.918] D4 -> Close.
+[10:31:26.918] Wait 1.00 s.
+[10:31:27.936] Valve Relay Board Y1 -> OFF.
+[10:31:27.936] D1 -> Close.
+[10:31:27.936] Wait 1.00 s.
+[10:31:28.959] Valve Relay Board Y3 -> OFF.
+[10:31:28.959] D3 -> Close.
+[10:31:28.959] Wait 9.00 s.
+[10:31:37.979] Heater parameters sent: CH2, 13277 W.
+[10:31:37.990] Heater Relay Board Y7 -> ON.
+[10:31:37.990] Heater CH2, 13277 W, On, 0.34 s.
+[10:31:38.353] Heater Relay Board Y7 -> OFF.
+[10:31:38.353] Heater CH2, 0 W, Off, 0.36 s.
+[10:31:38.729] Heater parameters sent: CH4, 13277 W.
+[10:31:38.742] Heater Relay Board Y7 -> ON.
+[10:31:38.742] Heater CH4, 13277 W, On, 0.34 s.
+[10:31:39.105] Heater Relay Board Y7 -> OFF.
+[10:31:39.105] Heater CH4, 0 W, Off, 0.36 s.
+[10:31:39.495] Heater parameters sent: CH1, 13277 W.
+[10:31:39.507] Heater Relay Board Y7 -> ON.
+[10:31:39.508] Heater CH1, 13277 W, On, 0.34 s.
+[10:31:39.872] Heater Relay Board Y7 -> OFF.
+[10:31:39.872] Heater CH1, 0 W, Off, 0.36 s.
+[10:31:40.263] Heater parameters sent: CH3, 13277 W.
+[10:31:40.275] Heater Relay Board Y7 -> ON.
+[10:31:40.275] Heater CH3, 13277 W, On, 0.34 s.
+[10:31:40.638] Heater Relay Board Y7 -> OFF.
+[10:31:40.638] Heater CH3, 0 W, Off, 0.36 s.
+[10:31:41.003] Wait 13.20 s.
+[10:31:54.226] Valve Relay Board Y2 -> ON.
+[10:31:54.226] D2 -> Open.
+[10:31:54.239] Valve Relay Board Y4 -> ON.
+[10:31:54.240] D4 -> Open.
+[10:31:54.252] Valve Relay Board Y1 -> ON.
+[10:31:54.252] D1 -> Open.
+[10:31:54.265] Valve Relay Board Y3 -> ON.
+[10:31:54.265] D3 -> Open.
+[10:31:54.265] Wait 4.00 s.
+[10:31:58.282] Heater parameters sent: CH2, 4611 W.
+[10:31:58.294] Heater Relay Board Y7 -> ON.
+[10:31:58.294] Heater CH2, 4611 W, On, 0.50 s.
+[10:31:58.814] Heater Relay Board Y7 -> OFF.
+[10:31:58.814] Heater CH2, 0 W, Off, 0.20 s.
+[10:31:59.037] Heater parameters sent: CH4, 4611 W.
+[10:31:59.050] Heater Relay Board Y7 -> ON.
+[10:31:59.050] Heater CH4, 4611 W, On, 0.50 s.
+[10:31:59.569] Heater Relay Board Y7 -> OFF.
+[10:31:59.570] Heater CH4, 0 W, Off, 0.20 s.
+[10:31:59.790] Heater parameters sent: CH1, 4611 W.
+[10:31:59.801] Heater Relay Board Y7 -> ON.
+[10:31:59.801] Heater CH1, 4611 W, On, 0.50 s.
+[10:32:00.322] Heater Relay Board Y7 -> OFF.
+[10:32:00.322] Heater CH1, 0 W, Off, 0.20 s.
+[10:32:00.545] Heater parameters sent: CH3, 4611 W.
+[10:32:00.557] Heater Relay Board Y7 -> ON.
+[10:32:00.557] Heater CH3, 4611 W, On, 0.50 s.
+[10:32:01.075] Heater Relay Board Y7 -> OFF.
+[10:32:01.075] Heater CH3, 0 W, Off, 0.20 s.
+[10:32:01.282] Wait 165.20 s.
+[10:34:46.496] Valve Relay Board Y2 -> OFF.
+[10:34:46.496] D2 -> Close.
+[10:34:46.496] Wait 1.00 s.
+[10:34:47.523] Valve Relay Board Y4 -> OFF.
+[10:34:47.523] D4 -> Close.
+[10:34:47.523] Wait 1.00 s.
+[10:34:48.547] Valve Relay Board Y1 -> OFF.
+[10:34:48.547] D1 -> Close.
+[10:34:48.547] Wait 1.00 s.
+[10:34:49.572] Valve Relay Board Y3 -> OFF.
+[10:34:49.573] D3 -> Close.
+[10:34:49.573] Wait 9.00 s.
+[10:34:58.598] Heater parameters sent: CH2, 13277 W.
+[10:34:58.610] Heater Relay Board Y7 -> ON.
+[10:34:58.610] Heater CH2, 13277 W, On, 0.34 s.
+[10:34:58.972] Heater Relay Board Y7 -> OFF.
+[10:34:58.972] Heater CH2, 0 W, Off, 0.36 s.
+[10:34:59.354] Heater parameters sent: CH4, 13277 W.
+[10:34:59.366] Heater Relay Board Y7 -> ON.
+[10:34:59.366] Heater CH4, 13277 W, On, 0.34 s.
+[10:34:59.726] Heater Relay Board Y7 -> OFF.
+[10:34:59.726] Heater CH4, 0 W, Off, 0.36 s.
+[10:35:00.103] Heater parameters sent: CH1, 13277 W.
+[10:35:00.116] Heater Relay Board Y7 -> ON.
+[10:35:00.116] Heater CH1, 13277 W, On, 0.34 s.
+[10:35:00.478] Heater Relay Board Y7 -> OFF.
+[10:35:00.478] Heater CH1, 0 W, Off, 0.36 s.
+[10:35:00.856] Heater parameters sent: CH3, 13277 W.
+[10:35:00.868] Heater Relay Board Y7 -> ON.
+[10:35:00.868] Heater CH3, 13277 W, On, 0.34 s.
+[10:35:01.227] Heater Relay Board Y7 -> OFF.
+[10:35:01.227] Heater CH3, 0 W, Off, 0.36 s.
+[10:35:01.591] Wait 13.20 s.
+[10:35:14.817] Valve Relay Board Y2 -> ON.
+[10:35:14.817] D2 -> Open.
+[10:35:14.830] Valve Relay Board Y4 -> ON.
+[10:35:14.830] D4 -> Open.
+[10:35:14.843] Valve Relay Board Y1 -> ON.
+[10:35:14.844] D1 -> Open.
+[10:35:14.857] Valve Relay Board Y3 -> ON.
+[10:35:14.857] D3 -> Open.
+[10:35:14.857] Wait 4.00 s.
+[10:35:18.885] Heater parameters sent: CH2, 4611 W.
+[10:35:18.897] Heater Relay Board Y7 -> ON.
+[10:35:18.898] Heater CH2, 4611 W, On, 0.50 s.
+[10:35:19.416] Heater Relay Board Y7 -> OFF.
+[10:35:19.416] Heater CH2, 0 W, Off, 0.20 s.
+[10:35:19.637] Heater parameters sent: CH4, 4611 W.
+[10:35:19.649] Heater Relay Board Y7 -> ON.
+[10:35:19.649] Heater CH4, 4611 W, On, 0.50 s.
+[10:35:20.172] Heater Relay Board Y7 -> OFF.
+[10:35:20.172] Heater CH4, 0 W, Off, 0.20 s.
+[10:35:20.392] Heater parameters sent: CH1, 4611 W.
+[10:35:20.405] Heater Relay Board Y7 -> ON.
+[10:35:20.405] Heater CH1, 4611 W, On, 0.50 s.
+[10:35:20.927] Heater Relay Board Y7 -> OFF.
+[10:35:20.927] Heater CH1, 0 W, Off, 0.20 s.
+[10:35:21.149] Heater parameters sent: CH3, 4611 W.
+[10:35:21.161] Heater Relay Board Y7 -> ON.
+[10:35:21.161] Heater CH3, 4611 W, On, 0.50 s.
+[10:35:21.682] Heater Relay Board Y7 -> OFF.
+[10:35:21.682] Heater CH3, 0 W, Off, 0.20 s.
+[10:35:21.888] Wait 165.20 s.
+[10:38:07.109] Valve Relay Board Y2 -> OFF.
+[10:38:07.109] D2 -> Close.
+[10:38:07.109] Wait 1.00 s.
+[10:38:08.132] Valve Relay Board Y4 -> OFF.
+[10:38:08.132] D4 -> Close.
+[10:38:08.132] Wait 1.00 s.
+[10:38:09.150] Valve Relay Board Y1 -> OFF.
+[10:38:09.150] D1 -> Close.
+[10:38:09.150] Wait 1.00 s.
+[10:38:10.176] Valve Relay Board Y3 -> OFF.
+[10:38:10.176] D3 -> Close.
+[10:38:10.176] Wait 9.00 s.
+[10:38:19.206] Heater parameters sent: CH2, 13277 W.
+[10:38:19.219] Heater Relay Board Y7 -> ON.
+[10:38:19.219] Heater CH2, 13277 W, On, 0.34 s.
+[10:38:19.579] Heater Relay Board Y7 -> OFF.
+[10:38:19.579] Heater CH2, 0 W, Off, 0.36 s.
+[10:38:19.959] Heater parameters sent: CH4, 13277 W.
+[10:38:19.970] Heater Relay Board Y7 -> ON.
+[10:38:19.970] Heater CH4, 13277 W, On, 0.34 s.
+[10:38:20.332] Heater Relay Board Y7 -> OFF.
+[10:38:20.332] Heater CH4, 0 W, Off, 0.36 s.
+[10:38:20.709] Heater parameters sent: CH1, 13277 W.
+[10:38:20.721] Heater Relay Board Y7 -> ON.
+[10:38:20.721] Heater CH1, 13277 W, On, 0.34 s.
+[10:38:21.083] Heater Relay Board Y7 -> OFF.
+[10:38:21.084] Heater CH1, 0 W, Off, 0.36 s.
+[10:38:21.460] Heater parameters sent: CH3, 13277 W.
+[10:38:21.472] Heater Relay Board Y7 -> ON.
+[10:38:21.472] Heater CH3, 13277 W, On, 0.34 s.
+[10:38:21.833] Heater Relay Board Y7 -> OFF.
+[10:38:21.833] Heater CH3, 0 W, Off, 0.36 s.
+[10:38:22.199] Wait 13.20 s.
+[10:38:35.423] Valve Relay Board Y2 -> ON.
+[10:38:35.423] D2 -> Open.
+[10:38:35.437] Valve Relay Board Y4 -> ON.
+[10:38:35.437] D4 -> Open.
+[10:38:35.450] Valve Relay Board Y1 -> ON.
+[10:38:35.450] D1 -> Open.
+[10:38:35.464] Valve Relay Board Y3 -> ON.
+[10:38:35.464] D3 -> Open.
+[10:38:35.464] Wait 4.00 s.
+[10:38:39.481] Heater parameters sent: CH2, 4611 W.
+[10:38:39.493] Heater Relay Board Y7 -> ON.
+[10:38:39.493] Heater CH2, 4611 W, On, 0.50 s.
+[10:38:40.008] Heater Relay Board Y7 -> OFF.
+[10:38:40.008] Heater CH2, 0 W, Off, 0.20 s.
+[10:38:40.232] Heater parameters sent: CH4, 4611 W.
+[10:38:40.244] Heater Relay Board Y7 -> ON.
+[10:38:40.244] Heater CH4, 4611 W, On, 0.50 s.
+[10:38:40.764] Heater Relay Board Y7 -> OFF.
+[10:38:40.764] Heater CH4, 0 W, Off, 0.20 s.
+[10:38:40.985] Heater parameters sent: CH1, 4611 W.
+[10:38:40.996] Heater Relay Board Y7 -> ON.
+[10:38:40.996] Heater CH1, 4611 W, On, 0.50 s.
+[10:38:41.518] Heater Relay Board Y7 -> OFF.
+[10:38:41.518] Heater CH1, 0 W, Off, 0.20 s.
+[10:38:41.738] Heater parameters sent: CH3, 4611 W.
+[10:38:41.749] Heater Relay Board Y7 -> ON.
+[10:38:41.749] Heater CH3, 4611 W, On, 0.50 s.
+[10:38:42.268] Heater Relay Board Y7 -> OFF.
+[10:38:42.268] Heater CH3, 0 W, Off, 0.20 s.
+[10:38:42.478] Wait 165.20 s.
+[10:41:27.698] Valve Relay Board Y2 -> OFF.
+[10:41:27.698] D2 -> Close.
+[10:41:27.699] Wait 1.00 s.
+[10:41:28.719] Valve Relay Board Y4 -> OFF.
+[10:41:28.720] D4 -> Close.
+[10:41:28.720] Wait 1.00 s.
+[10:41:29.735] Valve Relay Board Y1 -> OFF.
+[10:41:29.735] D1 -> Close.
+[10:41:29.736] Wait 1.00 s.
+[10:41:30.754] Valve Relay Board Y3 -> OFF.
+[10:41:30.754] D3 -> Close.
+[10:41:30.754] Wait 9.00 s.
+[10:41:39.777] Heater parameters sent: CH2, 13277 W.
+[10:41:39.789] Heater Relay Board Y7 -> ON.
+[10:41:39.789] Heater CH2, 13277 W, On, 0.34 s.
+[10:41:40.152] Heater Relay Board Y7 -> OFF.
+[10:41:40.152] Heater CH2, 0 W, Off, 0.36 s.
+[10:41:40.535] Heater parameters sent: CH4, 13277 W.
+[10:41:40.548] Heater Relay Board Y7 -> ON.
+[10:41:40.548] Heater CH4, 13277 W, On, 0.34 s.
+[10:41:40.906] Heater Relay Board Y7 -> OFF.
+[10:41:40.906] Heater CH4, 0 W, Off, 0.36 s.
+[10:41:41.284] Heater parameters sent: CH1, 13277 W.
+[10:41:41.296] Heater Relay Board Y7 -> ON.
+[10:41:41.296] Heater CH1, 13277 W, On, 0.34 s.
+[10:41:41.657] Heater Relay Board Y7 -> OFF.
+[10:41:41.657] Heater CH1, 0 W, Off, 0.36 s.
+[10:41:42.037] Heater parameters sent: CH3, 13277 W.
+[10:41:42.050] Heater Relay Board Y7 -> ON.
+[10:41:42.050] Heater CH3, 13277 W, On, 0.34 s.
+[10:41:42.412] Heater Relay Board Y7 -> OFF.
+[10:41:42.412] Heater CH3, 0 W, Off, 0.36 s.
+[10:41:42.774] Wait 13.20 s.
+[10:41:55.993] Valve Relay Board Y2 -> ON.
+[10:41:55.993] D2 -> Open.
+[10:41:56.006] Valve Relay Board Y4 -> ON.
+[10:41:56.006] D4 -> Open.
+[10:41:56.020] Valve Relay Board Y1 -> ON.
+[10:41:56.020] D1 -> Open.
+[10:41:56.032] Valve Relay Board Y3 -> ON.
+[10:41:56.033] D3 -> Open.
+[10:41:56.033] Wait 4.00 s.
+[10:42:00.049] Heater parameters sent: CH2, 4611 W.
+[10:42:00.061] Heater Relay Board Y7 -> ON.
+[10:42:00.061] Heater CH2, 4611 W, On, 0.50 s.
+[10:42:00.578] Heater Relay Board Y7 -> OFF.
+[10:42:00.578] Heater CH2, 0 W, Off, 0.20 s.
+[10:42:00.797] Heater parameters sent: CH4, 4611 W.
+[10:42:00.809] Heater Relay Board Y7 -> ON.
+[10:42:00.809] Heater CH4, 4611 W, On, 0.50 s.
+[10:42:01.328] Heater Relay Board Y7 -> OFF.
+[10:42:01.328] Heater CH4, 0 W, Off, 0.20 s.
+[10:42:01.548] Heater parameters sent: CH1, 4611 W.
+[10:42:01.560] Heater Relay Board Y7 -> ON.
+[10:42:01.560] Heater CH1, 4611 W, On, 0.50 s.
+[10:42:02.078] Heater Relay Board Y7 -> OFF.
+[10:42:02.078] Heater CH1, 0 W, Off, 0.20 s.
+[10:42:02.300] Heater parameters sent: CH3, 4611 W.
+[10:42:02.313] Heater Relay Board Y7 -> ON.
+[10:42:02.313] Heater CH3, 4611 W, On, 0.50 s.
+[10:42:02.829] Heater Relay Board Y7 -> OFF.
+[10:42:02.829] Heater CH3, 0 W, Off, 0.20 s.
+[10:42:03.037] Wait 165.20 s.
+[10:44:48.261] Valve Relay Board Y2 -> OFF.
+[10:44:48.261] D2 -> Close.
+[10:44:48.261] Wait 1.00 s.
+[10:44:49.286] Valve Relay Board Y4 -> OFF.
+[10:44:49.286] D4 -> Close.
+[10:44:49.287] Wait 1.00 s.
+[10:44:50.307] Valve Relay Board Y1 -> OFF.
+[10:44:50.307] D1 -> Close.
+[10:44:50.307] Wait 1.00 s.
+[10:44:51.325] Valve Relay Board Y3 -> OFF.
+[10:44:51.325] D3 -> Close.
+[10:44:51.325] Wait 9.00 s.
+[10:45:00.344] Heater parameters sent: CH2, 13277 W.
+[10:45:00.356] Heater Relay Board Y7 -> ON.
+[10:45:00.356] Heater CH2, 13277 W, On, 0.34 s.
+[10:45:00.716] Heater Relay Board Y7 -> OFF.
+[10:45:00.716] Heater CH2, 0 W, Off, 0.36 s.
+[10:45:01.094] Heater parameters sent: CH4, 13277 W.
+[10:45:01.107] Heater Relay Board Y7 -> ON.
+[10:45:01.107] Heater CH4, 13277 W, On, 0.34 s.
+[10:45:01.471] Heater Relay Board Y7 -> OFF.
+[10:45:01.471] Heater CH4, 0 W, Off, 0.36 s.
+[10:45:01.847] Heater parameters sent: CH1, 13277 W.
+[10:45:01.859] Heater Relay Board Y7 -> ON.
+[10:45:01.859] Heater CH1, 13277 W, On, 0.34 s.
+[10:45:02.220] Heater Relay Board Y7 -> OFF.
+[10:45:02.220] Heater CH1, 0 W, Off, 0.36 s.
+[10:45:02.600] Heater parameters sent: CH3, 13277 W.
+[10:45:02.613] Heater Relay Board Y7 -> ON.
+[10:45:02.613] Heater CH3, 13277 W, On, 0.34 s.
+[10:45:02.977] Heater Relay Board Y7 -> OFF.
+[10:45:02.977] Heater CH3, 0 W, Off, 0.36 s.
+[10:45:03.340] Wait 13.20 s.
+[10:45:16.562] Valve Relay Board Y2 -> ON.
+[10:45:16.562] D2 -> Open.
+[10:45:16.575] Valve Relay Board Y4 -> ON.
+[10:45:16.575] D4 -> Open.
+[10:45:16.589] Valve Relay Board Y1 -> ON.
+[10:45:16.590] D1 -> Open.
+[10:45:16.603] Valve Relay Board Y3 -> ON.
+[10:45:16.603] D3 -> Open.
+[10:45:16.604] Wait 4.00 s.
+[10:45:20.625] Heater parameters sent: CH2, 4611 W.
+[10:45:20.637] Heater Relay Board Y7 -> ON.
+[10:45:20.637] Heater CH2, 4611 W, On, 0.50 s.
+[10:45:21.159] Heater Relay Board Y7 -> OFF.
+[10:45:21.159] Heater CH2, 0 W, Off, 0.20 s.
+[10:45:21.383] Heater parameters sent: CH4, 4611 W.
+[10:45:21.395] Heater Relay Board Y7 -> ON.
+[10:45:21.395] Heater CH4, 4611 W, On, 0.50 s.
+[10:45:21.917] Heater Relay Board Y7 -> OFF.
+[10:45:21.918] Heater CH4, 0 W, Off, 0.20 s.
+[10:45:22.141] Heater parameters sent: CH1, 4611 W.
+[10:45:22.153] Heater Relay Board Y7 -> ON.
+[10:45:22.153] Heater CH1, 4611 W, On, 0.50 s.
+[10:45:22.668] Heater Relay Board Y7 -> OFF.
+[10:45:22.668] Heater CH1, 0 W, Off, 0.20 s.
+[10:45:22.889] Heater parameters sent: CH3, 4611 W.
+[10:45:22.900] Heater Relay Board Y7 -> ON.
+[10:45:22.901] Heater CH3, 4611 W, On, 0.50 s.
+[10:45:23.424] Heater Relay Board Y7 -> OFF.
+[10:45:23.424] Heater CH3, 0 W, Off, 0.20 s.
+[10:45:23.629] Wait 165.20 s.
+[10:48:08.844] Valve Relay Board Y2 -> OFF.
+[10:48:08.844] D2 -> Close.
+[10:48:08.844] Wait 1.00 s.
+[10:48:09.869] Valve Relay Board Y4 -> OFF.
+[10:48:09.869] D4 -> Close.
+[10:48:09.869] Wait 1.00 s.
+[10:48:10.886] Valve Relay Board Y1 -> OFF.
+[10:48:10.887] D1 -> Close.
+[10:48:10.887] Wait 1.00 s.
+[10:48:11.905] Valve Relay Board Y3 -> OFF.
+[10:48:11.905] D3 -> Close.
+[10:48:11.905] Wait 9.00 s.
+[10:48:20.931] Heater parameters sent: CH2, 13277 W.
+[10:48:20.943] Heater Relay Board Y7 -> ON.
+[10:48:20.943] Heater CH2, 13277 W, On, 0.34 s.
+[10:48:21.306] Heater Relay Board Y7 -> OFF.
+[10:48:21.306] Heater CH2, 0 W, Off, 0.36 s.
+[10:48:21.696] Heater parameters sent: CH4, 13277 W.
+[10:48:21.709] Heater Relay Board Y7 -> ON.
+[10:48:21.709] Heater CH4, 13277 W, On, 0.34 s.
+[10:48:22.193] Heater Relay Board Y7 -> OFF.
+[10:48:22.193] Heater CH4, 0 W, Off, 0.36 s.
+[10:48:22.575] Heater parameters sent: CH1, 13277 W.
+[10:48:22.587] Heater Relay Board Y7 -> ON.
+[10:48:22.587] Heater CH1, 13277 W, On, 0.34 s.
+[10:48:22.949] Heater Relay Board Y7 -> OFF.
+[10:48:22.949] Heater CH1, 0 W, Off, 0.36 s.
+[10:48:23.331] Heater parameters sent: CH3, 13277 W.
+[10:48:23.343] Heater Relay Board Y7 -> ON.
+[10:48:23.344] Heater CH3, 13277 W, On, 0.34 s.
+[10:48:23.708] Heater Relay Board Y7 -> OFF.
+[10:48:23.708] Heater CH3, 0 W, Off, 0.36 s.
+[10:48:24.073] Wait 13.20 s.
+[10:48:37.292] Valve Relay Board Y2 -> ON.
+[10:48:37.292] D2 -> Open.
+[10:48:37.306] Valve Relay Board Y4 -> ON.
+[10:48:37.306] D4 -> Open.
+[10:48:37.320] Valve Relay Board Y1 -> ON.
+[10:48:37.320] D1 -> Open.
+[10:48:37.332] Valve Relay Board Y3 -> ON.
+[10:48:37.332] D3 -> Open.
+[10:48:37.332] Wait 4.00 s.
+[10:48:41.361] Heater parameters sent: CH2, 4611 W.
+[10:48:41.375] Heater Relay Board Y7 -> ON.
+[10:48:41.375] Heater CH2, 4611 W, On, 0.50 s.
+[10:48:41.890] Heater Relay Board Y7 -> OFF.
+[10:48:41.890] Heater CH2, 0 W, Off, 0.20 s.
+[10:48:42.109] Heater parameters sent: CH4, 4611 W.
+[10:48:42.121] Heater Relay Board Y7 -> ON.
+[10:48:42.121] Heater CH4, 4611 W, On, 0.50 s.
+[10:48:42.639] Heater Relay Board Y7 -> OFF.
+[10:48:42.640] Heater CH4, 0 W, Off, 0.20 s.
+[10:48:42.860] Heater parameters sent: CH1, 4611 W.
+[10:48:42.872] Heater Relay Board Y7 -> ON.
+[10:48:42.872] Heater CH1, 4611 W, On, 0.50 s.
+[10:48:43.391] Heater Relay Board Y7 -> OFF.
+[10:48:43.392] Heater CH1, 0 W, Off, 0.20 s.
+[10:48:43.609] Heater parameters sent: CH3, 4611 W.
+[10:48:43.622] Heater Relay Board Y7 -> ON.
+[10:48:43.622] Heater CH3, 4611 W, On, 0.50 s.
+[10:48:44.141] Heater Relay Board Y7 -> OFF.
+[10:48:44.141] Heater CH3, 0 W, Off, 0.20 s.
+[10:48:44.346] Wait 165.20 s.
+[10:51:29.566] Valve Relay Board Y2 -> OFF.
+[10:51:29.566] D2 -> Close.
+[10:51:29.566] Wait 1.00 s.
+[10:51:30.586] Valve Relay Board Y4 -> OFF.
+[10:51:30.587] D4 -> Close.
+[10:51:30.587] Wait 1.00 s.
+[10:51:31.606] Valve Relay Board Y1 -> OFF.
+[10:51:31.606] D1 -> Close.
+[10:51:31.606] Wait 1.00 s.
+[10:51:32.625] Valve Relay Board Y3 -> OFF.
+[10:51:32.625] D3 -> Close.
+[10:51:32.625] Wait 9.00 s.
+[10:51:41.645] Heater parameters sent: CH2, 13277 W.
+[10:51:41.658] Heater Relay Board Y7 -> ON.
+[10:51:41.658] Heater CH2, 13277 W, On, 0.34 s.
+[10:51:42.020] Heater Relay Board Y7 -> OFF.
+[10:51:42.020] Heater CH2, 0 W, Off, 0.36 s.
+[10:51:42.399] Heater parameters sent: CH4, 13277 W.
+[10:51:42.411] Heater Relay Board Y7 -> ON.
+[10:51:42.411] Heater CH4, 13277 W, On, 0.34 s.
+[10:51:42.769] Heater Relay Board Y7 -> OFF.
+[10:51:42.770] Heater CH4, 0 W, Off, 0.36 s.
+[10:51:43.161] Heater parameters sent: CH1, 13277 W.
+[10:51:43.173] Heater Relay Board Y7 -> ON.
+[10:51:43.174] Heater CH1, 13277 W, On, 0.34 s.
+[10:51:43.533] Heater Relay Board Y7 -> OFF.
+[10:51:43.533] Heater CH1, 0 W, Off, 0.36 s.
+[10:51:43.912] Heater parameters sent: CH3, 13277 W.
+[10:51:43.924] Heater Relay Board Y7 -> ON.
+[10:51:43.925] Heater CH3, 13277 W, On, 0.34 s.
+[10:51:44.288] Heater Relay Board Y7 -> OFF.
+[10:51:44.288] Heater CH3, 0 W, Off, 0.36 s.
+[10:51:44.653] Wait 13.20 s.
+[10:51:57.879] Valve Relay Board Y2 -> ON.
+[10:51:57.879] D2 -> Open.
+[10:51:57.892] Valve Relay Board Y4 -> ON.
+[10:51:57.892] D4 -> Open.
+[10:51:57.906] Valve Relay Board Y1 -> ON.
+[10:51:57.906] D1 -> Open.
+[10:51:57.920] Valve Relay Board Y3 -> ON.
+[10:51:57.920] D3 -> Open.
+[10:51:57.921] Wait 4.00 s.
+[10:52:01.945] Heater parameters sent: CH2, 4611 W.
+[10:52:01.956] Heater Relay Board Y7 -> ON.
+[10:52:01.956] Heater CH2, 4611 W, On, 0.50 s.
+[10:52:02.476] Heater Relay Board Y7 -> OFF.
+[10:52:02.476] Heater CH2, 0 W, Off, 0.20 s.
+[10:52:02.698] Heater parameters sent: CH4, 4611 W.
+[10:52:02.709] Heater Relay Board Y7 -> ON.
+[10:52:02.709] Heater CH4, 4611 W, On, 0.50 s.
+[10:52:03.228] Heater Relay Board Y7 -> OFF.
+[10:52:03.228] Heater CH4, 0 W, Off, 0.20 s.
+[10:52:03.450] Heater parameters sent: CH1, 4611 W.
+[10:52:03.461] Heater Relay Board Y7 -> ON.
+[10:52:03.461] Heater CH1, 4611 W, On, 0.50 s.
+[10:52:03.981] Heater Relay Board Y7 -> OFF.
+[10:52:03.981] Heater CH1, 0 W, Off, 0.20 s.
+[10:52:04.206] Heater parameters sent: CH3, 4611 W.
+[10:52:04.219] Heater Relay Board Y7 -> ON.
+[10:52:04.219] Heater CH3, 4611 W, On, 0.50 s.
+[10:52:04.737] Heater Relay Board Y7 -> OFF.
+[10:52:04.737] Heater CH3, 0 W, Off, 0.20 s.
+[10:52:04.946] Wait 165.20 s.
+[10:54:50.168] Valve Relay Board Y2 -> OFF.
+[10:54:50.168] D2 -> Close.
+[10:54:50.168] Wait 1.00 s.
+[10:54:51.187] Valve Relay Board Y4 -> OFF.
+[10:54:51.187] D4 -> Close.
+[10:54:51.187] Wait 1.00 s.
+[10:54:52.204] Valve Relay Board Y1 -> OFF.
+[10:54:52.204] D1 -> Close.
+[10:54:52.204] Wait 1.00 s.
+[10:54:53.231] Valve Relay Board Y3 -> OFF.
+[10:54:53.231] D3 -> Close.
+[10:54:53.231] Wait 9.00 s.
+[10:55:02.256] Heater parameters sent: CH2, 13277 W.
+[10:55:02.268] Heater Relay Board Y7 -> ON.
+[10:55:02.269] Heater CH2, 13277 W, On, 0.34 s.
+[10:55:02.633] Heater Relay Board Y7 -> OFF.
+[10:55:02.633] Heater CH2, 0 W, Off, 0.36 s.
+[10:55:03.013] Heater parameters sent: CH4, 13277 W.
+[10:55:03.025] Heater Relay Board Y7 -> ON.
+[10:55:03.025] Heater CH4, 13277 W, On, 0.34 s.
+[10:55:03.387] Heater Relay Board Y7 -> OFF.
+[10:55:03.387] Heater CH4, 0 W, Off, 0.36 s.
+[10:55:03.766] Heater parameters sent: CH1, 13277 W.
+[10:55:03.779] Heater Relay Board Y7 -> ON.
+[10:55:03.779] Heater CH1, 13277 W, On, 0.34 s.
+[10:55:04.141] Heater Relay Board Y7 -> OFF.
+[10:55:04.141] Heater CH1, 0 W, Off, 0.36 s.
+[10:55:04.521] Heater parameters sent: CH3, 13277 W.
+[10:55:04.533] Heater Relay Board Y7 -> ON.
+[10:55:04.533] Heater CH3, 13277 W, On, 0.34 s.
+[10:55:04.896] Heater Relay Board Y7 -> OFF.
+[10:55:04.896] Heater CH3, 0 W, Off, 0.36 s.
+[10:55:05.259] Wait 13.20 s.
+[10:55:18.487] Valve Relay Board Y2 -> ON.
+[10:55:18.487] D2 -> Open.
+[10:55:18.500] Valve Relay Board Y4 -> ON.
+[10:55:18.500] D4 -> Open.
+[10:55:18.513] Valve Relay Board Y1 -> ON.
+[10:55:18.514] D1 -> Open.
+[10:55:18.527] Valve Relay Board Y3 -> ON.
+[10:55:18.527] D3 -> Open.
+[10:55:18.527] Wait 4.00 s.
+[10:55:22.555] Heater parameters sent: CH2, 4611 W.
+[10:55:22.567] Heater Relay Board Y7 -> ON.
+[10:55:22.567] Heater CH2, 4611 W, On, 0.50 s.
+[10:55:23.084] Heater Relay Board Y7 -> OFF.
+[10:55:23.084] Heater CH2, 0 W, Off, 0.20 s.
+[10:55:23.304] Heater parameters sent: CH4, 4611 W.
+[10:55:23.316] Heater Relay Board Y7 -> ON.
+[10:55:23.316] Heater CH4, 4611 W, On, 0.50 s.
+[10:55:23.836] Heater Relay Board Y7 -> OFF.
+[10:55:23.837] Heater CH4, 0 W, Off, 0.20 s.
+[10:55:24.059] Heater parameters sent: CH1, 4611 W.
+[10:55:24.070] Heater Relay Board Y7 -> ON.
+[10:55:24.070] Heater CH1, 4611 W, On, 0.50 s.
+[10:55:24.587] Heater Relay Board Y7 -> OFF.
+[10:55:24.587] Heater CH1, 0 W, Off, 0.20 s.
+[10:55:24.813] Heater parameters sent: CH3, 4611 W.
+[10:55:24.825] Heater Relay Board Y7 -> ON.
+[10:55:24.825] Heater CH3, 4611 W, On, 0.50 s.
+[10:55:25.341] Heater Relay Board Y7 -> OFF.
+[10:55:25.341] Heater CH3, 0 W, Off, 0.20 s.
+[10:55:25.547] Wait 165.20 s.
+[10:58:10.773] Valve Relay Board Y2 -> OFF.
+[10:58:10.774] D2 -> Close.
+[10:58:10.774] Wait 1.00 s.
+[10:58:11.792] Valve Relay Board Y4 -> OFF.
+[10:58:11.792] D4 -> Close.
+[10:58:11.792] Wait 1.00 s.
+[10:58:12.815] Valve Relay Board Y1 -> OFF.
+[10:58:12.816] D1 -> Close.
+[10:58:12.816] Wait 1.00 s.
+[10:58:13.837] Valve Relay Board Y3 -> OFF.
+[10:58:13.837] D3 -> Close.
+[10:58:13.837] Wait 9.00 s.
+[10:58:22.855] Heater parameters sent: CH2, 13277 W.
+[10:58:22.867] Heater Relay Board Y7 -> ON.
+[10:58:22.867] Heater CH2, 13277 W, On, 0.34 s.
+[10:58:23.231] Heater Relay Board Y7 -> OFF.
+[10:58:23.231] Heater CH2, 0 W, Off, 0.36 s.
+[10:58:23.609] Heater parameters sent: CH4, 13277 W.
+[10:58:23.621] Heater Relay Board Y7 -> ON.
+[10:58:23.621] Heater CH4, 13277 W, On, 0.34 s.
+[10:58:23.981] Heater Relay Board Y7 -> OFF.
+[10:58:23.981] Heater CH4, 0 W, Off, 0.36 s.
+[10:58:24.357] Heater parameters sent: CH1, 13277 W.
+[10:58:24.370] Heater Relay Board Y7 -> ON.
+[10:58:24.370] Heater CH1, 13277 W, On, 0.34 s.
+[10:58:24.734] Heater Relay Board Y7 -> OFF.
+[10:58:24.734] Heater CH1, 0 W, Off, 0.36 s.
+[10:58:25.112] Heater parameters sent: CH3, 13277 W.
+[10:58:25.124] Heater Relay Board Y7 -> ON.
+[10:58:25.124] Heater CH3, 13277 W, On, 0.34 s.
+[10:58:25.486] Heater Relay Board Y7 -> OFF.
+[10:58:25.486] Heater CH3, 0 W, Off, 0.36 s.
+[10:58:25.851] Wait 13.20 s.
+[10:58:39.080] Valve Relay Board Y2 -> ON.
+[10:58:39.080] D2 -> Open.
+[10:58:39.094] Valve Relay Board Y4 -> ON.
+[10:58:39.094] D4 -> Open.
+[10:58:39.107] Valve Relay Board Y1 -> ON.
+[10:58:39.107] D1 -> Open.
+[10:58:39.120] Valve Relay Board Y3 -> ON.
+[10:58:39.120] D3 -> Open.
+[10:58:39.120] Wait 4.00 s.
+[10:58:43.141] Heater parameters sent: CH2, 4611 W.
+[10:58:43.154] Heater Relay Board Y7 -> ON.
+[10:58:43.154] Heater CH2, 4611 W, On, 0.50 s.
+[10:58:43.671] Heater Relay Board Y7 -> OFF.
+[10:58:43.671] Heater CH2, 0 W, Off, 0.20 s.
+[10:58:43.891] Heater parameters sent: CH4, 4611 W.
+[10:58:43.903] Heater Relay Board Y7 -> ON.
+[10:58:43.903] Heater CH4, 4611 W, On, 0.50 s.
+[10:58:44.423] Heater Relay Board Y7 -> OFF.
+[10:58:44.423] Heater CH4, 0 W, Off, 0.20 s.
+[10:58:44.646] Heater parameters sent: CH1, 4611 W.
+[10:58:44.658] Heater Relay Board Y7 -> ON.
+[10:58:44.658] Heater CH1, 4611 W, On, 0.50 s.
+[10:58:45.181] Heater Relay Board Y7 -> OFF.
+[10:58:45.181] Heater CH1, 0 W, Off, 0.20 s.
+[10:58:45.402] Heater parameters sent: CH3, 4611 W.
+[10:58:45.414] Heater Relay Board Y7 -> ON.
+[10:58:45.414] Heater CH3, 4611 W, On, 0.50 s.
+[10:58:45.933] Heater Relay Board Y7 -> OFF.
+[10:58:45.934] Heater CH3, 0 W, Off, 0.20 s.
+[10:58:46.141] Wait 165.20 s.
+[11:01:31.357] Valve Relay Board Y2 -> OFF.
+[11:01:31.357] D2 -> Close.
+[11:01:31.357] Wait 1.00 s.
+[11:01:32.370] Valve Relay Board Y4 -> OFF.
+[11:01:32.370] D4 -> Close.
+[11:01:32.370] Wait 1.00 s.
+[11:01:33.387] Valve Relay Board Y1 -> OFF.
+[11:01:33.387] D1 -> Close.
+[11:01:33.387] Wait 1.00 s.
+[11:01:34.413] Valve Relay Board Y3 -> OFF.
+[11:01:34.413] D3 -> Close.
+[11:01:34.413] Wait 9.00 s.
+[11:01:43.438] Heater parameters sent: CH2, 13277 W.
+[11:01:43.450] Heater Relay Board Y7 -> ON.
+[11:01:43.450] Heater CH2, 13277 W, On, 0.34 s.
+[11:01:43.812] Heater Relay Board Y7 -> OFF.
+[11:01:43.812] Heater CH2, 0 W, Off, 0.36 s.
+[11:01:44.189] Heater parameters sent: CH4, 13277 W.
+[11:01:44.202] Heater Relay Board Y7 -> ON.
+[11:01:44.202] Heater CH4, 13277 W, On, 0.34 s.
+[11:01:44.567] Heater Relay Board Y7 -> OFF.
+[11:01:44.567] Heater CH4, 0 W, Off, 0.36 s.
+[11:01:44.945] Heater parameters sent: CH1, 13277 W.
+[11:01:44.957] Heater Relay Board Y7 -> ON.
+[11:01:44.957] Heater CH1, 13277 W, On, 0.34 s.
+[11:01:45.319] Heater Relay Board Y7 -> OFF.
+[11:01:45.319] Heater CH1, 0 W, Off, 0.36 s.
+[11:01:45.698] Heater parameters sent: CH3, 13277 W.
+[11:01:45.711] Heater Relay Board Y7 -> ON.
+[11:01:45.711] Heater CH3, 13277 W, On, 0.34 s.
+[11:01:46.078] Heater Relay Board Y7 -> OFF.
+[11:01:46.078] Heater CH3, 0 W, Off, 0.36 s.
+[11:01:46.441] Wait 13.20 s.
+[11:01:59.664] Valve Relay Board Y2 -> ON.
+[11:01:59.665] D2 -> Open.
+[11:01:59.678] Valve Relay Board Y4 -> ON.
+[11:01:59.679] D4 -> Open.
+[11:01:59.692] Valve Relay Board Y1 -> ON.
+[11:01:59.692] D1 -> Open.
+[11:01:59.705] Valve Relay Board Y3 -> ON.
+[11:01:59.705] D3 -> Open.
+[11:01:59.705] Wait 4.00 s.
+[11:02:03.725] Heater parameters sent: CH2, 4611 W.
+[11:02:03.737] Heater Relay Board Y7 -> ON.
+[11:02:03.737] Heater CH2, 4611 W, On, 0.50 s.
+[11:02:04.253] Heater Relay Board Y7 -> OFF.
+[11:02:04.253] Heater CH2, 0 W, Off, 0.20 s.
+[11:02:04.476] Heater parameters sent: CH4, 4611 W.
+[11:02:04.488] Heater Relay Board Y7 -> ON.
+[11:02:04.488] Heater CH4, 4611 W, On, 0.50 s.
+[11:02:05.006] Heater Relay Board Y7 -> OFF.
+[11:02:05.007] Heater CH4, 0 W, Off, 0.20 s.
+[11:02:05.229] Heater parameters sent: CH1, 4611 W.
+[11:02:05.241] Heater Relay Board Y7 -> ON.
+[11:02:05.241] Heater CH1, 4611 W, On, 0.50 s.
+[11:02:05.763] Heater Relay Board Y7 -> OFF.
+[11:02:05.763] Heater CH1, 0 W, Off, 0.20 s.
+[11:02:05.986] Heater parameters sent: CH3, 4611 W.
+[11:02:05.998] Heater Relay Board Y7 -> ON.
+[11:02:05.998] Heater CH3, 4611 W, On, 0.50 s.
+[11:02:06.521] Heater Relay Board Y7 -> OFF.
+[11:02:06.521] Heater CH3, 0 W, Off, 0.20 s.
+[11:02:06.727] Wait 165.20 s.
+[11:04:51.944] Valve Relay Board Y2 -> OFF.
+[11:04:51.944] D2 -> Close.
+[11:04:51.945] Wait 1.00 s.
+[11:04:52.959] Valve Relay Board Y4 -> OFF.
+[11:04:52.959] D4 -> Close.
+[11:04:52.960] Wait 1.00 s.
+[11:04:53.977] Valve Relay Board Y1 -> OFF.
+[11:04:53.977] D1 -> Close.
+[11:04:53.978] Wait 1.00 s.
+[11:04:54.996] Valve Relay Board Y3 -> OFF.
+[11:04:54.996] D3 -> Close.
+[11:04:54.996] Wait 9.00 s.
+[11:05:04.015] Heater parameters sent: CH2, 13277 W.
+[11:05:04.027] Heater Relay Board Y7 -> ON.
+[11:05:04.027] Heater CH2, 13277 W, On, 0.34 s.
+[11:05:04.388] Heater Relay Board Y7 -> OFF.
+[11:05:04.388] Heater CH2, 0 W, Off, 0.36 s.
+[11:05:04.764] Heater parameters sent: CH4, 13277 W.
+[11:05:04.777] Heater Relay Board Y7 -> ON.
+[11:05:04.777] Heater CH4, 13277 W, On, 0.34 s.
+[11:05:05.143] Heater Relay Board Y7 -> OFF.
+[11:05:05.143] Heater CH4, 0 W, Off, 0.36 s.
+[11:05:05.523] Heater parameters sent: CH1, 13277 W.
+[11:05:05.535] Heater Relay Board Y7 -> ON.
+[11:05:05.535] Heater CH1, 13277 W, On, 0.34 s.
+[11:05:05.896] Heater Relay Board Y7 -> OFF.
+[11:05:05.896] Heater CH1, 0 W, Off, 0.36 s.
+[11:05:06.276] Heater parameters sent: CH3, 13277 W.
+[11:05:06.288] Heater Relay Board Y7 -> ON.
+[11:05:06.288] Heater CH3, 13277 W, On, 0.34 s.
+[11:05:06.651] Heater Relay Board Y7 -> OFF.
+[11:05:06.651] Heater CH3, 0 W, Off, 0.36 s.
+[11:05:07.014] Wait 13.20 s.
+[11:05:20.241] Valve Relay Board Y2 -> ON.
+[11:05:20.241] D2 -> Open.
+[11:05:20.255] Valve Relay Board Y4 -> ON.
+[11:05:20.255] D4 -> Open.
+[11:05:20.268] Valve Relay Board Y1 -> ON.
+[11:05:20.268] D1 -> Open.
+[11:05:20.282] Valve Relay Board Y3 -> ON.
+[11:05:20.283] D3 -> Open.
+[11:05:20.283] Wait 4.00 s.
+[11:05:24.311] Heater parameters sent: CH2, 4611 W.
+[11:05:24.323] Heater Relay Board Y7 -> ON.
+[11:05:24.324] Heater CH2, 4611 W, On, 0.50 s.
+[11:05:24.842] Heater Relay Board Y7 -> OFF.
+[11:05:24.842] Heater CH2, 0 W, Off, 0.20 s.
+[11:05:25.064] Heater parameters sent: CH4, 4611 W.
+[11:05:25.076] Heater Relay Board Y7 -> ON.
+[11:05:25.077] Heater CH4, 4611 W, On, 0.50 s.
+[11:05:25.595] Heater Relay Board Y7 -> OFF.
+[11:05:25.595] Heater CH4, 0 W, Off, 0.20 s.
+[11:05:25.816] Heater parameters sent: CH1, 4611 W.
+[11:05:25.829] Heater Relay Board Y7 -> ON.
+[11:05:25.829] Heater CH1, 4611 W, On, 0.50 s.
+[11:05:26.350] Heater Relay Board Y7 -> OFF.
+[11:05:26.350] Heater CH1, 0 W, Off, 0.20 s.
+[11:05:26.572] Heater parameters sent: CH3, 4611 W.
+[11:05:26.584] Heater Relay Board Y7 -> ON.
+[11:05:26.584] Heater CH3, 4611 W, On, 0.50 s.
+[11:05:27.101] Heater Relay Board Y7 -> OFF.
+[11:05:27.101] Heater CH3, 0 W, Off, 0.20 s.
+[11:05:27.309] Wait 165.20 s.
+[11:08:12.539] Valve Relay Board Y2 -> OFF.
+[11:08:12.539] D2 -> Close.
+[11:08:12.539] Wait 1.00 s.
+[11:08:13.556] Valve Relay Board Y4 -> OFF.
+[11:08:13.556] D4 -> Close.
+[11:08:13.556] Wait 1.00 s.
+[11:08:14.577] Valve Relay Board Y1 -> OFF.
+[11:08:14.577] D1 -> Close.
+[11:08:14.577] Wait 1.00 s.
+[11:08:15.600] Valve Relay Board Y3 -> OFF.
+[11:08:15.600] D3 -> Close.
+[11:08:15.600] Wait 9.00 s.
+[11:08:24.629] Heater parameters sent: CH2, 13277 W.
+[11:08:24.641] Heater Relay Board Y7 -> ON.
+[11:08:24.641] Heater CH2, 13277 W, On, 0.34 s.
+[11:08:25.006] Heater Relay Board Y7 -> OFF.
+[11:08:25.006] Heater CH2, 0 W, Off, 0.36 s.
+[11:08:25.382] Heater parameters sent: CH4, 13277 W.
+[11:08:25.395] Heater Relay Board Y7 -> ON.
+[11:08:25.395] Heater CH4, 13277 W, On, 0.34 s.
+[11:08:25.756] Heater Relay Board Y7 -> OFF.
+[11:08:25.756] Heater CH4, 0 W, Off, 0.36 s.
+[11:08:26.144] Heater parameters sent: CH1, 13277 W.
+[11:08:26.157] Heater Relay Board Y7 -> ON.
+[11:08:26.157] Heater CH1, 13277 W, On, 0.34 s.
+[11:08:26.517] Heater Relay Board Y7 -> OFF.
+[11:08:26.517] Heater CH1, 0 W, Off, 0.36 s.
+[11:08:26.893] Heater parameters sent: CH3, 13277 W.
+[11:08:26.904] Heater Relay Board Y7 -> ON.
+[11:08:26.904] Heater CH3, 13277 W, On, 0.34 s.
+[11:08:27.264] Heater Relay Board Y7 -> OFF.
+[11:08:27.264] Heater CH3, 0 W, Off, 0.36 s.
+[11:08:27.630] Wait 13.20 s.
+[11:08:40.856] Valve Relay Board Y2 -> ON.
+[11:08:40.856] D2 -> Open.
+[11:08:40.869] Valve Relay Board Y4 -> ON.
+[11:08:40.869] D4 -> Open.
+[11:08:40.882] Valve Relay Board Y1 -> ON.
+[11:08:40.882] D1 -> Open.
+[11:08:40.895] Valve Relay Board Y3 -> ON.
+[11:08:40.895] D3 -> Open.
+[11:08:40.895] Wait 4.00 s.
+[11:08:44.925] Heater parameters sent: CH2, 4611 W.
+[11:08:44.938] Heater Relay Board Y7 -> ON.
+[11:08:44.938] Heater CH2, 4611 W, On, 0.50 s.
+[11:08:45.458] Heater Relay Board Y7 -> OFF.
+[11:08:45.458] Heater CH2, 0 W, Off, 0.20 s.
+[11:08:45.681] Heater parameters sent: CH4, 4611 W.
+[11:08:45.692] Heater Relay Board Y7 -> ON.
+[11:08:45.692] Heater CH4, 4611 W, On, 0.50 s.
+[11:08:46.215] Heater Relay Board Y7 -> OFF.
+[11:08:46.216] Heater CH4, 0 W, Off, 0.20 s.
+[11:08:46.435] Heater parameters sent: CH1, 4611 W.
+[11:08:46.447] Heater Relay Board Y7 -> ON.
+[11:08:46.447] Heater CH1, 4611 W, On, 0.50 s.
+[11:08:46.964] Heater Relay Board Y7 -> OFF.
+[11:08:46.964] Heater CH1, 0 W, Off, 0.20 s.
+[11:08:47.188] Heater parameters sent: CH3, 4611 W.
+[11:08:47.199] Heater Relay Board Y7 -> ON.
+[11:08:47.200] Heater CH3, 4611 W, On, 0.50 s.
+[11:08:47.721] Heater Relay Board Y7 -> OFF.
+[11:08:47.721] Heater CH3, 0 W, Off, 0.20 s.
+[11:08:47.928] Wait 165.20 s.
+[11:11:33.152] Valve Relay Board Y2 -> OFF.
+[11:11:33.152] D2 -> Close.
+[11:11:33.152] Wait 1.00 s.
+[11:11:34.170] Valve Relay Board Y4 -> OFF.
+[11:11:34.170] D4 -> Close.
+[11:11:34.170] Wait 1.00 s.
+[11:11:35.192] Valve Relay Board Y1 -> OFF.
+[11:11:35.192] D1 -> Close.
+[11:11:35.192] Wait 1.00 s.
+[11:11:36.213] Valve Relay Board Y3 -> OFF.
+[11:11:36.213] D3 -> Close.
+[11:11:36.213] Wait 9.00 s.
+[11:11:45.237] Heater parameters sent: CH2, 13277 W.
+[11:11:45.249] Heater Relay Board Y7 -> ON.
+[11:11:45.249] Heater CH2, 13277 W, On, 0.34 s.
+[11:11:45.615] Heater Relay Board Y7 -> OFF.
+[11:11:45.615] Heater CH2, 0 W, Off, 0.36 s.
+[11:11:45.995] Heater parameters sent: CH4, 13277 W.
+[11:11:46.007] Heater Relay Board Y7 -> ON.
+[11:11:46.007] Heater CH4, 13277 W, On, 0.34 s.
+[11:11:46.371] Heater Relay Board Y7 -> OFF.
+[11:11:46.371] Heater CH4, 0 W, Off, 0.36 s.
+[11:11:46.753] Heater parameters sent: CH1, 13277 W.
+[11:11:46.765] Heater Relay Board Y7 -> ON.
+[11:11:46.765] Heater CH1, 13277 W, On, 0.34 s.
+[11:11:47.129] Heater Relay Board Y7 -> OFF.
+[11:11:47.129] Heater CH1, 0 W, Off, 0.36 s.
+[11:11:47.509] Heater parameters sent: CH3, 13277 W.
+[11:11:47.521] Heater Relay Board Y7 -> ON.
+[11:11:47.521] Heater CH3, 13277 W, On, 0.34 s.
+[11:11:47.884] Heater Relay Board Y7 -> OFF.
+[11:11:47.884] Heater CH3, 0 W, Off, 0.36 s.
+[11:11:48.248] Wait 13.20 s.
+[11:12:01.473] Valve Relay Board Y2 -> ON.
+[11:12:01.473] D2 -> Open.
+[11:12:01.485] Valve Relay Board Y4 -> ON.
+[11:12:01.485] D4 -> Open.
+[11:12:01.498] Valve Relay Board Y1 -> ON.
+[11:12:01.498] D1 -> Open.
+[11:12:01.511] Valve Relay Board Y3 -> ON.
+[11:12:01.511] D3 -> Open.
+[11:12:01.512] Wait 4.00 s.
+[11:12:05.538] Heater parameters sent: CH2, 4611 W.
+[11:12:05.551] Heater Relay Board Y7 -> ON.
+[11:12:05.551] Heater CH2, 4611 W, On, 0.50 s.
+[11:12:06.071] Heater Relay Board Y7 -> OFF.
+[11:12:06.071] Heater CH2, 0 W, Off, 0.20 s.
+[11:12:06.293] Heater parameters sent: CH4, 4611 W.
+[11:12:06.305] Heater Relay Board Y7 -> ON.
+[11:12:06.306] Heater CH4, 4611 W, On, 0.50 s.
+[11:12:06.820] Heater Relay Board Y7 -> OFF.
+[11:12:06.820] Heater CH4, 0 W, Off, 0.20 s.
+[11:12:07.042] Heater parameters sent: CH1, 4611 W.
+[11:12:07.055] Heater Relay Board Y7 -> ON.
+[11:12:07.055] Heater CH1, 4611 W, On, 0.50 s.
+[11:12:07.574] Heater Relay Board Y7 -> OFF.
+[11:12:07.574] Heater CH1, 0 W, Off, 0.20 s.
+[11:12:07.793] Heater parameters sent: CH3, 4611 W.
+[11:12:07.805] Heater Relay Board Y7 -> ON.
+[11:12:07.806] Heater CH3, 4611 W, On, 0.50 s.
+[11:12:08.323] Heater Relay Board Y7 -> OFF.
+[11:12:08.324] Heater CH3, 0 W, Off, 0.20 s.
+[11:12:08.531] Wait 165.20 s.
+[11:14:53.750] Valve Relay Board Y2 -> OFF.
+[11:14:53.750] D2 -> Close.
+[11:14:53.750] Wait 1.00 s.
+[11:14:54.771] Valve Relay Board Y4 -> OFF.
+[11:14:54.771] D4 -> Close.
+[11:14:54.771] Wait 1.00 s.
+[11:14:55.796] Valve Relay Board Y1 -> OFF.
+[11:14:55.796] D1 -> Close.
+[11:14:55.796] Wait 1.00 s.
+[11:14:56.820] Valve Relay Board Y3 -> OFF.
+[11:14:56.820] D3 -> Close.
+[11:14:56.821] Wait 9.00 s.
+[11:15:05.848] Heater parameters sent: CH2, 13277 W.
+[11:15:05.861] Heater Relay Board Y7 -> ON.
+[11:15:05.861] Heater CH2, 13277 W, On, 0.34 s.
+[11:15:06.219] Heater Relay Board Y7 -> OFF.
+[11:15:06.219] Heater CH2, 0 W, Off, 0.36 s.
+[11:15:06.595] Heater parameters sent: CH4, 13277 W.
+[11:15:06.606] Heater Relay Board Y7 -> ON.
+[11:15:06.607] Heater CH4, 13277 W, On, 0.34 s.
+[11:15:06.968] Heater Relay Board Y7 -> OFF.
+[11:15:06.968] Heater CH4, 0 W, Off, 0.36 s.
+[11:15:07.350] Heater parameters sent: CH1, 13277 W.
+[11:15:07.362] Heater Relay Board Y7 -> ON.
+[11:15:07.362] Heater CH1, 13277 W, On, 0.34 s.
+[11:15:07.722] Heater Relay Board Y7 -> OFF.
+[11:15:07.722] Heater CH1, 0 W, Off, 0.36 s.
+[11:15:08.103] Heater parameters sent: CH3, 13277 W.
+[11:15:08.115] Heater Relay Board Y7 -> ON.
+[11:15:08.115] Heater CH3, 13277 W, On, 0.34 s.
+[11:15:08.478] Heater Relay Board Y7 -> OFF.
+[11:15:08.478] Heater CH3, 0 W, Off, 0.36 s.
+[11:15:08.842] Wait 13.20 s.
+[11:15:22.058] Valve Relay Board Y2 -> ON.
+[11:15:22.058] D2 -> Open.
+[11:15:22.071] Valve Relay Board Y4 -> ON.
+[11:15:22.071] D4 -> Open.
+[11:15:22.084] Valve Relay Board Y1 -> ON.
+[11:15:22.084] D1 -> Open.
+[11:15:22.097] Valve Relay Board Y3 -> ON.
+[11:15:22.097] D3 -> Open.
+[11:15:22.097] Wait 4.00 s.
+[11:15:26.125] Heater parameters sent: CH2, 4611 W.
+[11:15:26.137] Heater Relay Board Y7 -> ON.
+[11:15:26.138] Heater CH2, 4611 W, On, 0.50 s.
+[11:15:26.655] Heater Relay Board Y7 -> OFF.
+[11:15:26.655] Heater CH2, 0 W, Off, 0.20 s.
+[11:15:26.877] Heater parameters sent: CH4, 4611 W.
+[11:15:26.888] Heater Relay Board Y7 -> ON.
+[11:15:26.888] Heater CH4, 4611 W, On, 0.50 s.
+[11:15:27.405] Heater Relay Board Y7 -> OFF.
+[11:15:27.405] Heater CH4, 0 W, Off, 0.20 s.
+[11:15:27.627] Heater parameters sent: CH1, 4611 W.
+[11:15:27.639] Heater Relay Board Y7 -> ON.
+[11:15:27.639] Heater CH1, 4611 W, On, 0.50 s.
+[11:15:28.154] Heater Relay Board Y7 -> OFF.
+[11:15:28.154] Heater CH1, 0 W, Off, 0.20 s.
+[11:15:28.376] Heater parameters sent: CH3, 4611 W.
+[11:15:28.387] Heater Relay Board Y7 -> ON.
+[11:15:28.387] Heater CH3, 4611 W, On, 0.50 s.
+[11:15:28.917] Heater Relay Board Y7 -> OFF.
+[11:15:28.917] Heater CH3, 0 W, Off, 0.20 s.
+[11:15:29.120] Wait 165.20 s.
+[11:18:14.349] Valve Relay Board Y2 -> OFF.
+[11:18:14.349] D2 -> Close.
+[11:18:14.349] Wait 1.00 s.
+[11:18:15.368] Valve Relay Board Y4 -> OFF.
+[11:18:15.368] D4 -> Close.
+[11:18:15.368] Wait 1.00 s.
+[11:18:16.390] Valve Relay Board Y1 -> OFF.
+[11:18:16.390] D1 -> Close.
+[11:18:16.390] Wait 1.00 s.
+[11:18:17.407] Valve Relay Board Y3 -> OFF.
+[11:18:17.407] D3 -> Close.
+[11:18:17.408] Wait 9.00 s.
+[11:18:26.439] Heater parameters sent: CH2, 13277 W.
+[11:18:26.450] Heater Relay Board Y7 -> ON.
+[11:18:26.450] Heater CH2, 13277 W, On, 0.34 s.
+[11:18:26.811] Heater Relay Board Y7 -> OFF.
+[11:18:26.811] Heater CH2, 0 W, Off, 0.36 s.
+[11:18:27.188] Heater parameters sent: CH4, 13277 W.
+[11:18:27.198] Heater Relay Board Y7 -> ON.
+[11:18:27.198] Heater CH4, 13277 W, On, 0.34 s.
+[11:18:27.561] Heater Relay Board Y7 -> OFF.
+[11:18:27.561] Heater CH4, 0 W, Off, 0.36 s.
+[11:18:27.939] Heater parameters sent: CH1, 13277 W.
+[11:18:27.949] Heater Relay Board Y7 -> ON.
+[11:18:27.950] Heater CH1, 13277 W, On, 0.34 s.
+[11:18:28.307] Heater Relay Board Y7 -> OFF.
+[11:18:28.307] Heater CH1, 0 W, Off, 0.36 s.
+[11:18:28.683] Heater parameters sent: CH3, 13277 W.
+[11:18:28.693] Heater Relay Board Y7 -> ON.
+[11:18:28.693] Heater CH3, 13277 W, On, 0.34 s.
+[11:18:29.054] Heater Relay Board Y7 -> OFF.
+[11:18:29.054] Heater CH3, 0 W, Off, 0.36 s.
+[11:18:29.418] Wait 13.20 s.
+[11:18:42.645] Valve Relay Board Y2 -> ON.
+[11:18:42.645] D2 -> Open.
+[11:18:42.656] Valve Relay Board Y4 -> ON.
+[11:18:42.656] D4 -> Open.
+[11:18:42.667] Valve Relay Board Y1 -> ON.
+[11:18:42.667] D1 -> Open.
+[11:18:42.679] Valve Relay Board Y3 -> ON.
+[11:18:42.679] D3 -> Open.
+[11:18:42.679] Wait 4.00 s.
+[11:18:46.707] Heater parameters sent: CH2, 4611 W.
+[11:18:46.718] Heater Relay Board Y7 -> ON.
+[11:18:46.718] Heater CH2, 4611 W, On, 0.50 s.
+[11:18:47.241] Heater Relay Board Y7 -> OFF.
+[11:18:47.241] Heater CH2, 0 W, Off, 0.20 s.
+[11:18:47.466] Heater parameters sent: CH4, 4611 W.
+[11:18:47.476] Heater Relay Board Y7 -> ON.
+[11:18:47.476] Heater CH4, 4611 W, On, 0.50 s.
+[11:18:47.996] Heater Relay Board Y7 -> OFF.
+[11:18:47.996] Heater CH4, 0 W, Off, 0.20 s.
+[11:18:48.217] Heater parameters sent: CH1, 4611 W.
+[11:18:48.228] Heater Relay Board Y7 -> ON.
+[11:18:48.228] Heater CH1, 4611 W, On, 0.50 s.
+[11:18:48.743] Heater Relay Board Y7 -> OFF.
+[11:18:48.743] Heater CH1, 0 W, Off, 0.20 s.
+[11:18:48.966] Heater parameters sent: CH3, 4611 W.
+[11:18:48.977] Heater Relay Board Y7 -> ON.
+[11:18:48.977] Heater CH3, 4611 W, On, 0.50 s.
+[11:18:49.497] Heater Relay Board Y7 -> OFF.
+[11:18:49.497] Heater CH3, 0 W, Off, 0.20 s.
+[11:18:49.705] Wait 165.20 s.
+[11:21:34.920] Valve Relay Board Y2 -> OFF.
+[11:21:34.920] D2 -> Close.
+[11:21:34.920] Wait 1.00 s.
+[11:21:35.940] Valve Relay Board Y4 -> OFF.
+[11:21:35.940] D4 -> Close.
+[11:21:35.940] Wait 1.00 s.
+[11:21:36.962] Valve Relay Board Y1 -> OFF.
+[11:21:36.962] D1 -> Close.
+[11:21:36.962] Wait 1.00 s.
+[11:21:37.979] Valve Relay Board Y3 -> OFF.
+[11:21:37.979] D3 -> Close.
+[11:21:37.979] Wait 9.00 s.
+[11:21:47.009] Heater parameters sent: CH2, 13277 W.
+[11:21:47.019] Heater Relay Board Y7 -> ON.
+[11:21:47.019] Heater CH2, 13277 W, On, 0.34 s.
+[11:21:47.377] Heater Relay Board Y7 -> OFF.
+[11:21:47.377] Heater CH2, 0 W, Off, 0.36 s.
+[11:21:47.756] Heater parameters sent: CH4, 13277 W.
+[11:21:47.766] Heater Relay Board Y7 -> ON.
+[11:21:47.766] Heater CH4, 13277 W, On, 0.34 s.
+[11:21:48.131] Heater Relay Board Y7 -> OFF.
+[11:21:48.131] Heater CH4, 0 W, Off, 0.36 s.
+[11:21:48.511] Heater parameters sent: CH1, 13277 W.
+[11:21:48.521] Heater Relay Board Y7 -> ON.
+[11:21:48.521] Heater CH1, 13277 W, On, 0.34 s.
+[11:21:48.883] Heater Relay Board Y7 -> OFF.
+[11:21:48.883] Heater CH1, 0 W, Off, 0.36 s.
+[11:21:49.263] Heater parameters sent: CH3, 13277 W.
+[11:21:49.274] Heater Relay Board Y7 -> ON.
+[11:21:49.274] Heater CH3, 13277 W, On, 0.34 s.
+[11:21:49.636] Heater Relay Board Y7 -> OFF.
+[11:21:49.636] Heater CH3, 0 W, Off, 0.36 s.
+[11:21:50.002] Wait 13.20 s.
+[11:22:03.222] Valve Relay Board Y2 -> ON.
+[11:22:03.222] D2 -> Open.
+[11:22:03.233] Valve Relay Board Y4 -> ON.
+[11:22:03.233] D4 -> Open.
+[11:22:03.244] Valve Relay Board Y1 -> ON.
+[11:22:03.244] D1 -> Open.
+[11:22:03.255] Valve Relay Board Y3 -> ON.
+[11:22:03.255] D3 -> Open.
+[11:22:03.256] Wait 4.00 s.
+[11:22:07.285] Heater parameters sent: CH2, 4611 W.
+[11:22:07.296] Heater Relay Board Y7 -> ON.
+[11:22:07.296] Heater CH2, 4611 W, On, 0.50 s.
+[11:22:07.814] Heater Relay Board Y7 -> OFF.
+[11:22:07.814] Heater CH2, 0 W, Off, 0.20 s.
+[11:22:08.037] Heater parameters sent: CH4, 4611 W.
+[11:22:08.047] Heater Relay Board Y7 -> ON.
+[11:22:08.047] Heater CH4, 4611 W, On, 0.50 s.
+[11:22:08.566] Heater Relay Board Y7 -> OFF.
+[11:22:08.566] Heater CH4, 0 W, Off, 0.20 s.
+[11:22:08.791] Heater parameters sent: CH1, 4611 W.
+[11:22:08.801] Heater Relay Board Y7 -> ON.
+[11:22:08.801] Heater CH1, 4611 W, On, 0.50 s.
+[11:22:09.322] Heater Relay Board Y7 -> OFF.
+[11:22:09.322] Heater CH1, 0 W, Off, 0.20 s.
+[11:22:09.545] Heater parameters sent: CH3, 4611 W.
+[11:22:09.556] Heater Relay Board Y7 -> ON.
+[11:22:09.556] Heater CH3, 4611 W, On, 0.50 s.
+[11:22:10.076] Heater Relay Board Y7 -> OFF.
+[11:22:10.076] Heater CH3, 0 W, Off, 0.20 s.
+[11:22:10.283] Wait 165.20 s.
+[11:24:55.510] Valve Relay Board Y2 -> OFF.
+[11:24:55.510] D2 -> Close.
+[11:24:55.510] Wait 1.00 s.
+[11:24:56.528] Valve Relay Board Y4 -> OFF.
+[11:24:56.528] D4 -> Close.
+[11:24:56.529] Wait 1.00 s.
+[11:24:57.551] Valve Relay Board Y1 -> OFF.
+[11:24:57.551] D1 -> Close.
+[11:24:57.551] Wait 1.00 s.
+[11:24:58.575] Valve Relay Board Y3 -> OFF.
+[11:24:58.576] D3 -> Close.
+[11:24:58.576] Wait 9.00 s.
+[11:25:07.597] Heater parameters sent: CH2, 13277 W.
+[11:25:07.607] Heater Relay Board Y7 -> ON.
+[11:25:07.607] Heater CH2, 13277 W, On, 0.34 s.
+[11:25:07.968] Heater Relay Board Y7 -> OFF.
+[11:25:07.968] Heater CH2, 0 W, Off, 0.36 s.
+[11:25:08.349] Heater parameters sent: CH4, 13277 W.
+[11:25:08.359] Heater Relay Board Y7 -> ON.
+[11:25:08.359] Heater CH4, 13277 W, On, 0.34 s.
+[11:25:08.723] Heater Relay Board Y7 -> OFF.
+[11:25:08.723] Heater CH4, 0 W, Off, 0.36 s.
+[11:25:09.105] Heater parameters sent: CH1, 13277 W.
+[11:25:09.115] Heater Relay Board Y7 -> ON.
+[11:25:09.115] Heater CH1, 13277 W, On, 0.34 s.
+[11:25:09.476] Heater Relay Board Y7 -> OFF.
+[11:25:09.476] Heater CH1, 0 W, Off, 0.36 s.
+[11:25:09.855] Heater parameters sent: CH3, 13277 W.
+[11:25:09.865] Heater Relay Board Y7 -> ON.
+[11:25:09.865] Heater CH3, 13277 W, On, 0.34 s.
+[11:25:10.226] Heater Relay Board Y7 -> OFF.
+[11:25:10.226] Heater CH3, 0 W, Off, 0.36 s.
+[11:25:10.591] Wait 13.20 s.
+[11:25:23.804] Valve Relay Board Y2 -> ON.
+[11:25:23.804] D2 -> Open.
+[11:25:23.816] Valve Relay Board Y4 -> ON.
+[11:25:23.816] D4 -> Open.
+[11:25:23.828] Valve Relay Board Y1 -> ON.
+[11:25:23.828] D1 -> Open.
+[11:25:23.840] Valve Relay Board Y3 -> ON.
+[11:25:23.840] D3 -> Open.
+[11:25:23.840] Wait 4.00 s.
+[11:25:27.864] Heater parameters sent: CH2, 4611 W.
+[11:25:27.875] Heater Relay Board Y7 -> ON.
+[11:25:27.875] Heater CH2, 4611 W, On, 0.50 s.
+[11:25:28.388] Heater Relay Board Y7 -> OFF.
+[11:25:28.388] Heater CH2, 0 W, Off, 0.20 s.
+[11:25:28.608] Heater parameters sent: CH4, 4611 W.
+[11:25:28.618] Heater Relay Board Y7 -> ON.
+[11:25:28.618] Heater CH4, 4611 W, On, 0.50 s.
+[11:25:29.131] Heater Relay Board Y7 -> OFF.
+[11:25:29.131] Heater CH4, 0 W, Off, 0.20 s.
+[11:25:29.353] Heater parameters sent: CH1, 4611 W.
+[11:25:29.364] Heater Relay Board Y7 -> ON.
+[11:25:29.364] Heater CH1, 4611 W, On, 0.50 s.
+[11:25:29.883] Heater Relay Board Y7 -> OFF.
+[11:25:29.883] Heater CH1, 0 W, Off, 0.20 s.
+[11:25:30.104] Heater parameters sent: CH3, 4611 W.
+[11:25:30.115] Heater Relay Board Y7 -> ON.
+[11:25:30.115] Heater CH3, 4611 W, On, 0.50 s.
+[11:25:30.631] Heater Relay Board Y7 -> OFF.
+[11:25:30.631] Heater CH3, 0 W, Off, 0.20 s.
+[11:25:30.839] Wait 165.20 s.
+[11:28:16.056] Valve Relay Board Y2 -> OFF.
+[11:28:16.056] D2 -> Close.
+[11:28:16.056] Wait 1.00 s.
+[11:28:17.074] Valve Relay Board Y4 -> OFF.
+[11:28:17.074] D4 -> Close.
+[11:28:17.075] Wait 1.00 s.
+[11:28:18.092] Valve Relay Board Y1 -> OFF.
+[11:28:18.092] D1 -> Close.
+[11:28:18.092] Wait 1.00 s.
+[11:28:19.105] Valve Relay Board Y3 -> OFF.
+[11:28:19.105] D3 -> Close.
+[11:28:19.105] Wait 9.00 s.
+[11:28:28.133] Heater parameters sent: CH2, 13277 W.
+[11:28:28.143] Heater Relay Board Y7 -> ON.
+[11:28:28.143] Heater CH2, 13277 W, On, 0.34 s.
+[11:28:28.503] Heater Relay Board Y7 -> OFF.
+[11:28:28.503] Heater CH2, 0 W, Off, 0.36 s.
+[11:28:28.880] Heater parameters sent: CH4, 13277 W.
+[11:28:28.890] Heater Relay Board Y7 -> ON.
+[11:28:28.890] Heater CH4, 13277 W, On, 0.34 s.
+[11:28:29.248] Heater Relay Board Y7 -> OFF.
+[11:28:29.248] Heater CH4, 0 W, Off, 0.36 s.
+[11:28:29.626] Heater parameters sent: CH1, 13277 W.
+[11:28:29.636] Heater Relay Board Y7 -> ON.
+[11:28:29.636] Heater CH1, 13277 W, On, 0.34 s.
+[11:28:29.997] Heater Relay Board Y7 -> OFF.
+[11:28:29.997] Heater CH1, 0 W, Off, 0.36 s.
+[11:28:30.377] Heater parameters sent: CH3, 13277 W.
+[11:28:30.387] Heater Relay Board Y7 -> ON.
+[11:28:30.387] Heater CH3, 13277 W, On, 0.34 s.
+[11:28:30.748] Heater Relay Board Y7 -> OFF.
+[11:28:30.748] Heater CH3, 0 W, Off, 0.36 s.
+[11:28:31.113] Wait 13.20 s.
+[11:28:44.339] Valve Relay Board Y2 -> ON.
+[11:28:44.339] D2 -> Open.
+[11:28:44.351] Valve Relay Board Y4 -> ON.
+[11:28:44.351] D4 -> Open.
+[11:28:44.362] Valve Relay Board Y1 -> ON.
+[11:28:44.362] D1 -> Open.
+[11:28:44.373] Valve Relay Board Y3 -> ON.
+[11:28:44.373] D3 -> Open.
+[11:28:44.374] Wait 4.00 s.
+[11:28:48.397] Heater parameters sent: CH2, 4611 W.
+[11:28:48.408] Heater Relay Board Y7 -> ON.
+[11:28:48.408] Heater CH2, 4611 W, On, 0.50 s.
+[11:28:48.928] Heater Relay Board Y7 -> OFF.
+[11:28:48.928] Heater CH2, 0 W, Off, 0.20 s.
+[11:28:49.152] Heater parameters sent: CH4, 4611 W.
+[11:28:49.163] Heater Relay Board Y7 -> ON.
+[11:28:49.163] Heater CH4, 4611 W, On, 0.50 s.
+[11:28:49.679] Heater Relay Board Y7 -> OFF.
+[11:28:49.679] Heater CH4, 0 W, Off, 0.20 s.
+[11:28:49.905] Heater parameters sent: CH1, 4611 W.
+[11:28:49.915] Heater Relay Board Y7 -> ON.
+[11:28:49.915] Heater CH1, 4611 W, On, 0.50 s.
+[11:28:50.435] Heater Relay Board Y7 -> OFF.
+[11:28:50.435] Heater CH1, 0 W, Off, 0.20 s.
+[11:28:50.660] Heater parameters sent: CH3, 4611 W.
+[11:28:50.671] Heater Relay Board Y7 -> ON.
+[11:28:50.671] Heater CH3, 4611 W, On, 0.50 s.
+[11:28:51.189] Heater Relay Board Y7 -> OFF.
+[11:28:51.189] Heater CH3, 0 W, Off, 0.20 s.
+[11:28:51.399] Wait 165.20 s.
+[11:31:36.619] Valve Relay Board Y2 -> OFF.
+[11:31:36.619] D2 -> Close.
+[11:31:36.619] Wait 1.00 s.
+[11:31:37.641] Valve Relay Board Y4 -> OFF.
+[11:31:37.642] D4 -> Close.
+[11:31:37.642] Wait 1.00 s.
+[11:31:38.660] Valve Relay Board Y1 -> OFF.
+[11:31:38.660] D1 -> Close.
+[11:31:38.661] Wait 1.00 s.
+[11:31:39.681] Valve Relay Board Y3 -> OFF.
+[11:31:39.681] D3 -> Close.
+[11:31:39.682] Wait 9.00 s.
+[11:31:48.698] Heater parameters sent: CH2, 13277 W.
+[11:31:48.708] Heater Relay Board Y7 -> ON.
+[11:31:48.708] Heater CH2, 13277 W, On, 0.34 s.
+[11:31:49.070] Heater Relay Board Y7 -> OFF.
+[11:31:49.070] Heater CH2, 0 W, Off, 0.36 s.
+[11:31:49.452] Heater parameters sent: CH4, 13277 W.
+[11:31:49.462] Heater Relay Board Y7 -> ON.
+[11:31:49.462] Heater CH4, 13277 W, On, 0.34 s.
+[11:31:49.823] Heater Relay Board Y7 -> OFF.
+[11:31:49.823] Heater CH4, 0 W, Off, 0.36 s.
+[11:31:50.203] Heater parameters sent: CH1, 13277 W.
+[11:31:50.213] Heater Relay Board Y7 -> ON.
+[11:31:50.213] Heater CH1, 13277 W, On, 0.34 s.
+[11:31:50.574] Heater Relay Board Y7 -> OFF.
+[11:31:50.574] Heater CH1, 0 W, Off, 0.36 s.
+[11:31:50.955] Heater parameters sent: CH3, 13277 W.
+[11:31:50.965] Heater Relay Board Y7 -> ON.
+[11:31:50.965] Heater CH3, 13277 W, On, 0.34 s.
+[11:31:51.327] Heater Relay Board Y7 -> OFF.
+[11:31:51.327] Heater CH3, 0 W, Off, 0.36 s.
+[11:31:51.695] Wait 13.20 s.
+[11:32:04.913] Valve Relay Board Y2 -> ON.
+[11:32:04.913] D2 -> Open.
+[11:32:04.925] Valve Relay Board Y4 -> ON.
+[11:32:04.925] D4 -> Open.
+[11:32:04.936] Valve Relay Board Y1 -> ON.
+[11:32:04.936] D1 -> Open.
+[11:32:04.947] Valve Relay Board Y3 -> ON.
+[11:32:04.947] D3 -> Open.
+[11:32:04.947] Wait 4.00 s.
+[11:32:08.962] Heater parameters sent: CH2, 4611 W.
+[11:32:08.973] Heater Relay Board Y7 -> ON.
+[11:32:08.973] Heater CH2, 4611 W, On, 0.50 s.
+[11:32:09.491] Heater Relay Board Y7 -> OFF.
+[11:32:09.491] Heater CH2, 0 W, Off, 0.20 s.
+[11:32:09.712] Heater parameters sent: CH4, 4611 W.
+[11:32:09.723] Heater Relay Board Y7 -> ON.
+[11:32:09.723] Heater CH4, 4611 W, On, 0.50 s.
+[11:32:10.242] Heater Relay Board Y7 -> OFF.
+[11:32:10.242] Heater CH4, 0 W, Off, 0.20 s.
+[11:32:10.466] Heater parameters sent: CH1, 4611 W.
+[11:32:10.477] Heater Relay Board Y7 -> ON.
+[11:32:10.477] Heater CH1, 4611 W, On, 0.50 s.
+[11:32:10.993] Heater Relay Board Y7 -> OFF.
+[11:32:10.993] Heater CH1, 0 W, Off, 0.20 s.
+[11:32:11.217] Heater parameters sent: CH3, 4611 W.
+[11:32:11.228] Heater Relay Board Y7 -> ON.
+[11:32:11.228] Heater CH3, 4611 W, On, 0.50 s.
+[11:32:11.742] Heater Relay Board Y7 -> OFF.
+[11:32:11.742] Heater CH3, 0 W, Off, 0.20 s.
+[11:32:11.952] Wait 165.20 s.
+[11:34:57.175] Valve Relay Board Y2 -> OFF.
+[11:34:57.175] D2 -> Close.
+[11:34:57.175] Wait 1.00 s.
+[11:34:58.196] Valve Relay Board Y4 -> OFF.
+[11:34:58.196] D4 -> Close.
+[11:34:58.196] Wait 1.00 s.
+[11:34:59.212] Valve Relay Board Y1 -> OFF.
+[11:34:59.212] D1 -> Close.
+[11:34:59.212] Wait 1.00 s.
+[11:35:00.233] Valve Relay Board Y3 -> OFF.
+[11:35:00.233] D3 -> Close.
+[11:35:00.233] Wait 9.00 s.
+[11:35:09.256] Heater parameters sent: CH2, 13277 W.
+[11:35:09.266] Heater Relay Board Y7 -> ON.
+[11:35:09.266] Heater CH2, 13277 W, On, 0.34 s.
+[11:35:09.627] Heater Relay Board Y7 -> OFF.
+[11:35:09.627] Heater CH2, 0 W, Off, 0.36 s.
+[11:35:10.003] Heater parameters sent: CH4, 13277 W.
+[11:35:10.014] Heater Relay Board Y7 -> ON.
+[11:35:10.014] Heater CH4, 13277 W, On, 0.34 s.
+[11:35:10.377] Heater Relay Board Y7 -> OFF.
+[11:35:10.377] Heater CH4, 0 W, Off, 0.36 s.
+[11:35:10.757] Heater parameters sent: CH1, 13277 W.
+[11:35:10.768] Heater Relay Board Y7 -> ON.
+[11:35:10.768] Heater CH1, 13277 W, On, 0.34 s.
+[11:35:11.131] Heater Relay Board Y7 -> OFF.
+[11:35:11.131] Heater CH1, 0 W, Off, 0.36 s.
+[11:35:11.512] Heater parameters sent: CH3, 13277 W.
+[11:35:11.522] Heater Relay Board Y7 -> ON.
+[11:35:11.522] Heater CH3, 13277 W, On, 0.34 s.
+[11:35:11.887] Heater Relay Board Y7 -> OFF.
+[11:35:11.887] Heater CH3, 0 W, Off, 0.36 s.
+[11:35:12.251] Wait 13.20 s.
+[11:35:25.464] Valve Relay Board Y2 -> ON.
+[11:35:25.464] D2 -> Open.
+[11:35:25.475] Valve Relay Board Y4 -> ON.
+[11:35:25.475] D4 -> Open.
+[11:35:25.487] Valve Relay Board Y1 -> ON.
+[11:35:25.488] D1 -> Open.
+[11:35:25.499] Valve Relay Board Y3 -> ON.
+[11:35:25.499] D3 -> Open.
+[11:35:25.499] Wait 4.00 s.
+[11:35:29.516] Heater parameters sent: CH2, 4611 W.
+[11:35:29.526] Heater Relay Board Y7 -> ON.
+[11:35:29.526] Heater CH2, 4611 W, On, 0.50 s.
+[11:35:30.042] Heater Relay Board Y7 -> OFF.
+[11:35:30.042] Heater CH2, 0 W, Off, 0.20 s.
+[11:35:30.266] Heater parameters sent: CH4, 4611 W.
+[11:35:30.276] Heater Relay Board Y7 -> ON.
+[11:35:30.276] Heater CH4, 4611 W, On, 0.50 s.
+[11:35:30.798] Heater Relay Board Y7 -> OFF.
+[11:35:30.798] Heater CH4, 0 W, Off, 0.20 s.
+[11:35:31.021] Heater parameters sent: CH1, 4611 W.
+[11:35:31.032] Heater Relay Board Y7 -> ON.
+[11:35:31.032] Heater CH1, 4611 W, On, 0.50 s.
+[11:35:31.550] Heater Relay Board Y7 -> OFF.
+[11:35:31.550] Heater CH1, 0 W, Off, 0.20 s.
+[11:35:31.774] Heater parameters sent: CH3, 4611 W.
+[11:35:31.784] Heater Relay Board Y7 -> ON.
+[11:35:31.784] Heater CH3, 4611 W, On, 0.50 s.
+[11:35:32.303] Heater Relay Board Y7 -> OFF.
+[11:35:32.303] Heater CH3, 0 W, Off, 0.20 s.
+[11:35:32.509] Wait 165.20 s.
+[11:38:17.733] Valve Relay Board Y2 -> OFF.
+[11:38:17.733] D2 -> Close.
+[11:38:17.733] Wait 1.00 s.
+[11:38:18.751] Valve Relay Board Y4 -> OFF.
+[11:38:18.751] D4 -> Close.
+[11:38:18.751] Wait 1.00 s.
+[11:38:19.766] Valve Relay Board Y1 -> OFF.
+[11:38:19.766] D1 -> Close.
+[11:38:19.767] Wait 1.00 s.
+[11:38:20.783] Valve Relay Board Y3 -> OFF.
+[11:38:20.783] D3 -> Close.
+[11:38:20.783] Wait 9.00 s.
+[11:38:29.802] Heater parameters sent: CH2, 13277 W.
+[11:38:29.813] Heater Relay Board Y7 -> ON.
+[11:38:29.813] Heater CH2, 13277 W, On, 0.34 s.
+[11:38:30.169] Heater Relay Board Y7 -> OFF.
+[11:38:30.170] Heater CH2, 0 W, Off, 0.36 s.
+[11:38:30.557] Heater parameters sent: CH4, 13277 W.
+[11:38:30.568] Heater Relay Board Y7 -> ON.
+[11:38:30.568] Heater CH4, 13277 W, On, 0.34 s.
+[11:38:30.923] Heater Relay Board Y7 -> OFF.
+[11:38:30.923] Heater CH4, 0 W, Off, 0.36 s.
+[11:38:31.310] Heater parameters sent: CH1, 13277 W.
+[11:38:31.321] Heater Relay Board Y7 -> ON.
+[11:38:31.321] Heater CH1, 13277 W, On, 0.34 s.
+[11:38:31.673] Heater Relay Board Y7 -> OFF.
+[11:38:31.673] Heater CH1, 0 W, Off, 0.36 s.
+[11:38:32.063] Heater parameters sent: CH3, 13277 W.
+[11:38:32.073] Heater Relay Board Y7 -> ON.
+[11:38:32.074] Heater CH3, 13277 W, On, 0.34 s.
+[11:38:32.429] Heater Relay Board Y7 -> OFF.
+[11:38:32.429] Heater CH3, 0 W, Off, 0.36 s.
+[11:38:32.805] Wait 13.20 s.
+[11:38:46.019] Valve Relay Board Y2 -> ON.
+[11:38:46.019] D2 -> Open.
+[11:38:46.031] Valve Relay Board Y4 -> ON.
+[11:38:46.031] D4 -> Open.
+[11:38:46.043] Valve Relay Board Y1 -> ON.
+[11:38:46.043] D1 -> Open.
+[11:38:46.055] Valve Relay Board Y3 -> ON.
+[11:38:46.055] D3 -> Open.
+[11:38:46.055] Wait 4.00 s.
+[11:38:50.080] Heater parameters sent: CH2, 4611 W.
+[11:38:50.091] Heater Relay Board Y7 -> ON.
+[11:38:50.091] Heater CH2, 4611 W, On, 0.50 s.
+[11:38:50.615] Heater Relay Board Y7 -> OFF.
+[11:38:50.615] Heater CH2, 0 W, Off, 0.20 s.
+[11:38:50.836] Heater parameters sent: CH4, 4611 W.
+[11:38:50.847] Heater Relay Board Y7 -> ON.
+[11:38:50.847] Heater CH4, 4611 W, On, 0.50 s.
+[11:38:51.370] Heater Relay Board Y7 -> OFF.
+[11:38:51.370] Heater CH4, 0 W, Off, 0.20 s.
+[11:38:51.588] Heater parameters sent: CH1, 4611 W.
+[11:38:51.599] Heater Relay Board Y7 -> ON.
+[11:38:51.599] Heater CH1, 4611 W, On, 0.50 s.
+[11:38:52.121] Heater Relay Board Y7 -> OFF.
+[11:38:52.121] Heater CH1, 0 W, Off, 0.20 s.
+[11:38:52.340] Heater parameters sent: CH3, 4611 W.
+[11:38:52.351] Heater Relay Board Y7 -> ON.
+[11:38:52.351] Heater CH3, 4611 W, On, 0.50 s.
+[11:38:52.876] Heater Relay Board Y7 -> OFF.
+[11:38:52.876] Heater CH3, 0 W, Off, 0.20 s.
+[11:38:53.080] Wait 165.20 s.
+[11:41:38.304] Valve Relay Board Y2 -> OFF.
+[11:41:38.304] D2 -> Close.
+[11:41:38.304] Wait 1.00 s.
+[11:41:39.320] Valve Relay Board Y4 -> OFF.
+[11:41:39.320] D4 -> Close.
+[11:41:39.320] Wait 1.00 s.
+[11:41:40.335] Valve Relay Board Y1 -> OFF.
+[11:41:40.335] D1 -> Close.
+[11:41:40.335] Wait 1.00 s.
+[11:41:41.357] Valve Relay Board Y3 -> OFF.
+[11:41:41.357] D3 -> Close.
+[11:41:41.357] Wait 9.00 s.
+[11:41:50.384] Heater parameters sent: CH2, 13277 W.
+[11:41:50.394] Heater Relay Board Y7 -> ON.
+[11:41:50.395] Heater CH2, 13277 W, On, 0.34 s.
+[11:41:50.748] Heater Relay Board Y7 -> OFF.
+[11:41:50.748] Heater CH2, 0 W, Off, 0.36 s.
+[11:41:51.137] Heater parameters sent: CH4, 13277 W.
+[11:41:51.148] Heater Relay Board Y7 -> ON.
+[11:41:51.148] Heater CH4, 13277 W, On, 0.34 s.
+[11:41:51.504] Heater Relay Board Y7 -> OFF.
+[11:41:51.504] Heater CH4, 0 W, Off, 0.36 s.
+[11:41:51.893] Heater parameters sent: CH1, 13277 W.
+[11:41:51.903] Heater Relay Board Y7 -> ON.
+[11:41:51.903] Heater CH1, 13277 W, On, 0.34 s.
+[11:41:52.259] Heater Relay Board Y7 -> OFF.
+[11:41:52.259] Heater CH1, 0 W, Off, 0.36 s.
+[11:41:52.645] Heater parameters sent: CH3, 13277 W.
+[11:41:52.657] Heater Relay Board Y7 -> ON.
+[11:41:52.657] Heater CH3, 13277 W, On, 0.34 s.
+[11:41:53.013] Heater Relay Board Y7 -> OFF.
+[11:41:53.013] Heater CH3, 0 W, Off, 0.36 s.
+[11:41:53.386] Wait 13.20 s.
+[11:42:06.610] Valve Relay Board Y2 -> ON.
+[11:42:06.610] D2 -> Open.
+[11:42:06.622] Valve Relay Board Y4 -> ON.
+[11:42:06.622] D4 -> Open.
+[11:42:06.636] Valve Relay Board Y1 -> ON.
+[11:42:06.636] D1 -> Open.
+[11:42:06.648] Valve Relay Board Y3 -> ON.
+[11:42:06.648] D3 -> Open.
+[11:42:06.648] Wait 4.00 s.
+[11:42:10.674] Heater parameters sent: CH2, 4611 W.
+[11:42:10.685] Heater Relay Board Y7 -> ON.
+[11:42:10.685] Heater CH2, 4611 W, On, 0.50 s.
+[11:42:11.210] Heater Relay Board Y7 -> OFF.
+[11:42:11.210] Heater CH2, 0 W, Off, 0.20 s.
+[11:42:11.428] Heater parameters sent: CH4, 4611 W.
+[11:42:11.439] Heater Relay Board Y7 -> ON.
+[11:42:11.439] Heater CH4, 4611 W, On, 0.50 s.
+[11:42:11.963] Heater Relay Board Y7 -> OFF.
+[11:42:11.963] Heater CH4, 0 W, Off, 0.20 s.
+[11:42:12.180] Heater parameters sent: CH1, 4611 W.
+[11:42:12.191] Heater Relay Board Y7 -> ON.
+[11:42:12.191] Heater CH1, 4611 W, On, 0.50 s.
+[11:42:12.715] Heater Relay Board Y7 -> OFF.
+[11:42:12.715] Heater CH1, 0 W, Off, 0.20 s.
+[11:42:12.936] Heater parameters sent: CH3, 4611 W.
+[11:42:12.947] Heater Relay Board Y7 -> ON.
+[11:42:12.947] Heater CH3, 4611 W, On, 0.50 s.
+[11:42:13.474] Heater Relay Board Y7 -> OFF.
+[11:42:13.474] Heater CH3, 0 W, Off, 0.20 s.
+[11:42:13.680] Wait 165.20 s.
+[11:44:58.901] Valve Relay Board Y2 -> OFF.
+[11:44:58.901] D2 -> Close.
+[11:44:58.901] Wait 1.00 s.
+[11:44:59.916] Valve Relay Board Y4 -> OFF.
+[11:44:59.917] D4 -> Close.
+[11:44:59.917] Wait 1.00 s.
+[11:45:00.933] Valve Relay Board Y1 -> OFF.
+[11:45:00.933] D1 -> Close.
+[11:45:00.933] Wait 1.00 s.
+[11:45:01.948] Valve Relay Board Y3 -> OFF.
+[11:45:01.948] D3 -> Close.
+[11:45:01.949] Wait 9.00 s.
+[11:45:10.969] Heater parameters sent: CH2, 13277 W.
+[11:45:10.979] Heater Relay Board Y7 -> ON.
+[11:45:10.979] Heater CH2, 13277 W, On, 0.34 s.
+[11:45:11.335] Heater Relay Board Y7 -> OFF.
+[11:45:11.336] Heater CH2, 0 W, Off, 0.36 s.
+[11:45:11.724] Heater parameters sent: CH4, 13277 W.
+[11:45:11.734] Heater Relay Board Y7 -> ON.
+[11:45:11.734] Heater CH4, 13277 W, On, 0.34 s.
+[11:45:12.088] Heater Relay Board Y7 -> OFF.
+[11:45:12.088] Heater CH4, 0 W, Off, 0.36 s.
+[11:45:12.477] Heater parameters sent: CH1, 13277 W.
+[11:45:12.488] Heater Relay Board Y7 -> ON.
+[11:45:12.488] Heater CH1, 13277 W, On, 0.34 s.
+[11:45:12.840] Heater Relay Board Y7 -> OFF.
+[11:45:12.840] Heater CH1, 0 W, Off, 0.36 s.
+[11:45:13.216] Heater parameters sent: CH3, 13277 W.
+[11:45:13.227] Heater Relay Board Y7 -> ON.
+[11:45:13.227] Heater CH3, 13277 W, On, 0.34 s.
+[11:45:13.585] Heater Relay Board Y7 -> OFF.
+[11:45:13.585] Heater CH3, 0 W, Off, 0.36 s.
+[11:45:13.959] Wait 13.20 s.
+[11:45:27.181] Valve Relay Board Y2 -> ON.
+[11:45:27.181] D2 -> Open.
+[11:45:27.193] Valve Relay Board Y4 -> ON.
+[11:45:27.193] D4 -> Open.
+[11:45:27.205] Valve Relay Board Y1 -> ON.
+[11:45:27.205] D1 -> Open.
+[11:45:27.216] Valve Relay Board Y3 -> ON.
+[11:45:27.216] D3 -> Open.
+[11:45:27.216] Wait 4.00 s.
+[11:45:31.232] Heater parameters sent: CH2, 4611 W.
+[11:45:31.243] Heater Relay Board Y7 -> ON.
+[11:45:31.243] Heater CH2, 4611 W, On, 0.50 s.
+[11:45:31.769] Heater Relay Board Y7 -> OFF.
+[11:45:31.769] Heater CH2, 0 W, Off, 0.20 s.
+[11:45:31.986] Heater parameters sent: CH4, 4611 W.
+[11:45:31.997] Heater Relay Board Y7 -> ON.
+[11:45:31.997] Heater CH4, 4611 W, On, 0.50 s.
+[11:45:32.522] Heater Relay Board Y7 -> OFF.
+[11:45:32.522] Heater CH4, 0 W, Off, 0.20 s.
+[11:45:32.739] Heater parameters sent: CH1, 4611 W.
+[11:45:32.750] Heater Relay Board Y7 -> ON.
+[11:45:32.750] Heater CH1, 4611 W, On, 0.50 s.
+[11:45:33.271] Heater Relay Board Y7 -> OFF.
+[11:45:33.271] Heater CH1, 0 W, Off, 0.20 s.
+[11:45:33.490] Heater parameters sent: CH3, 4611 W.
+[11:45:33.501] Heater Relay Board Y7 -> ON.
+[11:45:33.501] Heater CH3, 4611 W, On, 0.50 s.
+[11:45:34.024] Heater Relay Board Y7 -> OFF.
+[11:45:34.024] Heater CH3, 0 W, Off, 0.20 s.
+[11:45:34.228] Wait 165.20 s.
+[11:48:19.444] Valve Relay Board Y2 -> OFF.
+[11:48:19.444] D2 -> Close.
+[11:48:19.444] Wait 1.00 s.
+[11:48:20.461] Valve Relay Board Y4 -> OFF.
+[11:48:20.461] D4 -> Close.
+[11:48:20.461] Wait 1.00 s.
+[11:48:21.476] Valve Relay Board Y1 -> OFF.
+[11:48:21.476] D1 -> Close.
+[11:48:21.476] Wait 1.00 s.
+[11:48:22.491] Valve Relay Board Y3 -> OFF.
+[11:48:22.491] D3 -> Close.
+[11:48:22.491] Wait 9.00 s.
+[11:48:31.516] Heater parameters sent: CH2, 13277 W.
+[11:48:31.526] Heater Relay Board Y7 -> ON.
+[11:48:31.526] Heater CH2, 13277 W, On, 0.34 s.
+[11:48:31.883] Heater Relay Board Y7 -> OFF.
+[11:48:31.883] Heater CH2, 0 W, Off, 0.36 s.
+[11:48:32.272] Heater parameters sent: CH4, 13277 W.
+[11:48:32.283] Heater Relay Board Y7 -> ON.
+[11:48:32.283] Heater CH4, 13277 W, On, 0.34 s.
+[11:48:32.637] Heater Relay Board Y7 -> OFF.
+[11:48:32.638] Heater CH4, 0 W, Off, 0.36 s.
+[11:48:33.026] Heater parameters sent: CH1, 13277 W.
+[11:48:33.037] Heater Relay Board Y7 -> ON.
+[11:48:33.037] Heater CH1, 13277 W, On, 0.34 s.
+[11:48:33.393] Heater Relay Board Y7 -> OFF.
+[11:48:33.393] Heater CH1, 0 W, Off, 0.36 s.
+[11:48:33.782] Heater parameters sent: CH3, 13277 W.
+[11:48:33.792] Heater Relay Board Y7 -> ON.
+[11:48:33.792] Heater CH3, 13277 W, On, 0.34 s.
+[11:48:34.149] Heater Relay Board Y7 -> OFF.
+[11:48:34.149] Heater CH3, 0 W, Off, 0.36 s.
+[11:48:34.522] Wait 13.20 s.
+[11:48:47.736] Valve Relay Board Y2 -> ON.
+[11:48:47.736] D2 -> Open.
+[11:48:47.747] Valve Relay Board Y4 -> ON.
+[11:48:47.747] D4 -> Open.
+[11:48:47.759] Valve Relay Board Y1 -> ON.
+[11:48:47.759] D1 -> Open.
+[11:48:47.770] Valve Relay Board Y3 -> ON.
+[11:48:47.770] D3 -> Open.
+[11:48:47.770] Wait 4.00 s.
+[11:48:51.799] Heater parameters sent: CH2, 4611 W.
+[11:48:51.809] Heater Relay Board Y7 -> ON.
+[11:48:51.809] Heater CH2, 4611 W, On, 0.50 s.
+[11:48:52.335] Heater Relay Board Y7 -> OFF.
+[11:48:52.335] Heater CH2, 0 W, Off, 0.20 s.
+[11:48:52.555] Heater parameters sent: CH4, 4611 W.
+[11:48:52.566] Heater Relay Board Y7 -> ON.
+[11:48:52.566] Heater CH4, 4611 W, On, 0.50 s.
+[11:48:53.077] Heater Relay Board Y7 -> OFF.
+[11:48:53.077] Heater CH4, 0 W, Off, 0.20 s.
+[11:48:53.297] Heater parameters sent: CH1, 4611 W.
+[11:48:53.307] Heater Relay Board Y7 -> ON.
+[11:48:53.307] Heater CH1, 4611 W, On, 0.50 s.
+[11:48:53.831] Heater Relay Board Y7 -> OFF.
+[11:48:53.831] Heater CH1, 0 W, Off, 0.20 s.
+[11:48:54.050] Heater parameters sent: CH3, 4611 W.
+[11:48:54.061] Heater Relay Board Y7 -> ON.
+[11:48:54.061] Heater CH3, 4611 W, On, 0.50 s.
+[11:48:54.587] Heater Relay Board Y7 -> OFF.
+[11:48:54.587] Heater CH3, 0 W, Off, 0.20 s.
+[11:48:54.793] Wait 165.20 s.
+[11:51:40.011] Valve Relay Board Y2 -> OFF.
+[11:51:40.011] D2 -> Close.
+[11:51:40.011] Wait 1.00 s.
+[11:51:41.029] Valve Relay Board Y4 -> OFF.
+[11:51:41.029] D4 -> Close.
+[11:51:41.029] Wait 1.00 s.
+[11:51:42.044] Valve Relay Board Y1 -> OFF.
+[11:51:42.044] D1 -> Close.
+[11:51:42.044] Wait 1.00 s.
+[11:51:43.061] Valve Relay Board Y3 -> OFF.
+[11:51:43.061] D3 -> Close.
+[11:51:43.061] Wait 9.00 s.
+[11:51:52.082] Heater parameters sent: CH2, 13277 W.
+[11:51:52.092] Heater Relay Board Y7 -> ON.
+[11:51:52.092] Heater CH2, 13277 W, On, 0.34 s.
+[11:51:52.446] Heater Relay Board Y7 -> OFF.
+[11:51:52.446] Heater CH2, 0 W, Off, 0.36 s.
+[11:51:52.823] Heater parameters sent: CH4, 13277 W.
+[11:51:52.833] Heater Relay Board Y7 -> ON.
+[11:51:52.833] Heater CH4, 13277 W, On, 0.34 s.
+[11:51:53.191] Heater Relay Board Y7 -> OFF.
+[11:51:53.191] Heater CH4, 0 W, Off, 0.36 s.
+[11:51:53.579] Heater parameters sent: CH1, 13277 W.
+[11:51:53.589] Heater Relay Board Y7 -> ON.
+[11:51:53.589] Heater CH1, 13277 W, On, 0.34 s.
+[11:51:53.944] Heater Relay Board Y7 -> OFF.
+[11:51:53.944] Heater CH1, 0 W, Off, 0.36 s.
+[11:51:54.333] Heater parameters sent: CH3, 13277 W.
+[11:51:54.344] Heater Relay Board Y7 -> ON.
+[11:51:54.344] Heater CH3, 13277 W, On, 0.34 s.
+[11:51:54.699] Heater Relay Board Y7 -> OFF.
+[11:51:54.699] Heater CH3, 0 W, Off, 0.36 s.
+[11:51:55.074] Wait 13.20 s.
+[11:52:08.297] Valve Relay Board Y2 -> ON.
+[11:52:08.297] D2 -> Open.
+[11:52:08.309] Valve Relay Board Y4 -> ON.
+[11:52:08.309] D4 -> Open.
+[11:52:08.321] Valve Relay Board Y1 -> ON.
+[11:52:08.321] D1 -> Open.
+[11:52:08.333] Valve Relay Board Y3 -> ON.
+[11:52:08.333] D3 -> Open.
+[11:52:08.333] Wait 4.00 s.
+[11:52:12.351] Heater parameters sent: CH2, 4611 W.
+[11:52:12.362] Heater Relay Board Y7 -> ON.
+[11:52:12.362] Heater CH2, 4611 W, On, 0.50 s.
+[11:52:12.886] Heater Relay Board Y7 -> OFF.
+[11:52:12.886] Heater CH2, 0 W, Off, 0.20 s.
+[11:52:13.107] Heater parameters sent: CH4, 4611 W.
+[11:52:13.118] Heater Relay Board Y7 -> ON.
+[11:52:13.118] Heater CH4, 4611 W, On, 0.50 s.
+[11:52:13.643] Heater Relay Board Y7 -> OFF.
+[11:52:13.643] Heater CH4, 0 W, Off, 0.20 s.
+[11:52:13.864] Heater parameters sent: CH1, 4611 W.
+[11:52:13.875] Heater Relay Board Y7 -> ON.
+[11:52:13.875] Heater CH1, 4611 W, On, 0.50 s.
+[11:52:14.399] Heater Relay Board Y7 -> OFF.
+[11:52:14.399] Heater CH1, 0 W, Off, 0.20 s.
+[11:52:14.619] Heater parameters sent: CH3, 4611 W.
+[11:52:14.630] Heater Relay Board Y7 -> ON.
+[11:52:14.630] Heater CH3, 4611 W, On, 0.50 s.
+[11:52:15.153] Heater Relay Board Y7 -> OFF.
+[11:52:15.153] Heater CH3, 0 W, Off, 0.20 s.
+[11:52:15.359] Wait 165.20 s.
+[11:55:00.580] Valve Relay Board Y2 -> OFF.
+[11:55:00.580] D2 -> Close.
+[11:55:00.580] Wait 1.00 s.
+[11:55:01.596] Valve Relay Board Y4 -> OFF.
+[11:55:01.596] D4 -> Close.
+[11:55:01.596] Wait 1.00 s.
+[11:55:02.614] Valve Relay Board Y1 -> OFF.
+[11:55:02.614] D1 -> Close.
+[11:55:02.614] Wait 1.00 s.
+[11:55:03.631] Valve Relay Board Y3 -> OFF.
+[11:55:03.631] D3 -> Close.
+[11:55:03.631] Wait 9.00 s.
+[11:55:12.658] Heater parameters sent: CH2, 13277 W.
+[11:55:12.669] Heater Relay Board Y7 -> ON.
+[11:55:12.669] Heater CH2, 13277 W, On, 0.34 s.
+[11:55:13.025] Heater Relay Board Y7 -> OFF.
+[11:55:13.025] Heater CH2, 0 W, Off, 0.36 s.
+[11:55:13.414] Heater parameters sent: CH4, 13277 W.
+[11:55:13.424] Heater Relay Board Y7 -> ON.
+[11:55:13.424] Heater CH4, 13277 W, On, 0.34 s.
+[11:55:13.780] Heater Relay Board Y7 -> OFF.
+[11:55:13.780] Heater CH4, 0 W, Off, 0.36 s.
+[11:55:14.167] Heater parameters sent: CH1, 13277 W.
+[11:55:14.177] Heater Relay Board Y7 -> ON.
+[11:55:14.177] Heater CH1, 13277 W, On, 0.34 s.
+[11:55:14.534] Heater Relay Board Y7 -> OFF.
+[11:55:14.534] Heater CH1, 0 W, Off, 0.36 s.
+[11:55:14.910] Heater parameters sent: CH3, 13277 W.
+[11:55:14.920] Heater Relay Board Y7 -> ON.
+[11:55:14.920] Heater CH3, 13277 W, On, 0.34 s.
+[11:55:15.277] Heater Relay Board Y7 -> OFF.
+[11:55:15.277] Heater CH3, 0 W, Off, 0.36 s.
+[11:55:15.652] Wait 13.20 s.
+[11:55:28.871] Valve Relay Board Y2 -> ON.
+[11:55:28.871] D2 -> Open.
+[11:55:28.882] Valve Relay Board Y4 -> ON.
+[11:55:28.882] D4 -> Open.
+[11:55:28.894] Valve Relay Board Y1 -> ON.
+[11:55:28.894] D1 -> Open.
+[11:55:28.906] Valve Relay Board Y3 -> ON.
+[11:55:28.906] D3 -> Open.
+[11:55:28.906] Wait 4.00 s.
+[11:55:32.936] Heater parameters sent: CH2, 4611 W.
+[11:55:32.946] Heater Relay Board Y7 -> ON.
+[11:55:32.946] Heater CH2, 4611 W, On, 0.50 s.
+[11:55:33.470] Heater Relay Board Y7 -> OFF.
+[11:55:33.470] Heater CH2, 0 W, Off, 0.20 s.
+[11:55:33.691] Heater parameters sent: CH4, 4611 W.
+[11:55:33.701] Heater Relay Board Y7 -> ON.
+[11:55:33.701] Heater CH4, 4611 W, On, 0.50 s.
+[11:55:34.212] Heater Relay Board Y7 -> OFF.
+[11:55:34.212] Heater CH4, 0 W, Off, 0.20 s.
+[11:55:34.430] Heater parameters sent: CH1, 4611 W.
+[11:55:34.441] Heater Relay Board Y7 -> ON.
+[11:55:34.441] Heater CH1, 4611 W, On, 0.50 s.
+[11:55:34.964] Heater Relay Board Y7 -> OFF.
+[11:55:34.964] Heater CH1, 0 W, Off, 0.20 s.
+[11:55:35.183] Heater parameters sent: CH3, 4611 W.
+[11:55:35.194] Heater Relay Board Y7 -> ON.
+[11:55:35.194] Heater CH3, 4611 W, On, 0.50 s.
+[11:55:35.719] Heater Relay Board Y7 -> OFF.
+[11:55:35.719] Heater CH3, 0 W, Off, 0.20 s.
+[11:55:35.924] Wait 165.20 s.
+[11:58:21.152] Valve Relay Board Y2 -> OFF.
+[11:58:21.152] D2 -> Close.
+[11:58:21.152] Wait 1.00 s.
+[11:58:22.166] Valve Relay Board Y4 -> OFF.
+[11:58:22.166] D4 -> Close.
+[11:58:22.166] Wait 1.00 s.
+[11:58:23.189] Valve Relay Board Y1 -> OFF.
+[11:58:23.189] D1 -> Close.
+[11:58:23.189] Wait 1.00 s.
+[11:58:24.206] Valve Relay Board Y3 -> OFF.
+[11:58:24.206] D3 -> Close.
+[11:58:24.206] Wait 9.00 s.
+[11:58:33.229] Heater parameters sent: CH2, 13277 W.
+[11:58:33.240] Heater Relay Board Y7 -> ON.
+[11:58:33.240] Heater CH2, 13277 W, On, 0.34 s.
+[11:58:33.596] Heater Relay Board Y7 -> OFF.
+[11:58:33.596] Heater CH2, 0 W, Off, 0.36 s.
+[11:58:33.983] Heater parameters sent: CH4, 13277 W.
+[11:58:33.993] Heater Relay Board Y7 -> ON.
+[11:58:33.993] Heater CH4, 13277 W, On, 0.34 s.
+[11:58:34.351] Heater Relay Board Y7 -> OFF.
+[11:58:34.351] Heater CH4, 0 W, Off, 0.36 s.
+[11:58:34.739] Heater parameters sent: CH1, 13277 W.
+[11:58:34.750] Heater Relay Board Y7 -> ON.
+[11:58:34.750] Heater CH1, 13277 W, On, 0.34 s.
+[11:58:35.104] Heater Relay Board Y7 -> OFF.
+[11:58:35.104] Heater CH1, 0 W, Off, 0.36 s.
+[11:58:35.493] Heater parameters sent: CH3, 13277 W.
+[11:58:35.504] Heater Relay Board Y7 -> ON.
+[11:58:35.504] Heater CH3, 13277 W, On, 0.34 s.
+[11:58:35.859] Heater Relay Board Y7 -> OFF.
+[11:58:35.859] Heater CH3, 0 W, Off, 0.36 s.
+[11:58:36.233] Wait 13.20 s.
+[11:58:49.456] Valve Relay Board Y2 -> ON.
+[11:58:49.456] D2 -> Open.
+[11:58:49.468] Valve Relay Board Y4 -> ON.
+[11:58:49.468] D4 -> Open.
+[11:58:49.478] Valve Relay Board Y1 -> ON.
+[11:58:49.478] D1 -> Open.
+[11:58:49.490] Valve Relay Board Y3 -> ON.
+[11:58:49.490] D3 -> Open.
+[11:58:49.490] Wait 4.00 s.
+[11:58:53.519] Heater parameters sent: CH2, 4611 W.
+[11:58:53.530] Heater Relay Board Y7 -> ON.
+[11:58:53.530] Heater CH2, 4611 W, On, 0.50 s.
+[11:58:54.051] Heater Relay Board Y7 -> OFF.
+[11:58:54.051] Heater CH2, 0 W, Off, 0.20 s.
+[11:58:54.271] Heater parameters sent: CH4, 4611 W.
+[11:58:54.282] Heater Relay Board Y7 -> ON.
+[11:58:54.282] Heater CH4, 4611 W, On, 0.50 s.
+[11:58:54.803] Heater Relay Board Y7 -> OFF.
+[11:58:54.803] Heater CH4, 0 W, Off, 0.20 s.
+[11:58:55.022] Heater parameters sent: CH1, 4611 W.
+[11:58:55.033] Heater Relay Board Y7 -> ON.
+[11:58:55.033] Heater CH1, 4611 W, On, 0.50 s.
+[11:58:55.556] Heater Relay Board Y7 -> OFF.
+[11:58:55.556] Heater CH1, 0 W, Off, 0.20 s.
+[11:58:55.776] Heater parameters sent: CH3, 4611 W.
+[11:58:55.787] Heater Relay Board Y7 -> ON.
+[11:58:55.787] Heater CH3, 4611 W, On, 0.50 s.
+[11:58:56.311] Heater Relay Board Y7 -> OFF.
+[11:58:56.311] Heater CH3, 0 W, Off, 0.20 s.
+[11:58:56.518] Wait 165.20 s.
+[12:01:41.734] Valve Relay Board Y2 -> OFF.
+[12:01:41.734] D2 -> Close.
+[12:01:41.734] Wait 1.00 s.
+[12:01:42.750] Valve Relay Board Y4 -> OFF.
+[12:01:42.750] D4 -> Close.
+[12:01:42.750] Wait 1.00 s.
+[12:01:43.766] Valve Relay Board Y1 -> OFF.
+[12:01:43.766] D1 -> Close.
+[12:01:43.766] Wait 1.00 s.
+[12:01:44.785] Valve Relay Board Y3 -> OFF.
+[12:01:44.785] D3 -> Close.
+[12:01:44.785] Wait 9.00 s.
+[12:01:53.801] Heater parameters sent: CH2, 13277 W.
+[12:01:53.811] Heater Relay Board Y7 -> ON.
+[12:01:53.812] Heater CH2, 13277 W, On, 0.34 s.
+[12:01:54.165] Heater Relay Board Y7 -> OFF.
+[12:01:54.165] Heater CH2, 0 W, Off, 0.36 s.
+[12:01:54.552] Heater parameters sent: CH4, 13277 W.
+[12:01:54.562] Heater Relay Board Y7 -> ON.
+[12:01:54.563] Heater CH4, 13277 W, On, 0.34 s.
+[12:01:54.919] Heater Relay Board Y7 -> OFF.
+[12:01:54.919] Heater CH4, 0 W, Off, 0.36 s.
+[12:01:55.308] Heater parameters sent: CH1, 13277 W.
+[12:01:55.319] Heater Relay Board Y7 -> ON.
+[12:01:55.319] Heater CH1, 13277 W, On, 0.34 s.
+[12:01:55.673] Heater Relay Board Y7 -> OFF.
+[12:01:55.673] Heater CH1, 0 W, Off, 0.36 s.
+[12:01:56.062] Heater parameters sent: CH3, 13277 W.
+[12:01:56.073] Heater Relay Board Y7 -> ON.
+[12:01:56.073] Heater CH3, 13277 W, On, 0.34 s.
+[12:01:56.428] Heater Relay Board Y7 -> OFF.
+[12:01:56.428] Heater CH3, 0 W, Off, 0.36 s.
+[12:01:56.789] Wait 13.20 s.
+[12:02:10.015] Valve Relay Board Y2 -> ON.
+[12:02:10.015] D2 -> Open.
+[12:02:10.027] Valve Relay Board Y4 -> ON.
+[12:02:10.027] D4 -> Open.
+[12:02:10.039] Valve Relay Board Y1 -> ON.
+[12:02:10.039] D1 -> Open.
+[12:02:10.050] Valve Relay Board Y3 -> ON.
+[12:02:10.050] D3 -> Open.
+[12:02:10.050] Wait 4.00 s.
+[12:02:14.078] Heater parameters sent: CH2, 4611 W.
+[12:02:14.089] Heater Relay Board Y7 -> ON.
+[12:02:14.089] Heater CH2, 4611 W, On, 0.50 s.
+[12:02:14.612] Heater Relay Board Y7 -> OFF.
+[12:02:14.612] Heater CH2, 0 W, Off, 0.20 s.
+[12:02:14.833] Heater parameters sent: CH4, 4611 W.
+[12:02:14.844] Heater Relay Board Y7 -> ON.
+[12:02:14.844] Heater CH4, 4611 W, On, 0.50 s.
+[12:02:15.369] Heater Relay Board Y7 -> OFF.
+[12:02:15.369] Heater CH4, 0 W, Off, 0.20 s.
+[12:02:15.590] Heater parameters sent: CH1, 4611 W.
+[12:02:15.600] Heater Relay Board Y7 -> ON.
+[12:02:15.600] Heater CH1, 4611 W, On, 0.50 s.
+[12:02:16.124] Heater Relay Board Y7 -> OFF.
+[12:02:16.124] Heater CH1, 0 W, Off, 0.20 s.
+[12:02:16.342] Heater parameters sent: CH3, 4611 W.
+[12:02:16.353] Heater Relay Board Y7 -> ON.
+[12:02:16.353] Heater CH3, 4611 W, On, 0.50 s.
+[12:02:16.877] Heater Relay Board Y7 -> OFF.
+[12:02:16.877] Heater CH3, 0 W, Off, 0.20 s.
+[12:02:17.082] Wait 165.20 s.
+[12:05:02.302] Valve Relay Board Y2 -> OFF.
+[12:05:02.302] D2 -> Close.
+[12:05:02.303] Wait 1.00 s.
+[12:05:03.321] Valve Relay Board Y4 -> OFF.
+[12:05:03.321] D4 -> Close.
+[12:05:03.321] Wait 1.00 s.
+[12:05:04.335] Valve Relay Board Y1 -> OFF.
+[12:05:04.335] D1 -> Close.
+[12:05:04.336] Wait 1.00 s.
+[12:05:05.354] Valve Relay Board Y3 -> OFF.
+[12:05:05.354] D3 -> Close.
+[12:05:05.354] Wait 9.00 s.
+[12:05:14.384] Heater parameters sent: CH2, 13277 W.
+[12:05:14.394] Heater Relay Board Y7 -> ON.
+[12:05:14.394] Heater CH2, 13277 W, On, 0.34 s.
+[12:05:14.751] Heater Relay Board Y7 -> OFF.
+[12:05:14.752] Heater CH2, 0 W, Off, 0.36 s.
+[12:05:15.141] Heater parameters sent: CH4, 13277 W.
+[12:05:15.151] Heater Relay Board Y7 -> ON.
+[12:05:15.151] Heater CH4, 13277 W, On, 0.34 s.
+[12:05:15.507] Heater Relay Board Y7 -> OFF.
+[12:05:15.507] Heater CH4, 0 W, Off, 0.36 s.
+[12:05:15.884] Heater parameters sent: CH1, 13277 W.
+[12:05:15.894] Heater Relay Board Y7 -> ON.
+[12:05:15.894] Heater CH1, 13277 W, On, 0.34 s.
+[12:05:16.251] Heater Relay Board Y7 -> OFF.
+[12:05:16.251] Heater CH1, 0 W, Off, 0.36 s.
+[12:05:16.640] Heater parameters sent: CH3, 13277 W.
+[12:05:16.651] Heater Relay Board Y7 -> ON.
+[12:05:16.651] Heater CH3, 13277 W, On, 0.34 s.
+[12:05:17.004] Heater Relay Board Y7 -> OFF.
+[12:05:17.004] Heater CH3, 0 W, Off, 0.36 s.
+[12:05:17.364] Wait 13.20 s.
+[12:05:30.584] Valve Relay Board Y2 -> ON.
+[12:05:30.584] D2 -> Open.
+[12:05:30.596] Valve Relay Board Y4 -> ON.
+[12:05:30.596] D4 -> Open.
+[12:05:30.607] Valve Relay Board Y1 -> ON.
+[12:05:30.607] D1 -> Open.
+[12:05:30.618] Valve Relay Board Y3 -> ON.
+[12:05:30.618] D3 -> Open.
+[12:05:30.619] Wait 4.00 s.
+[12:05:34.640] Heater parameters sent: CH2, 4611 W.
+[12:05:34.651] Heater Relay Board Y7 -> ON.
+[12:05:34.651] Heater CH2, 4611 W, On, 0.50 s.
+[12:05:35.173] Heater Relay Board Y7 -> OFF.
+[12:05:35.173] Heater CH2, 0 W, Off, 0.20 s.
+[12:05:35.392] Heater parameters sent: CH4, 4611 W.
+[12:05:35.404] Heater Relay Board Y7 -> ON.
+[12:05:35.404] Heater CH4, 4611 W, On, 0.50 s.
+[12:05:35.928] Heater Relay Board Y7 -> OFF.
+[12:05:35.928] Heater CH4, 0 W, Off, 0.20 s.
+[12:05:36.145] Heater parameters sent: CH1, 4611 W.
+[12:05:36.156] Heater Relay Board Y7 -> ON.
+[12:05:36.156] Heater CH1, 4611 W, On, 0.50 s.
+[12:05:36.679] Heater Relay Board Y7 -> OFF.
+[12:05:36.679] Heater CH1, 0 W, Off, 0.20 s.
+[12:05:36.898] Heater parameters sent: CH3, 4611 W.
+[12:05:36.909] Heater Relay Board Y7 -> ON.
+[12:05:36.909] Heater CH3, 4611 W, On, 0.50 s.
+[12:05:37.433] Heater Relay Board Y7 -> OFF.
+[12:05:37.433] Heater CH3, 0 W, Off, 0.20 s.
+[12:05:37.639] Wait 165.20 s.
+[12:08:22.860] Valve Relay Board Y2 -> OFF.
+[12:08:22.860] D2 -> Close.
+[12:08:22.860] Wait 1.00 s.
+[12:08:23.873] Valve Relay Board Y4 -> OFF.
+[12:08:23.873] D4 -> Close.
+[12:08:23.873] Wait 1.00 s.
+[12:08:24.890] Valve Relay Board Y1 -> OFF.
+[12:08:24.890] D1 -> Close.
+[12:08:24.891] Wait 1.00 s.
+[12:08:25.906] Valve Relay Board Y3 -> OFF.
+[12:08:25.906] D3 -> Close.
+[12:08:25.906] Wait 9.00 s.
+[12:08:34.934] Heater parameters sent: CH2, 13277 W.
+[12:08:34.944] Heater Relay Board Y7 -> ON.
+[12:08:34.945] Heater CH2, 13277 W, On, 0.34 s.
+[12:08:35.300] Heater Relay Board Y7 -> OFF.
+[12:08:35.300] Heater CH2, 0 W, Off, 0.36 s.
+[12:08:35.689] Heater parameters sent: CH4, 13277 W.
+[12:08:35.699] Heater Relay Board Y7 -> ON.
+[12:08:35.699] Heater CH4, 13277 W, On, 0.34 s.
+[12:08:36.054] Heater Relay Board Y7 -> OFF.
+[12:08:36.054] Heater CH4, 0 W, Off, 0.36 s.
+[12:08:36.441] Heater parameters sent: CH1, 13277 W.
+[12:08:36.452] Heater Relay Board Y7 -> ON.
+[12:08:36.452] Heater CH1, 13277 W, On, 0.34 s.
+[12:08:36.807] Heater Relay Board Y7 -> OFF.
+[12:08:36.808] Heater CH1, 0 W, Off, 0.36 s.
+[12:08:37.194] Heater parameters sent: CH3, 13277 W.
+[12:08:37.205] Heater Relay Board Y7 -> ON.
+[12:08:37.205] Heater CH3, 13277 W, On, 0.34 s.
+[12:08:37.560] Heater Relay Board Y7 -> OFF.
+[12:08:37.560] Heater CH3, 0 W, Off, 0.36 s.
+[12:08:37.923] Wait 13.20 s.
+[12:08:51.148] Valve Relay Board Y2 -> ON.
+[12:08:51.148] D2 -> Open.
+[12:08:51.160] Valve Relay Board Y4 -> ON.
+[12:08:51.160] D4 -> Open.
+[12:08:51.171] Valve Relay Board Y1 -> ON.
+[12:08:51.171] D1 -> Open.
+[12:08:51.182] Valve Relay Board Y3 -> ON.
+[12:08:51.182] D3 -> Open.
+[12:08:51.182] Wait 4.00 s.
+[12:08:55.203] Heater parameters sent: CH2, 4611 W.
+[12:08:55.214] Heater Relay Board Y7 -> ON.
+[12:08:55.214] Heater CH2, 4611 W, On, 0.50 s.
+[12:08:55.740] Heater Relay Board Y7 -> OFF.
+[12:08:55.740] Heater CH2, 0 W, Off, 0.20 s.
+[12:08:55.959] Heater parameters sent: CH4, 4611 W.
+[12:08:55.970] Heater Relay Board Y7 -> ON.
+[12:08:55.970] Heater CH4, 4611 W, On, 0.50 s.
+[12:08:56.495] Heater Relay Board Y7 -> OFF.
+[12:08:56.495] Heater CH4, 0 W, Off, 0.20 s.
+[12:08:56.714] Heater parameters sent: CH1, 4611 W.
+[12:08:56.725] Heater Relay Board Y7 -> ON.
+[12:08:56.725] Heater CH1, 4611 W, On, 0.50 s.
+[12:08:57.247] Heater Relay Board Y7 -> OFF.
+[12:08:57.247] Heater CH1, 0 W, Off, 0.20 s.
+[12:08:57.468] Heater parameters sent: CH3, 4611 W.
+[12:08:57.479] Heater Relay Board Y7 -> ON.
+[12:08:57.479] Heater CH3, 4611 W, On, 0.50 s.
+[12:08:58.002] Heater Relay Board Y7 -> OFF.
+[12:08:58.002] Heater CH3, 0 W, Off, 0.20 s.
+[12:08:58.206] Wait 165.20 s.
+[12:11:43.426] Valve Relay Board Y2 -> OFF.
+[12:11:43.426] D2 -> Close.
+[12:11:43.426] Wait 1.00 s.
+[12:11:44.444] Valve Relay Board Y4 -> OFF.
+[12:11:44.444] D4 -> Close.
+[12:11:44.444] Wait 1.00 s.
+[12:11:45.462] Valve Relay Board Y1 -> OFF.
+[12:11:45.462] D1 -> Close.
+[12:11:45.462] Wait 1.00 s.
+[12:11:46.479] Valve Relay Board Y3 -> OFF.
+[12:11:46.479] D3 -> Close.
+[12:11:46.479] Wait 9.00 s.
+[12:11:55.507] Heater parameters sent: CH2, 13277 W.
+[12:11:55.518] Heater Relay Board Y7 -> ON.
+[12:11:55.518] Heater CH2, 13277 W, On, 0.34 s.
+[12:11:55.876] Heater Relay Board Y7 -> OFF.
+[12:11:55.876] Heater CH2, 0 W, Off, 0.36 s.
+[12:11:56.266] Heater parameters sent: CH4, 13277 W.
+[12:11:56.277] Heater Relay Board Y7 -> ON.
+[12:11:56.277] Heater CH4, 13277 W, On, 0.34 s.
+[12:11:56.633] Heater Relay Board Y7 -> OFF.
+[12:11:56.633] Heater CH4, 0 W, Off, 0.36 s.
+[12:11:57.023] Heater parameters sent: CH1, 13277 W.
+[12:11:57.034] Heater Relay Board Y7 -> ON.
+[12:11:57.034] Heater CH1, 13277 W, On, 0.34 s.
+[12:11:57.388] Heater Relay Board Y7 -> OFF.
+[12:11:57.388] Heater CH1, 0 W, Off, 0.36 s.
+[12:11:57.775] Heater parameters sent: CH3, 13277 W.
+[12:11:57.785] Heater Relay Board Y7 -> ON.
+[12:11:57.785] Heater CH3, 13277 W, On, 0.34 s.
+[12:11:58.140] Heater Relay Board Y7 -> OFF.
+[12:11:58.140] Heater CH3, 0 W, Off, 0.36 s.
+[12:11:58.500] Wait 13.20 s.
+[12:12:11.723] Valve Relay Board Y2 -> ON.
+[12:12:11.723] D2 -> Open.
+[12:12:11.734] Valve Relay Board Y4 -> ON.
+[12:12:11.734] D4 -> Open.
+[12:12:11.745] Valve Relay Board Y1 -> ON.
+[12:12:11.745] D1 -> Open.
+[12:12:11.756] Valve Relay Board Y3 -> ON.
+[12:12:11.756] D3 -> Open.
+[12:12:11.757] Wait 4.00 s.
+[12:12:15.782] Heater parameters sent: CH2, 4611 W.
+[12:12:15.792] Heater Relay Board Y7 -> ON.
+[12:12:15.792] Heater CH2, 4611 W, On, 0.50 s.
+[12:12:16.319] Heater Relay Board Y7 -> OFF.
+[12:12:16.319] Heater CH2, 0 W, Off, 0.20 s.
+[12:12:16.537] Heater parameters sent: CH4, 4611 W.
+[12:12:16.548] Heater Relay Board Y7 -> ON.
+[12:12:16.548] Heater CH4, 4611 W, On, 0.50 s.
+[12:12:17.074] Heater Relay Board Y7 -> OFF.
+[12:12:17.074] Heater CH4, 0 W, Off, 0.20 s.
+[12:12:17.292] Heater parameters sent: CH1, 4611 W.
+[12:12:17.303] Heater Relay Board Y7 -> ON.
+[12:12:17.303] Heater CH1, 4611 W, On, 0.50 s.
+[12:12:17.829] Heater Relay Board Y7 -> OFF.
+[12:12:17.829] Heater CH1, 0 W, Off, 0.20 s.
+[12:12:18.050] Heater parameters sent: CH3, 4611 W.
+[12:12:18.061] Heater Relay Board Y7 -> ON.
+[12:12:18.061] Heater CH3, 4611 W, On, 0.50 s.
+[12:12:18.583] Heater Relay Board Y7 -> OFF.
+[12:12:18.583] Heater CH3, 0 W, Off, 0.20 s.
+[12:12:18.788] Wait 165.20 s.
+[12:15:04.012] Valve Relay Board Y2 -> OFF.
+[12:15:04.012] D2 -> Close.
+[12:15:04.012] Wait 1.00 s.
+[12:15:05.029] Valve Relay Board Y4 -> OFF.
+[12:15:05.029] D4 -> Close.
+[12:15:05.029] Wait 1.00 s.
+[12:15:06.044] Valve Relay Board Y1 -> OFF.
+[12:15:06.044] D1 -> Close.
+[12:15:06.044] Wait 1.00 s.
+[12:15:07.056] Valve Relay Board Y3 -> OFF.
+[12:15:07.056] D3 -> Close.
+[12:15:07.056] Wait 9.00 s.
+[12:15:16.074] Heater parameters sent: CH2, 13277 W.
+[12:15:16.086] Heater Relay Board Y7 -> ON.
+[12:15:16.086] Heater CH2, 13277 W, On, 0.34 s.
+[12:15:16.440] Heater Relay Board Y7 -> OFF.
+[12:15:16.440] Heater CH2, 0 W, Off, 0.36 s.
+[12:15:16.830] Heater parameters sent: CH4, 13277 W.
+[12:15:16.841] Heater Relay Board Y7 -> ON.
+[12:15:16.841] Heater CH4, 13277 W, On, 0.34 s.
+[12:15:17.195] Heater Relay Board Y7 -> OFF.
+[12:15:17.195] Heater CH4, 0 W, Off, 0.36 s.
+[12:15:17.585] Heater parameters sent: CH1, 13277 W.
+[12:15:17.595] Heater Relay Board Y7 -> ON.
+[12:15:17.595] Heater CH1, 13277 W, On, 0.34 s.
+[12:15:17.953] Heater Relay Board Y7 -> OFF.
+[12:15:17.953] Heater CH1, 0 W, Off, 0.36 s.
+[12:15:18.342] Heater parameters sent: CH3, 13277 W.
+[12:15:18.354] Heater Relay Board Y7 -> ON.
+[12:15:18.354] Heater CH3, 13277 W, On, 0.34 s.
+[12:15:18.708] Heater Relay Board Y7 -> OFF.
+[12:15:18.708] Heater CH3, 0 W, Off, 0.36 s.
+[12:15:19.080] Wait 13.20 s.
+[12:15:32.305] Valve Relay Board Y2 -> ON.
+[12:15:32.305] D2 -> Open.
+[12:15:32.317] Valve Relay Board Y4 -> ON.
+[12:15:32.317] D4 -> Open.
+[12:15:32.329] Valve Relay Board Y1 -> ON.
+[12:15:32.329] D1 -> Open.
+[12:15:32.341] Valve Relay Board Y3 -> ON.
+[12:15:32.341] D3 -> Open.
+[12:15:32.341] Wait 4.00 s.
+[12:15:36.361] Heater parameters sent: CH2, 4611 W.
+[12:15:36.372] Heater Relay Board Y7 -> ON.
+[12:15:36.372] Heater CH2, 4611 W, On, 0.50 s.
+[12:15:36.893] Heater Relay Board Y7 -> OFF.
+[12:15:36.893] Heater CH2, 0 W, Off, 0.20 s.
+[12:15:37.111] Heater parameters sent: CH4, 4611 W.
+[12:15:37.122] Heater Relay Board Y7 -> ON.
+[12:15:37.122] Heater CH4, 4611 W, On, 0.50 s.
+[12:15:37.644] Heater Relay Board Y7 -> OFF.
+[12:15:37.644] Heater CH4, 0 W, Off, 0.20 s.
+[12:15:37.865] Heater parameters sent: CH1, 4611 W.
+[12:15:37.876] Heater Relay Board Y7 -> ON.
+[12:15:37.876] Heater CH1, 4611 W, On, 0.50 s.
+[12:15:38.400] Heater Relay Board Y7 -> OFF.
+[12:15:38.400] Heater CH1, 0 W, Off, 0.20 s.
+[12:15:38.618] Heater parameters sent: CH3, 4611 W.
+[12:15:38.629] Heater Relay Board Y7 -> ON.
+[12:15:38.629] Heater CH3, 4611 W, On, 0.50 s.
+[12:15:39.154] Heater Relay Board Y7 -> OFF.
+[12:15:39.154] Heater CH3, 0 W, Off, 0.20 s.
+[12:15:39.359] Wait 165.20 s.
+[12:18:24.587] Valve Relay Board Y2 -> OFF.
+[12:18:24.587] D2 -> Close.
+[12:18:24.587] Wait 1.00 s.
+[12:18:25.601] Valve Relay Board Y4 -> OFF.
+[12:18:25.601] D4 -> Close.
+[12:18:25.601] Wait 1.00 s.
+[12:18:26.613] Valve Relay Board Y1 -> OFF.
+[12:18:26.613] D1 -> Close.
+[12:18:26.614] Wait 1.00 s.
+[12:18:27.631] Valve Relay Board Y3 -> OFF.
+[12:18:27.631] D3 -> Close.
+[12:18:27.631] Wait 9.00 s.
+[12:18:36.646] Heater parameters sent: CH2, 13277 W.
+[12:18:36.657] Heater Relay Board Y7 -> ON.
+[12:18:36.657] Heater CH2, 13277 W, On, 0.34 s.
+[12:18:37.011] Heater Relay Board Y7 -> OFF.
+[12:18:37.011] Heater CH2, 0 W, Off, 0.36 s.
+[12:18:37.398] Heater parameters sent: CH4, 13277 W.
+[12:18:37.409] Heater Relay Board Y7 -> ON.
+[12:18:37.409] Heater CH4, 13277 W, On, 0.34 s.
+[12:18:37.765] Heater Relay Board Y7 -> OFF.
+[12:18:37.766] Heater CH4, 0 W, Off, 0.36 s.
+[12:18:38.154] Heater parameters sent: CH1, 13277 W.
+[12:18:38.164] Heater Relay Board Y7 -> ON.
+[12:18:38.164] Heater CH1, 13277 W, On, 0.34 s.
+[12:18:38.520] Heater Relay Board Y7 -> OFF.
+[12:18:38.520] Heater CH1, 0 W, Off, 0.36 s.
+[12:18:38.909] Heater parameters sent: CH3, 13277 W.
+[12:18:38.920] Heater Relay Board Y7 -> ON.
+[12:18:38.920] Heater CH3, 13277 W, On, 0.34 s.
+[12:18:39.276] Heater Relay Board Y7 -> OFF.
+[12:18:39.276] Heater CH3, 0 W, Off, 0.36 s.
+[12:18:39.649] Wait 13.20 s.
+[12:18:52.876] Valve Relay Board Y2 -> ON.
+[12:18:52.876] D2 -> Open.
+[12:18:52.888] Valve Relay Board Y4 -> ON.
+[12:18:52.888] D4 -> Open.
+[12:18:52.900] Valve Relay Board Y1 -> ON.
+[12:18:52.900] D1 -> Open.
+[12:18:52.911] Valve Relay Board Y3 -> ON.
+[12:18:52.911] D3 -> Open.
+[12:18:52.912] Wait 4.00 s.
+[12:18:56.940] Heater parameters sent: CH2, 4611 W.
+[12:18:56.951] Heater Relay Board Y7 -> ON.
+[12:18:56.951] Heater CH2, 4611 W, On, 0.50 s.
+[12:18:57.472] Heater Relay Board Y7 -> OFF.
+[12:18:57.472] Heater CH2, 0 W, Off, 0.20 s.
+[12:18:57.692] Heater parameters sent: CH4, 4611 W.
+[12:18:57.703] Heater Relay Board Y7 -> ON.
+[12:18:57.703] Heater CH4, 4611 W, On, 0.50 s.
+[12:18:58.229] Heater Relay Board Y7 -> OFF.
+[12:18:58.229] Heater CH4, 0 W, Off, 0.20 s.
+[12:18:58.447] Heater parameters sent: CH1, 4611 W.
+[12:18:58.458] Heater Relay Board Y7 -> ON.
+[12:18:58.458] Heater CH1, 4611 W, On, 0.50 s.
+[12:18:58.984] Heater Relay Board Y7 -> OFF.
+[12:18:58.984] Heater CH1, 0 W, Off, 0.20 s.
+[12:18:59.204] Heater parameters sent: CH3, 4611 W.
+[12:18:59.215] Heater Relay Board Y7 -> ON.
+[12:18:59.215] Heater CH3, 4611 W, On, 0.50 s.
+[12:18:59.738] Heater Relay Board Y7 -> OFF.
+[12:18:59.738] Heater CH3, 0 W, Off, 0.20 s.
+[12:18:59.943] Wait 165.20 s.
+[12:21:45.159] Valve Relay Board Y2 -> OFF.
+[12:21:45.159] D2 -> Close.
+[12:21:45.159] Wait 1.00 s.
+[12:21:46.172] Valve Relay Board Y4 -> OFF.
+[12:21:46.172] D4 -> Close.
+[12:21:46.172] Wait 1.00 s.
+[12:21:47.199] Valve Relay Board Y1 -> OFF.
+[12:21:47.199] D1 -> Close.
+[12:21:47.199] Wait 1.00 s.
+[12:21:48.219] Valve Relay Board Y3 -> OFF.
+[12:21:48.219] D3 -> Close.
+[12:21:48.219] Wait 9.00 s.
+[12:21:57.239] Heater parameters sent: CH2, 13277 W.
+[12:21:57.250] Heater Relay Board Y7 -> ON.
+[12:21:57.250] Heater CH2, 13277 W, On, 0.34 s.
+[12:21:57.603] Heater Relay Board Y7 -> OFF.
+[12:21:57.603] Heater CH2, 0 W, Off, 0.36 s.
+[12:21:57.993] Heater parameters sent: CH4, 13277 W.
+[12:21:58.004] Heater Relay Board Y7 -> ON.
+[12:21:58.004] Heater CH4, 13277 W, On, 0.34 s.
+[12:21:58.360] Heater Relay Board Y7 -> OFF.
+[12:21:58.360] Heater CH4, 0 W, Off, 0.36 s.
+[12:21:58.749] Heater parameters sent: CH1, 13277 W.
+[12:21:58.759] Heater Relay Board Y7 -> ON.
+[12:21:58.759] Heater CH1, 13277 W, On, 0.34 s.
+[12:21:59.117] Heater Relay Board Y7 -> OFF.
+[12:21:59.117] Heater CH1, 0 W, Off, 0.36 s.
+[12:21:59.505] Heater parameters sent: CH3, 13277 W.
+[12:21:59.516] Heater Relay Board Y7 -> ON.
+[12:21:59.516] Heater CH3, 13277 W, On, 0.34 s.
+[12:21:59.868] Heater Relay Board Y7 -> OFF.
+[12:21:59.868] Heater CH3, 0 W, Off, 0.36 s.
+[12:22:00.244] Wait 13.20 s.
+[12:22:13.461] Valve Relay Board Y2 -> ON.
+[12:22:13.461] D2 -> Open.
+[12:22:13.472] Valve Relay Board Y4 -> ON.
+[12:22:13.472] D4 -> Open.
+[12:22:13.483] Valve Relay Board Y1 -> ON.
+[12:22:13.483] D1 -> Open.
+[12:22:13.495] Valve Relay Board Y3 -> ON.
+[12:22:13.495] D3 -> Open.
+[12:22:13.495] Wait 4.00 s.
+[12:22:17.518] Heater parameters sent: CH2, 4611 W.
+[12:22:17.529] Heater Relay Board Y7 -> ON.
+[12:22:17.529] Heater CH2, 4611 W, On, 0.50 s.
+[12:22:18.057] Heater Relay Board Y7 -> OFF.
+[12:22:18.057] Heater CH2, 0 W, Off, 0.20 s.
+[12:22:18.276] Heater parameters sent: CH4, 4611 W.
+[12:22:18.287] Heater Relay Board Y7 -> ON.
+[12:22:18.287] Heater CH4, 4611 W, On, 0.50 s.
+[12:22:18.812] Heater Relay Board Y7 -> OFF.
+[12:22:18.812] Heater CH4, 0 W, Off, 0.20 s.
+[12:22:19.032] Heater parameters sent: CH1, 4611 W.
+[12:22:19.043] Heater Relay Board Y7 -> ON.
+[12:22:19.043] Heater CH1, 4611 W, On, 0.50 s.
+[12:22:19.567] Heater Relay Board Y7 -> OFF.
+[12:22:19.567] Heater CH1, 0 W, Off, 0.20 s.
+[12:22:19.787] Heater parameters sent: CH3, 4611 W.
+[12:22:19.798] Heater Relay Board Y7 -> ON.
+[12:22:19.798] Heater CH3, 4611 W, On, 0.50 s.
+[12:22:20.320] Heater Relay Board Y7 -> OFF.
+[12:22:20.320] Heater CH3, 0 W, Off, 0.20 s.
+[12:22:20.526] Wait 165.20 s.
+[12:25:05.740] Valve Relay Board Y2 -> OFF.
+[12:25:05.740] D2 -> Close.
+[12:25:05.740] Wait 1.00 s.
+[12:25:06.757] Valve Relay Board Y4 -> OFF.
+[12:25:06.757] D4 -> Close.
+[12:25:06.757] Wait 1.00 s.
+[12:25:07.774] Valve Relay Board Y1 -> OFF.
+[12:25:07.774] D1 -> Close.
+[12:25:07.774] Wait 1.00 s.
+[12:25:08.789] Valve Relay Board Y3 -> OFF.
+[12:25:08.789] D3 -> Close.
+[12:25:08.789] Wait 9.00 s.
+[12:25:17.813] Heater parameters sent: CH2, 13277 W.
+[12:25:17.823] Heater Relay Board Y7 -> ON.
+[12:25:17.824] Heater CH2, 13277 W, On, 0.34 s.
+[12:25:18.181] Heater Relay Board Y7 -> OFF.
+[12:25:18.181] Heater CH2, 0 W, Off, 0.36 s.
+[12:25:18.570] Heater parameters sent: CH4, 13277 W.
+[12:25:18.582] Heater Relay Board Y7 -> ON.
+[12:25:18.582] Heater CH4, 13277 W, On, 0.34 s.
+[12:25:18.933] Heater Relay Board Y7 -> OFF.
+[12:25:18.933] Heater CH4, 0 W, Off, 0.36 s.
+[12:25:19.322] Heater parameters sent: CH1, 13277 W.
+[12:25:19.332] Heater Relay Board Y7 -> ON.
+[12:25:19.332] Heater CH1, 13277 W, On, 0.34 s.
+[12:25:19.685] Heater Relay Board Y7 -> OFF.
+[12:25:19.685] Heater CH1, 0 W, Off, 0.36 s.
+[12:25:20.075] Heater parameters sent: CH3, 13277 W.
+[12:25:20.085] Heater Relay Board Y7 -> ON.
+[12:25:20.085] Heater CH3, 13277 W, On, 0.34 s.
+[12:25:20.440] Heater Relay Board Y7 -> OFF.
+[12:25:20.441] Heater CH3, 0 W, Off, 0.36 s.
+[12:25:20.812] Wait 13.20 s.
+[12:25:34.036] Valve Relay Board Y2 -> ON.
+[12:25:34.036] D2 -> Open.
+[12:25:34.047] Valve Relay Board Y4 -> ON.
+[12:25:34.047] D4 -> Open.
+[12:25:34.059] Valve Relay Board Y1 -> ON.
+[12:25:34.059] D1 -> Open.
+[12:25:34.071] Valve Relay Board Y3 -> ON.
+[12:25:34.071] D3 -> Open.
+[12:25:34.071] Wait 4.00 s.
+[12:25:38.096] Heater parameters sent: CH2, 4611 W.
+[12:25:38.107] Heater Relay Board Y7 -> ON.
+[12:25:38.107] Heater CH2, 4611 W, On, 0.50 s.
+[12:25:38.634] Heater Relay Board Y7 -> OFF.
+[12:25:38.634] Heater CH2, 0 W, Off, 0.20 s.
+[12:25:38.852] Heater parameters sent: CH4, 4611 W.
+[12:25:38.863] Heater Relay Board Y7 -> ON.
+[12:25:38.863] Heater CH4, 4611 W, On, 0.50 s.
+[12:25:39.386] Heater Relay Board Y7 -> OFF.
+[12:25:39.386] Heater CH4, 0 W, Off, 0.20 s.
+[12:25:39.605] Heater parameters sent: CH1, 4611 W.
+[12:25:39.616] Heater Relay Board Y7 -> ON.
+[12:25:39.616] Heater CH1, 4611 W, On, 0.50 s.
+[12:25:40.140] Heater Relay Board Y7 -> OFF.
+[12:25:40.140] Heater CH1, 0 W, Off, 0.20 s.
+[12:25:40.359] Heater parameters sent: CH3, 4611 W.
+[12:25:40.370] Heater Relay Board Y7 -> ON.
+[12:25:40.370] Heater CH3, 4611 W, On, 0.50 s.
+[12:25:40.893] Heater Relay Board Y7 -> OFF.
+[12:25:40.893] Heater CH3, 0 W, Off, 0.20 s.
+[12:25:41.096] Wait 165.20 s.
+[12:28:26.320] Valve Relay Board Y2 -> OFF.
+[12:28:26.320] D2 -> Close.
+[12:28:26.320] Wait 1.00 s.
+[12:28:27.345] Valve Relay Board Y4 -> OFF.
+[12:28:27.345] D4 -> Close.
+[12:28:27.345] Wait 1.00 s.
+[12:28:28.371] Valve Relay Board Y1 -> OFF.
+[12:28:28.371] D1 -> Close.
+[12:28:28.371] Wait 1.00 s.
+[12:28:29.387] Valve Relay Board Y3 -> OFF.
+[12:28:29.387] D3 -> Close.
+[12:28:29.387] Wait 9.00 s.
+[12:28:38.411] Heater parameters sent: CH2, 13277 W.
+[12:28:38.422] Heater Relay Board Y7 -> ON.
+[12:28:38.422] Heater CH2, 13277 W, On, 0.34 s.
+[12:28:38.778] Heater Relay Board Y7 -> OFF.
+[12:28:38.778] Heater CH2, 0 W, Off, 0.36 s.
+[12:28:39.167] Heater parameters sent: CH4, 13277 W.
+[12:28:39.179] Heater Relay Board Y7 -> ON.
+[12:28:39.179] Heater CH4, 13277 W, On, 0.34 s.
+[12:28:39.532] Heater Relay Board Y7 -> OFF.
+[12:28:39.532] Heater CH4, 0 W, Off, 0.36 s.
+[12:28:39.921] Heater parameters sent: CH1, 13277 W.
+[12:28:39.932] Heater Relay Board Y7 -> ON.
+[12:28:39.932] Heater CH1, 13277 W, On, 0.34 s.
+[12:28:40.288] Heater Relay Board Y7 -> OFF.
+[12:28:40.288] Heater CH1, 0 W, Off, 0.36 s.
+[12:28:40.678] Heater parameters sent: CH3, 13277 W.
+[12:28:40.688] Heater Relay Board Y7 -> ON.
+[12:28:40.688] Heater CH3, 13277 W, On, 0.34 s.
+[12:28:41.045] Heater Relay Board Y7 -> OFF.
+[12:28:41.045] Heater CH3, 0 W, Off, 0.36 s.
+[12:28:41.420] Wait 13.20 s.
+[12:28:54.641] Valve Relay Board Y2 -> ON.
+[12:28:54.641] D2 -> Open.
+[12:28:54.652] Valve Relay Board Y4 -> ON.
+[12:28:54.652] D4 -> Open.
+[12:28:54.663] Valve Relay Board Y1 -> ON.
+[12:28:54.663] D1 -> Open.
+[12:28:54.675] Valve Relay Board Y3 -> ON.
+[12:28:54.675] D3 -> Open.
+[12:28:54.675] Wait 4.00 s.
+[12:28:58.703] Heater parameters sent: CH2, 4611 W.
+[12:28:58.713] Heater Relay Board Y7 -> ON.
+[12:28:58.713] Heater CH2, 4611 W, On, 0.50 s.
+[12:28:59.240] Heater Relay Board Y7 -> OFF.
+[12:28:59.240] Heater CH2, 0 W, Off, 0.20 s.
+[12:28:59.457] Heater parameters sent: CH4, 4611 W.
+[12:28:59.468] Heater Relay Board Y7 -> ON.
+[12:28:59.468] Heater CH4, 4611 W, On, 0.50 s.
+[12:28:59.994] Heater Relay Board Y7 -> OFF.
+[12:28:59.994] Heater CH4, 0 W, Off, 0.20 s.
+[12:29:00.216] Heater parameters sent: CH1, 4611 W.
+[12:29:00.227] Heater Relay Board Y7 -> ON.
+[12:29:00.227] Heater CH1, 4611 W, On, 0.50 s.
+[12:29:00.753] Heater Relay Board Y7 -> OFF.
+[12:29:00.753] Heater CH1, 0 W, Off, 0.20 s.
+[12:29:00.972] Heater parameters sent: CH3, 4611 W.
+[12:29:00.983] Heater Relay Board Y7 -> ON.
+[12:29:00.983] Heater CH3, 4611 W, On, 0.50 s.
+[12:29:01.509] Heater Relay Board Y7 -> OFF.
+[12:29:01.509] Heater CH3, 0 W, Off, 0.20 s.
+[12:29:01.714] Wait 165.20 s.
+[12:31:46.928] Valve Relay Board Y2 -> OFF.
+[12:31:46.928] D2 -> Close.
+[12:31:46.928] Wait 1.00 s.
+[12:31:47.944] Valve Relay Board Y4 -> OFF.
+[12:31:47.944] D4 -> Close.
+[12:31:47.944] Wait 1.00 s.
+[12:31:48.962] Valve Relay Board Y1 -> OFF.
+[12:31:48.962] D1 -> Close.
+[12:31:48.962] Wait 1.00 s.
+[12:31:49.977] Valve Relay Board Y3 -> OFF.
+[12:31:49.977] D3 -> Close.
+[12:31:49.977] Wait 9.00 s.
+[12:31:59.004] Heater parameters sent: CH2, 13277 W.
+[12:31:59.014] Heater Relay Board Y7 -> ON.
+[12:31:59.014] Heater CH2, 13277 W, On, 0.34 s.
+[12:31:59.369] Heater Relay Board Y7 -> OFF.
+[12:31:59.369] Heater CH2, 0 W, Off, 0.36 s.
+[12:31:59.758] Heater parameters sent: CH4, 13277 W.
+[12:31:59.769] Heater Relay Board Y7 -> ON.
+[12:31:59.769] Heater CH4, 13277 W, On, 0.34 s.
+[12:32:00.125] Heater Relay Board Y7 -> OFF.
+[12:32:00.125] Heater CH4, 0 W, Off, 0.36 s.
+[12:32:00.513] Heater parameters sent: CH1, 13277 W.
+[12:32:00.524] Heater Relay Board Y7 -> ON.
+[12:32:00.524] Heater CH1, 13277 W, On, 0.34 s.
+[12:32:00.878] Heater Relay Board Y7 -> OFF.
+[12:32:00.878] Heater CH1, 0 W, Off, 0.36 s.
+[12:32:01.266] Heater parameters sent: CH3, 13277 W.
+[12:32:01.278] Heater Relay Board Y7 -> ON.
+[12:32:01.278] Heater CH3, 13277 W, On, 0.34 s.
+[12:32:01.635] Heater Relay Board Y7 -> OFF.
+[12:32:01.635] Heater CH3, 0 W, Off, 0.36 s.
+[12:32:02.007] Wait 13.20 s.
+[12:32:15.233] Valve Relay Board Y2 -> ON.
+[12:32:15.233] D2 -> Open.
+[12:32:15.244] Valve Relay Board Y4 -> ON.
+[12:32:15.244] D4 -> Open.
+[12:32:15.256] Valve Relay Board Y1 -> ON.
+[12:32:15.256] D1 -> Open.
+[12:32:15.268] Valve Relay Board Y3 -> ON.
+[12:32:15.268] D3 -> Open.
+[12:32:15.268] Wait 4.00 s.
+[12:32:19.296] Heater parameters sent: CH2, 4611 W.
+[12:32:19.307] Heater Relay Board Y7 -> ON.
+[12:32:19.307] Heater CH2, 4611 W, On, 0.50 s.
+[12:32:19.827] Heater Relay Board Y7 -> OFF.
+[12:32:19.827] Heater CH2, 0 W, Off, 0.20 s.
+[12:32:20.047] Heater parameters sent: CH4, 4611 W.
+[12:32:20.058] Heater Relay Board Y7 -> ON.
+[12:32:20.058] Heater CH4, 4611 W, On, 0.50 s.
+[12:32:20.580] Heater Relay Board Y7 -> OFF.
+[12:32:20.580] Heater CH4, 0 W, Off, 0.20 s.
+[12:32:20.800] Heater parameters sent: CH1, 4611 W.
+[12:32:20.810] Heater Relay Board Y7 -> ON.
+[12:32:20.810] Heater CH1, 4611 W, On, 0.50 s.
+[12:32:21.333] Heater Relay Board Y7 -> OFF.
+[12:32:21.333] Heater CH1, 0 W, Off, 0.20 s.
+[12:32:21.553] Heater parameters sent: CH3, 4611 W.
+[12:32:21.565] Heater Relay Board Y7 -> ON.
+[12:32:21.565] Heater CH3, 4611 W, On, 0.50 s.
+[12:32:22.087] Heater Relay Board Y7 -> OFF.
+[12:32:22.087] Heater CH3, 0 W, Off, 0.20 s.
+[12:32:22.290] Wait 165.20 s.
+[12:35:07.513] Valve Relay Board Y2 -> OFF.
+[12:35:07.513] D2 -> Close.
+[12:35:07.513] Wait 1.00 s.
+[12:35:08.528] Valve Relay Board Y4 -> OFF.
+[12:35:08.528] D4 -> Close.
+[12:35:08.528] Wait 1.00 s.
+[12:35:09.542] Valve Relay Board Y1 -> OFF.
+[12:35:09.542] D1 -> Close.
+[12:35:09.542] Wait 1.00 s.
+[12:35:10.557] Valve Relay Board Y3 -> OFF.
+[12:35:10.557] D3 -> Close.
+[12:35:10.557] Wait 9.00 s.
+[12:35:19.573] Heater parameters sent: CH2, 13277 W.
+[12:35:19.583] Heater Relay Board Y7 -> ON.
+[12:35:19.584] Heater CH2, 13277 W, On, 0.34 s.
+[12:35:19.937] Heater Relay Board Y7 -> OFF.
+[12:35:19.937] Heater CH2, 0 W, Off, 0.36 s.
+[12:35:20.327] Heater parameters sent: CH4, 13277 W.
+[12:35:20.338] Heater Relay Board Y7 -> ON.
+[12:35:20.338] Heater CH4, 13277 W, On, 0.34 s.
+[12:35:20.692] Heater Relay Board Y7 -> OFF.
+[12:35:20.692] Heater CH4, 0 W, Off, 0.36 s.
+[12:35:21.081] Heater parameters sent: CH1, 13277 W.
+[12:35:21.092] Heater Relay Board Y7 -> ON.
+[12:35:21.092] Heater CH1, 13277 W, On, 0.34 s.
+[12:35:21.448] Heater Relay Board Y7 -> OFF.
+[12:35:21.448] Heater CH1, 0 W, Off, 0.36 s.
+[12:35:21.836] Heater parameters sent: CH3, 13277 W.
+[12:35:21.846] Heater Relay Board Y7 -> ON.
+[12:35:21.846] Heater CH3, 13277 W, On, 0.34 s.
+[12:35:22.202] Heater Relay Board Y7 -> OFF.
+[12:35:22.202] Heater CH3, 0 W, Off, 0.36 s.
+[12:35:22.575] Wait 13.20 s.
+[12:35:35.797] Valve Relay Board Y2 -> ON.
+[12:35:35.797] D2 -> Open.
+[12:35:35.809] Valve Relay Board Y4 -> ON.
+[12:35:35.809] D4 -> Open.
+[12:35:35.821] Valve Relay Board Y1 -> ON.
+[12:35:35.821] D1 -> Open.
+[12:35:35.832] Valve Relay Board Y3 -> ON.
+[12:35:35.832] D3 -> Open.
+[12:35:35.832] Wait 4.00 s.
+[12:35:39.856] Heater parameters sent: CH2, 4611 W.
+[12:35:39.867] Heater Relay Board Y7 -> ON.
+[12:35:39.867] Heater CH2, 4611 W, On, 0.50 s.
+[12:35:40.392] Heater Relay Board Y7 -> OFF.
+[12:35:40.392] Heater CH2, 0 W, Off, 0.20 s.
+[12:35:40.612] Heater parameters sent: CH4, 4611 W.
+[12:35:40.623] Heater Relay Board Y7 -> ON.
+[12:35:40.623] Heater CH4, 4611 W, On, 0.50 s.
+[12:35:41.146] Heater Relay Board Y7 -> OFF.
+[12:35:41.146] Heater CH4, 0 W, Off, 0.20 s.
+[12:35:41.364] Heater parameters sent: CH1, 4611 W.
+[12:35:41.375] Heater Relay Board Y7 -> ON.
+[12:35:41.375] Heater CH1, 4611 W, On, 0.50 s.
+[12:35:41.900] Heater Relay Board Y7 -> OFF.
+[12:35:41.900] Heater CH1, 0 W, Off, 0.20 s.
+[12:35:42.119] Heater parameters sent: CH3, 4611 W.
+[12:35:42.130] Heater Relay Board Y7 -> ON.
+[12:35:42.130] Heater CH3, 4611 W, On, 0.50 s.
+[12:35:42.653] Heater Relay Board Y7 -> OFF.
+[12:35:42.653] Heater CH3, 0 W, Off, 0.20 s.
+[12:35:42.859] Wait 165.20 s.
+[12:38:28.072] Valve Relay Board Y2 -> OFF.
+[12:38:28.072] D2 -> Close.
+[12:38:28.072] Wait 1.00 s.
+[12:38:29.086] Valve Relay Board Y4 -> OFF.
+[12:38:29.086] D4 -> Close.
+[12:38:29.086] Wait 1.00 s.
+[12:38:30.112] Valve Relay Board Y1 -> OFF.
+[12:38:30.112] D1 -> Close.
+[12:38:30.112] Wait 1.00 s.
+[12:38:31.131] Valve Relay Board Y3 -> OFF.
+[12:38:31.131] D3 -> Close.
+[12:38:31.131] Wait 9.00 s.
+[12:38:40.159] Heater parameters sent: CH2, 13277 W.
+[12:38:40.170] Heater Relay Board Y7 -> ON.
+[12:38:40.170] Heater CH2, 13277 W, On, 0.34 s.
+[12:38:40.524] Heater Relay Board Y7 -> OFF.
+[12:38:40.524] Heater CH2, 0 W, Off, 0.36 s.
+[12:38:40.911] Heater parameters sent: CH4, 13277 W.
+[12:38:40.923] Heater Relay Board Y7 -> ON.
+[12:38:40.923] Heater CH4, 13277 W, On, 0.34 s.
+[12:38:41.277] Heater Relay Board Y7 -> OFF.
+[12:38:41.277] Heater CH4, 0 W, Off, 0.36 s.
+[12:38:41.664] Heater parameters sent: CH1, 13277 W.
+[12:38:41.674] Heater Relay Board Y7 -> ON.
+[12:38:41.674] Heater CH1, 13277 W, On, 0.34 s.
+[12:38:42.028] Heater Relay Board Y7 -> OFF.
+[12:38:42.028] Heater CH1, 0 W, Off, 0.36 s.
+[12:38:42.418] Heater parameters sent: CH3, 13277 W.
+[12:38:42.429] Heater Relay Board Y7 -> ON.
+[12:38:42.429] Heater CH3, 13277 W, On, 0.34 s.
+[12:38:42.785] Heater Relay Board Y7 -> OFF.
+[12:38:42.785] Heater CH3, 0 W, Off, 0.36 s.
+[12:38:43.158] Wait 13.20 s.
+[12:38:56.383] Valve Relay Board Y2 -> ON.
+[12:38:56.383] D2 -> Open.
+[12:38:56.394] Valve Relay Board Y4 -> ON.
+[12:38:56.394] D4 -> Open.
+[12:38:56.405] Valve Relay Board Y1 -> ON.
+[12:38:56.405] D1 -> Open.
+[12:38:56.417] Valve Relay Board Y3 -> ON.
+[12:38:56.417] D3 -> Open.
+[12:38:56.418] Wait 4.00 s.
+[12:39:00.437] Heater parameters sent: CH2, 4611 W.
+[12:39:00.448] Heater Relay Board Y7 -> ON.
+[12:39:00.448] Heater CH2, 4611 W, On, 0.50 s.
+[12:39:00.974] Heater Relay Board Y7 -> OFF.
+[12:39:00.974] Heater CH2, 0 W, Off, 0.20 s.
+[12:39:01.194] Heater parameters sent: CH4, 4611 W.
+[12:39:01.205] Heater Relay Board Y7 -> ON.
+[12:39:01.205] Heater CH4, 4611 W, On, 0.50 s.
+[12:39:01.731] Heater Relay Board Y7 -> OFF.
+[12:39:01.731] Heater CH4, 0 W, Off, 0.20 s.
+[12:39:01.948] Heater parameters sent: CH1, 4611 W.
+[12:39:01.959] Heater Relay Board Y7 -> ON.
+[12:39:01.959] Heater CH1, 4611 W, On, 0.50 s.
+[12:39:02.484] Heater Relay Board Y7 -> OFF.
+[12:39:02.484] Heater CH1, 0 W, Off, 0.20 s.
+[12:39:02.704] Heater parameters sent: CH3, 4611 W.
+[12:39:02.715] Heater Relay Board Y7 -> ON.
+[12:39:02.715] Heater CH3, 4611 W, On, 0.50 s.
+[12:39:03.239] Heater Relay Board Y7 -> OFF.
+[12:39:03.239] Heater CH3, 0 W, Off, 0.20 s.
+[12:39:03.443] Wait 165.20 s.
+[12:41:48.671] Valve Relay Board Y2 -> OFF.
+[12:41:48.671] D2 -> Close.
+[12:41:48.671] Wait 1.00 s.
+[12:41:49.670] Valve Relay Board Y4 -> OFF.
+[12:41:49.670] D4 -> Close.
+[12:41:49.670] Wait 1.00 s.
+[12:41:50.671] Valve Relay Board Y1 -> OFF.
+[12:41:50.671] D1 -> Close.
+[12:41:50.671] Wait 1.00 s.
+[12:41:51.686] Valve Relay Board Y3 -> OFF.
+[12:41:51.686] D3 -> Close.
+[12:41:51.686] Wait 9.00 s.
+[12:42:00.690] Heater parameters sent: CH2, 13277 W.
+[12:42:00.702] Heater Relay Board Y7 -> ON.
+[12:42:00.702] Heater CH2, 13277 W, On, 0.34 s.
+[12:42:01.046] Heater Relay Board Y7 -> OFF.
+[12:42:01.046] Heater CH2, 0 W, Off, 0.36 s.
+[12:42:01.425] Heater parameters sent: CH4, 13277 W.
+[12:42:01.435] Heater Relay Board Y7 -> ON.
+[12:42:01.435] Heater CH4, 13277 W, On, 0.34 s.
+[12:42:01.780] Heater Relay Board Y7 -> OFF.
+[12:42:01.780] Heater CH4, 0 W, Off, 0.36 s.
+[12:42:02.159] Heater parameters sent: CH1, 13277 W.
+[12:42:02.170] Heater Relay Board Y7 -> ON.
+[12:42:02.170] Heater CH1, 13277 W, On, 0.34 s.
+[12:42:02.514] Heater Relay Board Y7 -> OFF.
+[12:42:02.514] Heater CH1, 0 W, Off, 0.36 s.
+[12:42:02.894] Heater parameters sent: CH3, 13277 W.
+[12:42:02.904] Heater Relay Board Y7 -> ON.
+[12:42:02.904] Heater CH3, 13277 W, On, 0.34 s.
+[12:42:03.249] Heater Relay Board Y7 -> OFF.
+[12:42:03.249] Heater CH3, 0 W, Off, 0.36 s.
+[12:42:03.613] Wait 13.20 s.
+[12:42:16.828] Valve Relay Board Y2 -> ON.
+[12:42:16.828] D2 -> Open.
+[12:42:16.840] Valve Relay Board Y4 -> ON.
+[12:42:16.840] D4 -> Open.
+[12:42:16.852] Valve Relay Board Y1 -> ON.
+[12:42:16.852] D1 -> Open.
+[12:42:16.864] Valve Relay Board Y3 -> ON.
+[12:42:16.864] D3 -> Open.
+[12:42:16.864] Wait 4.00 s.
+[12:42:20.879] Heater parameters sent: CH2, 4611 W.
+[12:42:20.890] Heater Relay Board Y7 -> ON.
+[12:42:20.890] Heater CH2, 4611 W, On, 0.50 s.
+[12:42:21.390] Heater Relay Board Y7 -> OFF.
+[12:42:21.390] Heater CH2, 0 W, Off, 0.20 s.
+[12:42:21.597] Heater parameters sent: CH4, 4611 W.
+[12:42:21.608] Heater Relay Board Y7 -> ON.
+[12:42:21.608] Heater CH4, 4611 W, On, 0.50 s.
+[12:42:22.125] Heater Relay Board Y7 -> OFF.
+[12:42:22.125] Heater CH4, 0 W, Off, 0.20 s.
+[12:42:22.332] Heater parameters sent: CH1, 4611 W.
+[12:42:22.343] Heater Relay Board Y7 -> ON.
+[12:42:22.343] Heater CH1, 4611 W, On, 0.50 s.
+[12:42:22.859] Heater Relay Board Y7 -> OFF.
+[12:42:22.859] Heater CH1, 0 W, Off, 0.20 s.
+[12:42:23.066] Heater parameters sent: CH3, 4611 W.
+[12:42:23.077] Heater Relay Board Y7 -> ON.
+[12:42:23.077] Heater CH3, 4611 W, On, 0.50 s.
+[12:42:23.593] Heater Relay Board Y7 -> OFF.
+[12:42:23.593] Heater CH3, 0 W, Off, 0.20 s.
+[12:42:23.785] Wait 165.20 s.
+[12:45:09.012] Valve Relay Board Y2 -> OFF.
+[12:45:09.012] D2 -> Close.
+[12:45:09.012] Wait 1.00 s.
+[12:45:10.026] Valve Relay Board Y4 -> OFF.
+[12:45:10.026] D4 -> Close.
+[12:45:10.027] Wait 1.00 s.
+[12:45:11.042] Valve Relay Board Y1 -> OFF.
+[12:45:11.042] D1 -> Close.
+[12:45:11.042] Wait 1.00 s.
+[12:45:12.057] Valve Relay Board Y3 -> OFF.
+[12:45:12.057] D3 -> Close.
+[12:45:12.057] Wait 9.00 s.
+[12:45:21.076] Heater parameters sent: CH2, 13277 W.
+[12:45:21.086] Heater Relay Board Y7 -> ON.
+[12:45:21.086] Heater CH2, 13277 W, On, 0.34 s.
+[12:45:21.430] Heater Relay Board Y7 -> OFF.
+[12:45:21.430] Heater CH2, 0 W, Off, 0.36 s.
+[12:45:21.810] Heater parameters sent: CH4, 13277 W.
+[12:45:21.820] Heater Relay Board Y7 -> ON.
+[12:45:21.820] Heater CH4, 13277 W, On, 0.34 s.
+[12:45:22.165] Heater Relay Board Y7 -> OFF.
+[12:45:22.165] Heater CH4, 0 W, Off, 0.36 s.
+[12:45:22.544] Heater parameters sent: CH1, 13277 W.
+[12:45:22.555] Heater Relay Board Y7 -> ON.
+[12:45:22.555] Heater CH1, 13277 W, On, 0.34 s.
+[12:45:22.899] Heater Relay Board Y7 -> OFF.
+[12:45:22.899] Heater CH1, 0 W, Off, 0.36 s.
+[12:45:23.278] Heater parameters sent: CH3, 13277 W.
+[12:45:23.289] Heater Relay Board Y7 -> ON.
+[12:45:23.289] Heater CH3, 13277 W, On, 0.34 s.
+[12:45:23.633] Heater Relay Board Y7 -> OFF.
+[12:45:23.633] Heater CH3, 0 W, Off, 0.36 s.
+[12:45:23.998] Wait 13.20 s.
+[12:45:37.211] Valve Relay Board Y2 -> ON.
+[12:45:37.211] D2 -> Open.
+[12:45:37.223] Valve Relay Board Y4 -> ON.
+[12:45:37.223] D4 -> Open.
+[12:45:37.234] Valve Relay Board Y1 -> ON.
+[12:45:37.234] D1 -> Open.
+[12:45:37.246] Valve Relay Board Y3 -> ON.
+[12:45:37.246] D3 -> Open.
+[12:45:37.246] Wait 4.00 s.
+[12:45:41.277] Heater parameters sent: CH2, 4611 W.
+[12:45:41.287] Heater Relay Board Y7 -> ON.
+[12:45:41.287] Heater CH2, 4611 W, On, 0.50 s.
+[12:45:41.804] Heater Relay Board Y7 -> OFF.
+[12:45:41.804] Heater CH2, 0 W, Off, 0.20 s.
+[12:45:42.011] Heater parameters sent: CH4, 4611 W.
+[12:45:42.022] Heater Relay Board Y7 -> ON.
+[12:45:42.022] Heater CH4, 4611 W, On, 0.50 s.
+[12:45:42.538] Heater Relay Board Y7 -> OFF.
+[12:45:42.538] Heater CH4, 0 W, Off, 0.20 s.
+[12:45:42.745] Heater parameters sent: CH1, 4611 W.
+[12:45:42.756] Heater Relay Board Y7 -> ON.
+[12:45:42.756] Heater CH1, 4611 W, On, 0.50 s.
+[12:45:43.273] Heater Relay Board Y7 -> OFF.
+[12:45:43.273] Heater CH1, 0 W, Off, 0.20 s.
+[12:45:43.479] Heater parameters sent: CH3, 4611 W.
+[12:45:43.490] Heater Relay Board Y7 -> ON.
+[12:45:43.490] Heater CH3, 4611 W, On, 0.50 s.
+[12:45:44.007] Heater Relay Board Y7 -> OFF.
+[12:45:44.007] Heater CH3, 0 W, Off, 0.20 s.
+[12:45:44.199] Wait 165.20 s.
+[12:48:29.426] Valve Relay Board Y2 -> OFF.
+[12:48:29.426] D2 -> Close.
+[12:48:29.426] Wait 1.00 s.
+[12:48:30.425] Valve Relay Board Y4 -> OFF.
+[12:48:30.425] D4 -> Close.
+[12:48:30.425] Wait 1.00 s.
+[12:48:31.426] Valve Relay Board Y1 -> OFF.
+[12:48:31.426] D1 -> Close.
+[12:48:31.426] Wait 1.00 s.
+[12:48:32.442] Valve Relay Board Y3 -> OFF.
+[12:48:32.442] D3 -> Close.
+[12:48:32.442] Wait 9.00 s.
+[12:48:41.460] Heater parameters sent: CH2, 13277 W.
+[12:48:41.470] Heater Relay Board Y7 -> ON.
+[12:48:41.470] Heater CH2, 13277 W, On, 0.34 s.
+[12:48:41.815] Heater Relay Board Y7 -> OFF.
+[12:48:41.815] Heater CH2, 0 W, Off, 0.36 s.
+[12:48:42.194] Heater parameters sent: CH4, 13277 W.
+[12:48:42.205] Heater Relay Board Y7 -> ON.
+[12:48:42.205] Heater CH4, 13277 W, On, 0.34 s.
+[12:48:42.549] Heater Relay Board Y7 -> OFF.
+[12:48:42.549] Heater CH4, 0 W, Off, 0.36 s.
+[12:48:42.929] Heater parameters sent: CH1, 13277 W.
+[12:48:42.939] Heater Relay Board Y7 -> ON.
+[12:48:42.939] Heater CH1, 13277 W, On, 0.34 s.
+[12:48:43.284] Heater Relay Board Y7 -> OFF.
+[12:48:43.284] Heater CH1, 0 W, Off, 0.36 s.
+[12:48:43.663] Heater parameters sent: CH3, 13277 W.
+[12:48:43.674] Heater Relay Board Y7 -> ON.
+[12:48:43.674] Heater CH3, 13277 W, On, 0.34 s.
+[12:48:44.018] Heater Relay Board Y7 -> OFF.
+[12:48:44.018] Heater CH3, 0 W, Off, 0.36 s.
+[12:48:44.383] Wait 13.20 s.
+[12:48:57.600] Valve Relay Board Y2 -> ON.
+[12:48:57.600] D2 -> Open.
+[12:48:57.612] Valve Relay Board Y4 -> ON.
+[12:48:57.612] D4 -> Open.
+[12:48:57.624] Valve Relay Board Y1 -> ON.
+[12:48:57.624] D1 -> Open.
+[12:48:57.636] Valve Relay Board Y3 -> ON.
+[12:48:57.636] D3 -> Open.
+[12:48:57.636] Wait 4.00 s.
+[12:49:01.665] Heater parameters sent: CH2, 4611 W.
+[12:49:01.676] Heater Relay Board Y7 -> ON.
+[12:49:01.676] Heater CH2, 4611 W, On, 0.50 s.
+[12:49:02.192] Heater Relay Board Y7 -> OFF.
+[12:49:02.192] Heater CH2, 0 W, Off, 0.20 s.
+[12:49:02.400] Heater parameters sent: CH4, 4611 W.
+[12:49:02.410] Heater Relay Board Y7 -> ON.
+[12:49:02.410] Heater CH4, 4611 W, On, 0.50 s.
+[12:49:02.927] Heater Relay Board Y7 -> OFF.
+[12:49:02.927] Heater CH4, 0 W, Off, 0.20 s.
+[12:49:03.134] Heater parameters sent: CH1, 4611 W.
+[12:49:03.145] Heater Relay Board Y7 -> ON.
+[12:49:03.145] Heater CH1, 4611 W, On, 0.50 s.
+[12:49:03.661] Heater Relay Board Y7 -> OFF.
+[12:49:03.661] Heater CH1, 0 W, Off, 0.20 s.
+[12:49:03.868] Heater parameters sent: CH3, 4611 W.
+[12:49:03.879] Heater Relay Board Y7 -> ON.
+[12:49:03.879] Heater CH3, 4611 W, On, 0.50 s.
+[12:49:04.395] Heater Relay Board Y7 -> OFF.
+[12:49:04.395] Heater CH3, 0 W, Off, 0.20 s.
+[12:49:04.587] Wait 165.20 s.
+[12:51:49.810] Valve Relay Board Y2 -> OFF.
+[12:51:49.810] D2 -> Close.
+[12:51:49.811] Wait 1.00 s.
+[12:51:50.825] Valve Relay Board Y4 -> OFF.
+[12:51:50.825] D4 -> Close.
+[12:51:50.826] Wait 1.00 s.
+[12:51:51.841] Valve Relay Board Y1 -> OFF.
+[12:51:51.841] D1 -> Close.
+[12:51:51.841] Wait 1.00 s.
+[12:51:52.857] Valve Relay Board Y3 -> OFF.
+[12:51:52.857] D3 -> Close.
+[12:51:52.857] Wait 9.00 s.
+[12:52:01.875] Heater parameters sent: CH2, 13277 W.
+[12:52:01.885] Heater Relay Board Y7 -> ON.
+[12:52:01.886] Heater CH2, 13277 W, On, 0.34 s.
+[12:52:02.229] Heater Relay Board Y7 -> OFF.
+[12:52:02.229] Heater CH2, 0 W, Off, 0.36 s.
+[12:52:02.609] Heater parameters sent: CH4, 13277 W.
+[12:52:02.620] Heater Relay Board Y7 -> ON.
+[12:52:02.620] Heater CH4, 13277 W, On, 0.34 s.
+[12:52:02.964] Heater Relay Board Y7 -> OFF.
+[12:52:02.964] Heater CH4, 0 W, Off, 0.36 s.
+[12:52:03.343] Heater parameters sent: CH1, 13277 W.
+[12:52:03.354] Heater Relay Board Y7 -> ON.
+[12:52:03.354] Heater CH1, 13277 W, On, 0.34 s.
+[12:52:03.699] Heater Relay Board Y7 -> OFF.
+[12:52:03.699] Heater CH1, 0 W, Off, 0.36 s.
+[12:52:04.078] Heater parameters sent: CH3, 13277 W.
+[12:52:04.088] Heater Relay Board Y7 -> ON.
+[12:52:04.088] Heater CH3, 13277 W, On, 0.34 s.
+[12:52:04.433] Heater Relay Board Y7 -> OFF.
+[12:52:04.433] Heater CH3, 0 W, Off, 0.36 s.
+[12:52:04.797] Wait 13.20 s.
+[12:52:18.010] Valve Relay Board Y2 -> ON.
+[12:52:18.010] D2 -> Open.
+[12:52:18.022] Valve Relay Board Y4 -> ON.
+[12:52:18.022] D4 -> Open.
+[12:52:18.035] Valve Relay Board Y1 -> ON.
+[12:52:18.035] D1 -> Open.
+[12:52:18.046] Valve Relay Board Y3 -> ON.
+[12:52:18.046] D3 -> Open.
+[12:52:18.046] Wait 4.00 s.
+[12:52:22.076] Heater parameters sent: CH2, 4611 W.
+[12:52:22.087] Heater Relay Board Y7 -> ON.
+[12:52:22.087] Heater CH2, 4611 W, On, 0.50 s.
+[12:52:22.604] Heater Relay Board Y7 -> OFF.
+[12:52:22.604] Heater CH2, 0 W, Off, 0.20 s.
+[12:52:22.811] Heater parameters sent: CH4, 4611 W.
+[12:52:22.822] Heater Relay Board Y7 -> ON.
+[12:52:22.822] Heater CH4, 4611 W, On, 0.50 s.
+[12:52:23.338] Heater Relay Board Y7 -> OFF.
+[12:52:23.338] Heater CH4, 0 W, Off, 0.20 s.
+[12:52:23.545] Heater parameters sent: CH1, 4611 W.
+[12:52:23.556] Heater Relay Board Y7 -> ON.
+[12:52:23.556] Heater CH1, 4611 W, On, 0.50 s.
+[12:52:24.057] Heater Relay Board Y7 -> OFF.
+[12:52:24.057] Heater CH1, 0 W, Off, 0.20 s.
+[12:52:24.265] Heater parameters sent: CH3, 4611 W.
+[12:52:24.276] Heater Relay Board Y7 -> ON.
+[12:52:24.276] Heater CH3, 4611 W, On, 0.50 s.
+[12:52:24.792] Heater Relay Board Y7 -> OFF.
+[12:52:24.792] Heater CH3, 0 W, Off, 0.20 s.
+[12:52:24.984] Wait 165.20 s.
+[12:55:10.201] Valve Relay Board Y2 -> OFF.
+[12:55:10.201] D2 -> Close.
+[12:55:10.201] Wait 1.00 s.
+[12:55:11.216] Valve Relay Board Y4 -> OFF.
+[12:55:11.216] D4 -> Close.
+[12:55:11.216] Wait 1.00 s.
+[12:55:12.216] Valve Relay Board Y1 -> OFF.
+[12:55:12.216] D1 -> Close.
+[12:55:12.216] Wait 1.00 s.
+[12:55:13.216] Valve Relay Board Y3 -> OFF.
+[12:55:13.216] D3 -> Close.
+[12:55:13.216] Wait 9.00 s.
+[12:55:22.234] Heater parameters sent: CH2, 13277 W.
+[12:55:22.245] Heater Relay Board Y7 -> ON.
+[12:55:22.246] Heater CH2, 13277 W, On, 0.34 s.
+[12:55:22.589] Heater Relay Board Y7 -> OFF.
+[12:55:22.589] Heater CH2, 0 W, Off, 0.36 s.
+[12:55:22.969] Heater parameters sent: CH4, 13277 W.
+[12:55:22.979] Heater Relay Board Y7 -> ON.
+[12:55:22.979] Heater CH4, 13277 W, On, 0.34 s.
+[12:55:23.324] Heater Relay Board Y7 -> OFF.
+[12:55:23.324] Heater CH4, 0 W, Off, 0.36 s.
+[12:55:23.703] Heater parameters sent: CH1, 13277 W.
+[12:55:23.714] Heater Relay Board Y7 -> ON.
+[12:55:23.714] Heater CH1, 13277 W, On, 0.34 s.
+[12:55:24.058] Heater Relay Board Y7 -> OFF.
+[12:55:24.058] Heater CH1, 0 W, Off, 0.36 s.
+[12:55:24.437] Heater parameters sent: CH3, 13277 W.
+[12:55:24.448] Heater Relay Board Y7 -> ON.
+[12:55:24.448] Heater CH3, 13277 W, On, 0.34 s.
+[12:55:24.792] Heater Relay Board Y7 -> OFF.
+[12:55:24.792] Heater CH3, 0 W, Off, 0.36 s.
+[12:55:25.157] Wait 13.20 s.
+[12:55:38.372] Valve Relay Board Y2 -> ON.
+[12:55:38.372] D2 -> Open.
+[12:55:38.384] Valve Relay Board Y4 -> ON.
+[12:55:38.384] D4 -> Open.
+[12:55:38.396] Valve Relay Board Y1 -> ON.
+[12:55:38.396] D1 -> Open.
+[12:55:38.408] Valve Relay Board Y3 -> ON.
+[12:55:38.408] D3 -> Open.
+[12:55:38.408] Wait 4.00 s.
+[12:55:42.422] Heater parameters sent: CH2, 4611 W.
+[12:55:42.433] Heater Relay Board Y7 -> ON.
+[12:55:42.433] Heater CH2, 4611 W, On, 0.50 s.
+[12:55:42.950] Heater Relay Board Y7 -> OFF.
+[12:55:42.950] Heater CH2, 0 W, Off, 0.20 s.
+[12:55:43.157] Heater parameters sent: CH4, 4611 W.
+[12:55:43.168] Heater Relay Board Y7 -> ON.
+[12:55:43.168] Heater CH4, 4611 W, On, 0.50 s.
+[12:55:43.684] Heater Relay Board Y7 -> OFF.
+[12:55:43.684] Heater CH4, 0 W, Off, 0.20 s.
+[12:55:43.891] Heater parameters sent: CH1, 4611 W.
+[12:55:43.902] Heater Relay Board Y7 -> ON.
+[12:55:43.902] Heater CH1, 4611 W, On, 0.50 s.
+[12:55:44.419] Heater Relay Board Y7 -> OFF.
+[12:55:44.419] Heater CH1, 0 W, Off, 0.20 s.
+[12:55:44.625] Heater parameters sent: CH3, 4611 W.
+[12:55:44.636] Heater Relay Board Y7 -> ON.
+[12:55:44.636] Heater CH3, 4611 W, On, 0.50 s.
+[12:55:45.153] Heater Relay Board Y7 -> OFF.
+[12:55:45.153] Heater CH3, 0 W, Off, 0.20 s.
+[12:55:45.344] Wait 165.20 s.
+[12:58:30.570] Valve Relay Board Y2 -> OFF.
+[12:58:30.570] D2 -> Close.
+[12:58:30.570] Wait 1.00 s.
+[12:58:31.585] Valve Relay Board Y4 -> OFF.
+[12:58:31.585] D4 -> Close.
+[12:58:31.585] Wait 1.00 s.
+[12:58:32.585] Valve Relay Board Y1 -> OFF.
+[12:58:32.585] D1 -> Close.
+[12:58:32.585] Wait 1.00 s.
+[12:58:33.601] Valve Relay Board Y3 -> OFF.
+[12:58:33.601] D3 -> Close.
+[12:58:33.601] Wait 9.00 s.
+[12:58:42.619] Heater parameters sent: CH2, 13277 W.
+[12:58:42.630] Heater Relay Board Y7 -> ON.
+[12:58:42.631] Heater CH2, 13277 W, On, 0.34 s.
+[12:58:42.975] Heater Relay Board Y7 -> OFF.
+[12:58:42.975] Heater CH2, 0 W, Off, 0.36 s.
+[12:58:43.354] Heater parameters sent: CH4, 13277 W.
+[12:58:43.364] Heater Relay Board Y7 -> ON.
+[12:58:43.364] Heater CH4, 13277 W, On, 0.34 s.
+[12:58:43.709] Heater Relay Board Y7 -> OFF.
+[12:58:43.709] Heater CH4, 0 W, Off, 0.36 s.
+[12:58:44.088] Heater parameters sent: CH1, 13277 W.
+[12:58:44.099] Heater Relay Board Y7 -> ON.
+[12:58:44.099] Heater CH1, 13277 W, On, 0.34 s.
+[12:58:44.443] Heater Relay Board Y7 -> OFF.
+[12:58:44.443] Heater CH1, 0 W, Off, 0.36 s.
+[12:58:44.822] Heater parameters sent: CH3, 13277 W.
+[12:58:44.833] Heater Relay Board Y7 -> ON.
+[12:58:44.833] Heater CH3, 13277 W, On, 0.34 s.
+[12:58:45.177] Heater Relay Board Y7 -> OFF.
+[12:58:45.177] Heater CH3, 0 W, Off, 0.36 s.
+[12:58:45.541] Wait 13.20 s.
+[12:58:58.756] Valve Relay Board Y2 -> ON.
+[12:58:58.757] D2 -> Open.
+[12:58:58.768] Valve Relay Board Y4 -> ON.
+[12:58:58.769] D4 -> Open.
+[12:58:58.780] Valve Relay Board Y1 -> ON.
+[12:58:58.780] D1 -> Open.
+[12:58:58.791] Valve Relay Board Y3 -> ON.
+[12:58:58.791] D3 -> Open.
+[12:58:58.791] Wait 4.00 s.
+[12:59:02.806] Heater parameters sent: CH2, 4611 W.
+[12:59:02.817] Heater Relay Board Y7 -> ON.
+[12:59:02.817] Heater CH2, 4611 W, On, 0.50 s.
+[12:59:03.318] Heater Relay Board Y7 -> OFF.
+[12:59:03.318] Heater CH2, 0 W, Off, 0.20 s.
+[12:59:03.525] Heater parameters sent: CH4, 4611 W.
+[12:59:03.536] Heater Relay Board Y7 -> ON.
+[12:59:03.536] Heater CH4, 4611 W, On, 0.50 s.
+[12:59:04.052] Heater Relay Board Y7 -> OFF.
+[12:59:04.052] Heater CH4, 0 W, Off, 0.20 s.
+[12:59:04.260] Heater parameters sent: CH1, 4611 W.
+[12:59:04.271] Heater Relay Board Y7 -> ON.
+[12:59:04.271] Heater CH1, 4611 W, On, 0.50 s.
+[12:59:04.771] Heater Relay Board Y7 -> OFF.
+[12:59:04.771] Heater CH1, 0 W, Off, 0.20 s.
+[12:59:04.979] Heater parameters sent: CH3, 4611 W.
+[12:59:04.990] Heater Relay Board Y7 -> ON.
+[12:59:04.990] Heater CH3, 4611 W, On, 0.50 s.
+[12:59:05.490] Heater Relay Board Y7 -> OFF.
+[12:59:05.490] Heater CH3, 0 W, Off, 0.20 s.
+[12:59:05.682] Wait 165.20 s.
+[13:01:50.899] Valve Relay Board Y2 -> OFF.
+[13:01:50.899] D2 -> Close.
+[13:01:50.899] Wait 1.00 s.
+[13:01:51.913] Valve Relay Board Y4 -> OFF.
+[13:01:51.913] D4 -> Close.
+[13:01:51.913] Wait 1.00 s.
+[13:01:52.913] Valve Relay Board Y1 -> OFF.
+[13:01:52.913] D1 -> Close.
+[13:01:52.913] Wait 1.00 s.
+[13:01:53.913] Valve Relay Board Y3 -> OFF.
+[13:01:53.913] D3 -> Close.
+[13:01:53.914] Wait 9.00 s.
+[13:02:02.933] Heater parameters sent: CH2, 13277 W.
+[13:02:02.943] Heater Relay Board Y7 -> ON.
+[13:02:02.943] Heater CH2, 13277 W, On, 0.34 s.
+[13:02:03.287] Heater Relay Board Y7 -> OFF.
+[13:02:03.287] Heater CH2, 0 W, Off, 0.36 s.
+[13:02:03.667] Heater parameters sent: CH4, 13277 W.
+[13:02:03.677] Heater Relay Board Y7 -> ON.
+[13:02:03.677] Heater CH4, 13277 W, On, 0.34 s.
+[13:02:04.022] Heater Relay Board Y7 -> OFF.
+[13:02:04.022] Heater CH4, 0 W, Off, 0.36 s.
+[13:02:04.401] Heater parameters sent: CH1, 13277 W.
+[13:02:04.412] Heater Relay Board Y7 -> ON.
+[13:02:04.412] Heater CH1, 13277 W, On, 0.34 s.
+[13:02:04.757] Heater Relay Board Y7 -> OFF.
+[13:02:04.757] Heater CH1, 0 W, Off, 0.36 s.
+[13:02:05.136] Heater parameters sent: CH3, 13277 W.
+[13:02:05.146] Heater Relay Board Y7 -> ON.
+[13:02:05.146] Heater CH3, 13277 W, On, 0.34 s.
+[13:02:05.491] Heater Relay Board Y7 -> OFF.
+[13:02:05.491] Heater CH3, 0 W, Off, 0.36 s.
+[13:02:05.855] Wait 13.20 s.
+[13:02:19.068] Valve Relay Board Y2 -> ON.
+[13:02:19.068] D2 -> Open.
+[13:02:19.080] Valve Relay Board Y4 -> ON.
+[13:02:19.081] D4 -> Open.
+[13:02:19.092] Valve Relay Board Y1 -> ON.
+[13:02:19.092] D1 -> Open.
+[13:02:19.104] Valve Relay Board Y3 -> ON.
+[13:02:19.104] D3 -> Open.
+[13:02:19.104] Wait 4.00 s.
+[13:02:23.134] Heater parameters sent: CH2, 4611 W.
+[13:02:23.145] Heater Relay Board Y7 -> ON.
+[13:02:23.145] Heater CH2, 4611 W, On, 0.50 s.
+[13:02:23.661] Heater Relay Board Y7 -> OFF.
+[13:02:23.661] Heater CH2, 0 W, Off, 0.20 s.
+[13:02:23.868] Heater parameters sent: CH4, 4611 W.
+[13:02:23.879] Heater Relay Board Y7 -> ON.
+[13:02:23.879] Heater CH4, 4611 W, On, 0.50 s.
+[13:02:24.380] Heater Relay Board Y7 -> OFF.
+[13:02:24.380] Heater CH4, 0 W, Off, 0.20 s.
+[13:02:24.587] Heater parameters sent: CH1, 4611 W.
+[13:02:24.598] Heater Relay Board Y7 -> ON.
+[13:02:24.598] Heater CH1, 4611 W, On, 0.50 s.
+[13:02:25.115] Heater Relay Board Y7 -> OFF.
+[13:02:25.115] Heater CH1, 0 W, Off, 0.20 s.
+[13:02:25.322] Heater parameters sent: CH3, 4611 W.
+[13:02:25.333] Heater Relay Board Y7 -> ON.
+[13:02:25.333] Heater CH3, 4611 W, On, 0.50 s.
+[13:02:25.849] Heater Relay Board Y7 -> OFF.
+[13:02:25.849] Heater CH3, 0 W, Off, 0.20 s.
+[13:02:26.041] Wait 165.20 s.
+[13:05:11.255] Valve Relay Board Y2 -> OFF.
+[13:05:11.255] D2 -> Close.
+[13:05:11.255] Wait 1.00 s.
+[13:05:12.254] Valve Relay Board Y4 -> OFF.
+[13:05:12.254] D4 -> Close.
+[13:05:12.254] Wait 1.00 s.
+[13:05:13.269] Valve Relay Board Y1 -> OFF.
+[13:05:13.269] D1 -> Close.
+[13:05:13.269] Wait 1.00 s.
+[13:05:14.285] Valve Relay Board Y3 -> OFF.
+[13:05:14.285] D3 -> Close.
+[13:05:14.285] Wait 9.00 s.
+[13:05:23.289] Heater parameters sent: CH2, 13277 W.
+[13:05:23.300] Heater Relay Board Y7 -> ON.
+[13:05:23.300] Heater CH2, 13277 W, On, 0.34 s.
+[13:05:23.644] Heater Relay Board Y7 -> OFF.
+[13:05:23.645] Heater CH2, 0 W, Off, 0.36 s.
+[13:05:24.024] Heater parameters sent: CH4, 13277 W.
+[13:05:24.034] Heater Relay Board Y7 -> ON.
+[13:05:24.034] Heater CH4, 13277 W, On, 0.34 s.
+[13:05:24.379] Heater Relay Board Y7 -> OFF.
+[13:05:24.379] Heater CH4, 0 W, Off, 0.36 s.
+[13:05:24.758] Heater parameters sent: CH1, 13277 W.
+[13:05:24.769] Heater Relay Board Y7 -> ON.
+[13:05:24.769] Heater CH1, 13277 W, On, 0.34 s.
+[13:05:25.113] Heater Relay Board Y7 -> OFF.
+[13:05:25.113] Heater CH1, 0 W, Off, 0.36 s.
+[13:05:25.492] Heater parameters sent: CH3, 13277 W.
+[13:05:25.503] Heater Relay Board Y7 -> ON.
+[13:05:25.503] Heater CH3, 13277 W, On, 0.34 s.
+[13:05:25.847] Heater Relay Board Y7 -> OFF.
+[13:05:25.847] Heater CH3, 0 W, Off, 0.36 s.
+[13:05:26.211] Wait 13.20 s.
+[13:05:39.426] Valve Relay Board Y2 -> ON.
+[13:05:39.426] D2 -> Open.
+[13:05:39.438] Valve Relay Board Y4 -> ON.
+[13:05:39.438] D4 -> Open.
+[13:05:39.450] Valve Relay Board Y1 -> ON.
+[13:05:39.450] D1 -> Open.
+[13:05:39.462] Valve Relay Board Y3 -> ON.
+[13:05:39.462] D3 -> Open.
+[13:05:39.462] Wait 4.00 s.
+[13:05:43.492] Heater parameters sent: CH2, 4611 W.
+[13:05:43.503] Heater Relay Board Y7 -> ON.
+[13:05:43.503] Heater CH2, 4611 W, On, 0.50 s.
+[13:05:44.019] Heater Relay Board Y7 -> OFF.
+[13:05:44.019] Heater CH2, 0 W, Off, 0.20 s.
+[13:05:44.226] Heater parameters sent: CH4, 4611 W.
+[13:05:44.237] Heater Relay Board Y7 -> ON.
+[13:05:44.237] Heater CH4, 4611 W, On, 0.50 s.
+[13:05:44.739] Heater Relay Board Y7 -> OFF.
+[13:05:44.739] Heater CH4, 0 W, Off, 0.20 s.
+[13:05:44.946] Heater parameters sent: CH1, 4611 W.
+[13:05:44.957] Heater Relay Board Y7 -> ON.
+[13:05:44.957] Heater CH1, 4611 W, On, 0.50 s.
+[13:05:45.458] Heater Relay Board Y7 -> OFF.
+[13:05:45.458] Heater CH1, 0 W, Off, 0.20 s.
+[13:05:45.665] Heater parameters sent: CH3, 4611 W.
+[13:05:45.676] Heater Relay Board Y7 -> ON.
+[13:05:45.676] Heater CH3, 4611 W, On, 0.50 s.
+[13:05:46.192] Heater Relay Board Y7 -> OFF.
+[13:05:46.192] Heater CH3, 0 W, Off, 0.20 s.
+[13:05:46.384] Wait 165.20 s.
+[13:08:31.608] Valve Relay Board Y2 -> OFF.
+[13:08:31.609] D2 -> Close.
+[13:08:31.609] Wait 1.00 s.
+[13:08:32.622] Valve Relay Board Y4 -> OFF.
+[13:08:32.622] D4 -> Close.
+[13:08:32.623] Wait 1.00 s.
+[13:08:33.637] Valve Relay Board Y1 -> OFF.
+[13:08:33.637] D1 -> Close.
+[13:08:33.637] Wait 1.00 s.
+[13:08:34.639] Valve Relay Board Y3 -> OFF.
+[13:08:34.639] D3 -> Close.
+[13:08:34.639] Wait 9.00 s.
+[13:08:43.657] Heater parameters sent: CH2, 13277 W.
+[13:08:43.668] Heater Relay Board Y7 -> ON.
+[13:08:43.668] Heater CH2, 13277 W, On, 0.34 s.
+[13:08:44.012] Heater Relay Board Y7 -> OFF.
+[13:08:44.013] Heater CH2, 0 W, Off, 0.36 s.
+[13:08:44.392] Heater parameters sent: CH4, 13277 W.
+[13:08:44.402] Heater Relay Board Y7 -> ON.
+[13:08:44.402] Heater CH4, 13277 W, On, 0.34 s.
+[13:08:44.871] Heater Relay Board Y7 -> OFF.
+[13:08:44.871] Heater CH4, 0 W, Off, 0.36 s.
+[13:08:45.251] Heater parameters sent: CH1, 13277 W.
+[13:08:45.262] Heater Relay Board Y7 -> ON.
+[13:08:45.262] Heater CH1, 13277 W, On, 0.34 s.
+[13:08:45.606] Heater Relay Board Y7 -> OFF.
+[13:08:45.606] Heater CH1, 0 W, Off, 0.36 s.
+[13:08:45.985] Heater parameters sent: CH3, 13277 W.
+[13:08:45.996] Heater Relay Board Y7 -> ON.
+[13:08:45.996] Heater CH3, 13277 W, On, 0.34 s.
+[13:08:46.341] Heater Relay Board Y7 -> OFF.
+[13:08:46.341] Heater CH3, 0 W, Off, 0.36 s.
+[13:08:46.705] Wait 13.20 s.
+[13:08:59.920] Valve Relay Board Y2 -> ON.
+[13:08:59.920] D2 -> Open.
+[13:08:59.932] Valve Relay Board Y4 -> ON.
+[13:08:59.932] D4 -> Open.
+[13:08:59.943] Valve Relay Board Y1 -> ON.
+[13:08:59.943] D1 -> Open.
+[13:08:59.954] Valve Relay Board Y3 -> ON.
+[13:08:59.954] D3 -> Open.
+[13:08:59.954] Wait 4.00 s.
+[13:09:03.971] Heater parameters sent: CH2, 4611 W.
+[13:09:03.982] Heater Relay Board Y7 -> ON.
+[13:09:03.982] Heater CH2, 4611 W, On, 0.50 s.
+[13:09:04.498] Heater Relay Board Y7 -> OFF.
+[13:09:04.498] Heater CH2, 0 W, Off, 0.20 s.
+[13:09:04.705] Heater parameters sent: CH4, 4611 W.
+[13:09:04.716] Heater Relay Board Y7 -> ON.
+[13:09:04.716] Heater CH4, 4611 W, On, 0.50 s.
+[13:09:05.218] Heater Relay Board Y7 -> OFF.
+[13:09:05.218] Heater CH4, 0 W, Off, 0.20 s.
+[13:09:05.424] Heater parameters sent: CH1, 4611 W.
+[13:09:05.435] Heater Relay Board Y7 -> ON.
+[13:09:05.435] Heater CH1, 4611 W, On, 0.50 s.
+[13:09:05.952] Heater Relay Board Y7 -> OFF.
+[13:09:05.952] Heater CH1, 0 W, Off, 0.20 s.
+[13:09:06.159] Heater parameters sent: CH3, 4611 W.
+[13:09:06.170] Heater Relay Board Y7 -> ON.
+[13:09:06.170] Heater CH3, 4611 W, On, 0.50 s.
+[13:09:06.671] Heater Relay Board Y7 -> OFF.
+[13:09:06.671] Heater CH3, 0 W, Off, 0.20 s.
+[13:09:06.862] Wait 165.20 s.
+[13:11:52.078] Valve Relay Board Y2 -> OFF.
+[13:11:52.078] D2 -> Close.
+[13:11:52.078] Wait 1.00 s.
+[13:11:53.093] Valve Relay Board Y4 -> OFF.
+[13:11:53.093] D4 -> Close.
+[13:11:53.093] Wait 1.00 s.
+[13:11:54.109] Valve Relay Board Y1 -> OFF.
+[13:11:54.109] D1 -> Close.
+[13:11:54.109] Wait 1.00 s.
+[13:11:55.124] Valve Relay Board Y3 -> OFF.
+[13:11:55.124] D3 -> Close.
+[13:11:55.124] Wait 9.00 s.
+[13:12:04.143] Heater parameters sent: CH2, 13277 W.
+[13:12:04.154] Heater Relay Board Y7 -> ON.
+[13:12:04.154] Heater CH2, 13277 W, On, 0.34 s.
+[13:12:04.498] Heater Relay Board Y7 -> OFF.
+[13:12:04.498] Heater CH2, 0 W, Off, 0.36 s.
+[13:12:04.877] Heater parameters sent: CH4, 13277 W.
+[13:12:04.888] Heater Relay Board Y7 -> ON.
+[13:12:04.888] Heater CH4, 13277 W, On, 0.34 s.
+[13:12:05.233] Heater Relay Board Y7 -> OFF.
+[13:12:05.233] Heater CH4, 0 W, Off, 0.36 s.
+[13:12:05.612] Heater parameters sent: CH1, 13277 W.
+[13:12:05.622] Heater Relay Board Y7 -> ON.
+[13:12:05.622] Heater CH1, 13277 W, On, 0.34 s.
+[13:12:05.967] Heater Relay Board Y7 -> OFF.
+[13:12:05.967] Heater CH1, 0 W, Off, 0.36 s.
+[13:12:06.346] Heater parameters sent: CH3, 13277 W.
+[13:12:06.357] Heater Relay Board Y7 -> ON.
+[13:12:06.357] Heater CH3, 13277 W, On, 0.34 s.
+[13:12:06.701] Heater Relay Board Y7 -> OFF.
+[13:12:06.701] Heater CH3, 0 W, Off, 0.36 s.
+[13:12:07.065] Wait 13.20 s.
+[13:12:20.280] Valve Relay Board Y2 -> ON.
+[13:12:20.280] D2 -> Open.
+[13:12:20.292] Valve Relay Board Y4 -> ON.
+[13:12:20.292] D4 -> Open.
+[13:12:20.304] Valve Relay Board Y1 -> ON.
+[13:12:20.304] D1 -> Open.
+[13:12:20.316] Valve Relay Board Y3 -> ON.
+[13:12:20.316] D3 -> Open.
+[13:12:20.316] Wait 4.00 s.
+[13:12:24.346] Heater parameters sent: CH2, 4611 W.
+[13:12:24.357] Heater Relay Board Y7 -> ON.
+[13:12:24.357] Heater CH2, 4611 W, On, 0.50 s.
+[13:12:24.858] Heater Relay Board Y7 -> OFF.
+[13:12:24.858] Heater CH2, 0 W, Off, 0.20 s.
+[13:12:25.065] Heater parameters sent: CH4, 4611 W.
+[13:12:25.076] Heater Relay Board Y7 -> ON.
+[13:12:25.076] Heater CH4, 4611 W, On, 0.50 s.
+[13:12:25.592] Heater Relay Board Y7 -> OFF.
+[13:12:25.592] Heater CH4, 0 W, Off, 0.20 s.
+[13:12:25.800] Heater parameters sent: CH1, 4611 W.
+[13:12:25.811] Heater Relay Board Y7 -> ON.
+[13:12:25.811] Heater CH1, 4611 W, On, 0.50 s.
+[13:12:26.327] Heater Relay Board Y7 -> OFF.
+[13:12:26.327] Heater CH1, 0 W, Off, 0.20 s.
+[13:12:26.534] Heater parameters sent: CH3, 4611 W.
+[13:12:26.545] Heater Relay Board Y7 -> ON.
+[13:12:26.545] Heater CH3, 4611 W, On, 0.50 s.
+[13:12:27.061] Heater Relay Board Y7 -> OFF.
+[13:12:27.061] Heater CH3, 0 W, Off, 0.20 s.
+[13:12:27.254] Wait 165.20 s.
+[13:15:12.466] Valve Relay Board Y2 -> OFF.
+[13:15:12.466] D2 -> Close.
+[13:15:12.466] Wait 1.00 s.
+[13:15:13.465] Valve Relay Board Y4 -> OFF.
+[13:15:13.465] D4 -> Close.
+[13:15:13.466] Wait 1.00 s.
+[13:15:14.480] Valve Relay Board Y1 -> OFF.
+[13:15:14.480] D1 -> Close.
+[13:15:14.480] Wait 1.00 s.
+[13:15:15.481] Valve Relay Board Y3 -> OFF.
+[13:15:15.481] D3 -> Close.
+[13:15:15.481] Wait 9.00 s.
+[13:15:24.500] Heater parameters sent: CH2, 13277 W.
+[13:15:24.510] Heater Relay Board Y7 -> ON.
+[13:15:24.511] Heater CH2, 13277 W, On, 0.34 s.
+[13:15:24.854] Heater Relay Board Y7 -> OFF.
+[13:15:24.854] Heater CH2, 0 W, Off, 0.36 s.
+[13:15:25.234] Heater parameters sent: CH4, 13277 W.
+[13:15:25.245] Heater Relay Board Y7 -> ON.
+[13:15:25.245] Heater CH4, 13277 W, On, 0.34 s.
+[13:15:25.589] Heater Relay Board Y7 -> OFF.
+[13:15:25.589] Heater CH4, 0 W, Off, 0.36 s.
+[13:15:25.968] Heater parameters sent: CH1, 13277 W.
+[13:15:25.979] Heater Relay Board Y7 -> ON.
+[13:15:25.979] Heater CH1, 13277 W, On, 0.34 s.
+[13:15:26.323] Heater Relay Board Y7 -> OFF.
+[13:15:26.323] Heater CH1, 0 W, Off, 0.36 s.
+[13:15:26.702] Heater parameters sent: CH3, 13277 W.
+[13:15:26.713] Heater Relay Board Y7 -> ON.
+[13:15:26.713] Heater CH3, 13277 W, On, 0.34 s.
+[13:15:27.057] Heater Relay Board Y7 -> OFF.
+[13:15:27.057] Heater CH3, 0 W, Off, 0.36 s.
+[13:15:27.422] Wait 13.20 s.
+[13:15:40.637] Valve Relay Board Y2 -> ON.
+[13:15:40.637] D2 -> Open.
+[13:15:40.649] Valve Relay Board Y4 -> ON.
+[13:15:40.649] D4 -> Open.
+[13:15:40.660] Valve Relay Board Y1 -> ON.
+[13:15:40.661] D1 -> Open.
+[13:15:40.672] Valve Relay Board Y3 -> ON.
+[13:15:40.672] D3 -> Open.
+[13:15:40.672] Wait 4.00 s.
+[13:15:44.703] Heater parameters sent: CH2, 4611 W.
+[13:15:44.714] Heater Relay Board Y7 -> ON.
+[13:15:44.714] Heater CH2, 4611 W, On, 0.50 s.
+[13:15:45.230] Heater Relay Board Y7 -> OFF.
+[13:15:45.230] Heater CH2, 0 W, Off, 0.20 s.
+[13:15:45.437] Heater parameters sent: CH4, 4611 W.
+[13:15:45.448] Heater Relay Board Y7 -> ON.
+[13:15:45.448] Heater CH4, 4611 W, On, 0.50 s.
+[13:15:45.949] Heater Relay Board Y7 -> OFF.
+[13:15:45.949] Heater CH4, 0 W, Off, 0.20 s.
+[13:15:46.156] Heater parameters sent: CH1, 4611 W.
+[13:15:46.167] Heater Relay Board Y7 -> ON.
+[13:15:46.167] Heater CH1, 4611 W, On, 0.50 s.
+[13:15:46.668] Heater Relay Board Y7 -> OFF.
+[13:15:46.668] Heater CH1, 0 W, Off, 0.20 s.
+[13:15:46.875] Heater parameters sent: CH3, 4611 W.
+[13:15:46.886] Heater Relay Board Y7 -> ON.
+[13:15:46.886] Heater CH3, 4611 W, On, 0.50 s.
+[13:15:47.402] Heater Relay Board Y7 -> OFF.
+[13:15:47.402] Heater CH3, 0 W, Off, 0.20 s.
+[13:15:47.594] Wait 165.20 s.
+[13:18:32.820] Valve Relay Board Y2 -> OFF.
+[13:18:32.820] D2 -> Close.
+[13:18:32.820] Wait 1.00 s.
+[13:18:33.835] Valve Relay Board Y4 -> OFF.
+[13:18:33.835] D4 -> Close.
+[13:18:33.835] Wait 1.00 s.
+[13:18:34.851] Valve Relay Board Y1 -> OFF.
+[13:18:34.851] D1 -> Close.
+[13:18:34.851] Wait 1.00 s.
+[13:18:35.866] Valve Relay Board Y3 -> OFF.
+[13:18:35.866] D3 -> Close.
+[13:18:35.866] Wait 9.00 s.
+[13:18:44.871] Heater parameters sent: CH2, 13277 W.
+[13:18:44.882] Heater Relay Board Y7 -> ON.
+[13:18:44.882] Heater CH2, 13277 W, On, 0.34 s.
+[13:18:45.226] Heater Relay Board Y7 -> OFF.
+[13:18:45.226] Heater CH2, 0 W, Off, 0.36 s.
+[13:18:45.605] Heater parameters sent: CH4, 13277 W.
+[13:18:45.616] Heater Relay Board Y7 -> ON.
+[13:18:45.616] Heater CH4, 13277 W, On, 0.34 s.
+[13:18:45.961] Heater Relay Board Y7 -> OFF.
+[13:18:45.961] Heater CH4, 0 W, Off, 0.36 s.
+[13:18:46.340] Heater parameters sent: CH1, 13277 W.
+[13:18:46.351] Heater Relay Board Y7 -> ON.
+[13:18:46.351] Heater CH1, 13277 W, On, 0.34 s.
+[13:18:46.696] Heater Relay Board Y7 -> OFF.
+[13:18:46.696] Heater CH1, 0 W, Off, 0.36 s.
+[13:18:47.075] Heater parameters sent: CH3, 13277 W.
+[13:18:47.085] Heater Relay Board Y7 -> ON.
+[13:18:47.085] Heater CH3, 13277 W, On, 0.34 s.
+[13:18:47.430] Heater Relay Board Y7 -> OFF.
+[13:18:47.430] Heater CH3, 0 W, Off, 0.36 s.
+[13:18:47.794] Wait 13.20 s.
+[13:19:01.007] Valve Relay Board Y2 -> ON.
+[13:19:01.007] D2 -> Open.
+[13:19:01.019] Valve Relay Board Y4 -> ON.
+[13:19:01.019] D4 -> Open.
+[13:19:01.031] Valve Relay Board Y1 -> ON.
+[13:19:01.031] D1 -> Open.
+[13:19:01.043] Valve Relay Board Y3 -> ON.
+[13:19:01.043] D3 -> Open.
+[13:19:01.043] Wait 4.00 s.
+[13:19:05.058] Heater parameters sent: CH2, 4611 W.
+[13:19:05.069] Heater Relay Board Y7 -> ON.
+[13:19:05.069] Heater CH2, 4611 W, On, 0.50 s.
+[13:19:05.585] Heater Relay Board Y7 -> OFF.
+[13:19:05.585] Heater CH2, 0 W, Off, 0.20 s.
+[13:19:05.792] Heater parameters sent: CH4, 4611 W.
+[13:19:05.803] Heater Relay Board Y7 -> ON.
+[13:19:05.803] Heater CH4, 4611 W, On, 0.50 s.
+[13:19:06.320] Heater Relay Board Y7 -> OFF.
+[13:19:06.320] Heater CH4, 0 W, Off, 0.20 s.
+[13:19:06.527] Heater parameters sent: CH1, 4611 W.
+[13:19:06.538] Heater Relay Board Y7 -> ON.
+[13:19:06.538] Heater CH1, 4611 W, On, 0.50 s.
+[13:19:07.039] Heater Relay Board Y7 -> OFF.
+[13:19:07.039] Heater CH1, 0 W, Off, 0.20 s.
+[13:19:07.246] Heater parameters sent: CH3, 4611 W.
+[13:19:07.257] Heater Relay Board Y7 -> ON.
+[13:19:07.257] Heater CH3, 4611 W, On, 0.50 s.
+[13:19:07.757] Heater Relay Board Y7 -> OFF.
+[13:19:07.757] Heater CH3, 0 W, Off, 0.20 s.
+[13:19:07.949] Wait 165.20 s.
+[13:21:53.164] Valve Relay Board Y2 -> OFF.
+[13:21:53.164] D2 -> Close.
+[13:21:53.164] Wait 1.00 s.
+[13:21:54.179] Valve Relay Board Y4 -> OFF.
+[13:21:54.179] D4 -> Close.
+[13:21:54.179] Wait 1.00 s.
+[13:21:55.195] Valve Relay Board Y1 -> OFF.
+[13:21:55.195] D1 -> Close.
+[13:21:55.196] Wait 1.00 s.
+[13:21:56.210] Valve Relay Board Y3 -> OFF.
+[13:21:56.237] D3 -> Close.
+[13:21:56.237] Wait 9.00 s.
+[13:22:05.246] Heater parameters sent: CH2, 13277 W.
+[13:22:05.257] Heater Relay Board Y7 -> ON.
+[13:22:05.257] Heater CH2, 13277 W, On, 0.34 s.
+[13:22:05.601] Heater Relay Board Y7 -> OFF.
+[13:22:05.601] Heater CH2, 0 W, Off, 0.36 s.
+[13:22:05.981] Heater parameters sent: CH4, 13277 W.
+[13:22:05.991] Heater Relay Board Y7 -> ON.
+[13:22:05.991] Heater CH4, 13277 W, On, 0.34 s.
+[13:22:06.336] Heater Relay Board Y7 -> OFF.
+[13:22:06.336] Heater CH4, 0 W, Off, 0.36 s.
+[13:22:06.715] Heater parameters sent: CH1, 13277 W.
+[13:22:06.726] Heater Relay Board Y7 -> ON.
+[13:22:06.726] Heater CH1, 13277 W, On, 0.34 s.
+[13:22:07.070] Heater Relay Board Y7 -> OFF.
+[13:22:07.070] Heater CH1, 0 W, Off, 0.36 s.
+[13:22:07.450] Heater parameters sent: CH3, 13277 W.
+[13:22:07.460] Heater Relay Board Y7 -> ON.
+[13:22:07.460] Heater CH3, 13277 W, On, 0.34 s.
+[13:22:07.804] Heater Relay Board Y7 -> OFF.
+[13:22:07.804] Heater CH3, 0 W, Off, 0.36 s.
+[13:22:08.169] Wait 13.20 s.
+[13:22:21.383] Valve Relay Board Y2 -> ON.
+[13:22:21.383] D2 -> Open.
+[13:22:21.395] Valve Relay Board Y4 -> ON.
+[13:22:21.395] D4 -> Open.
+[13:22:21.407] Valve Relay Board Y1 -> ON.
+[13:22:21.407] D1 -> Open.
+[13:22:21.419] Valve Relay Board Y3 -> ON.
+[13:22:21.419] D3 -> Open.
+[13:22:21.419] Wait 4.00 s.
+[13:22:25.433] Heater parameters sent: CH2, 4611 W.
+[13:22:25.444] Heater Relay Board Y7 -> ON.
+[13:22:25.444] Heater CH2, 4611 W, On, 0.50 s.
+[13:22:25.961] Heater Relay Board Y7 -> OFF.
+[13:22:25.961] Heater CH2, 0 W, Off, 0.20 s.
+[13:22:26.167] Heater parameters sent: CH4, 4611 W.
+[13:22:26.178] Heater Relay Board Y7 -> ON.
+[13:22:26.178] Heater CH4, 4611 W, On, 0.50 s.
+[13:22:26.679] Heater Relay Board Y7 -> OFF.
+[13:22:26.679] Heater CH4, 0 W, Off, 0.20 s.
+[13:22:26.886] Heater parameters sent: CH1, 4611 W.
+[13:22:26.897] Heater Relay Board Y7 -> ON.
+[13:22:26.897] Heater CH1, 4611 W, On, 0.50 s.
+[13:22:27.414] Heater Relay Board Y7 -> OFF.
+[13:22:27.414] Heater CH1, 0 W, Off, 0.20 s.
+[13:22:27.620] Heater parameters sent: CH3, 4611 W.
+[13:22:27.631] Heater Relay Board Y7 -> ON.
+[13:22:27.631] Heater CH3, 4611 W, On, 0.50 s.
+[13:22:28.132] Heater Relay Board Y7 -> OFF.
+[13:22:28.132] Heater CH3, 0 W, Off, 0.20 s.
+[13:22:28.324] Wait 165.20 s.
+[13:25:13.547] Valve Relay Board Y2 -> OFF.
+[13:25:13.547] D2 -> Close.
+[13:25:13.547] Wait 1.00 s.
+[13:25:14.561] Valve Relay Board Y4 -> OFF.
+[13:25:14.561] D4 -> Close.
+[13:25:14.561] Wait 1.00 s.
+[13:25:15.577] Valve Relay Board Y1 -> OFF.
+[13:25:15.577] D1 -> Close.
+[13:25:15.577] Wait 1.00 s.
+[13:25:16.593] Valve Relay Board Y3 -> OFF.
+[13:25:16.593] D3 -> Close.
+[13:25:16.593] Wait 9.00 s.
+[13:25:25.611] Heater parameters sent: CH2, 13277 W.
+[13:25:25.622] Heater Relay Board Y7 -> ON.
+[13:25:25.622] Heater CH2, 13277 W, On, 0.34 s.
+[13:25:25.966] Heater Relay Board Y7 -> OFF.
+[13:25:25.966] Heater CH2, 0 W, Off, 0.36 s.
+[13:25:26.345] Heater parameters sent: CH4, 13277 W.
+[13:25:26.356] Heater Relay Board Y7 -> ON.
+[13:25:26.356] Heater CH4, 13277 W, On, 0.34 s.
+[13:25:26.700] Heater Relay Board Y7 -> OFF.
+[13:25:26.700] Heater CH4, 0 W, Off, 0.36 s.
+[13:25:27.080] Heater parameters sent: CH1, 13277 W.
+[13:25:27.090] Heater Relay Board Y7 -> ON.
+[13:25:27.090] Heater CH1, 13277 W, On, 0.34 s.
+[13:25:27.434] Heater Relay Board Y7 -> OFF.
+[13:25:27.434] Heater CH1, 0 W, Off, 0.36 s.
+[13:25:27.814] Heater parameters sent: CH3, 13277 W.
+[13:25:27.825] Heater Relay Board Y7 -> ON.
+[13:25:27.825] Heater CH3, 13277 W, On, 0.34 s.
+[13:25:28.169] Heater Relay Board Y7 -> OFF.
+[13:25:28.169] Heater CH3, 0 W, Off, 0.36 s.
+[13:25:28.533] Wait 13.20 s.
+[13:25:41.747] Valve Relay Board Y2 -> ON.
+[13:25:41.747] D2 -> Open.
+[13:25:41.759] Valve Relay Board Y4 -> ON.
+[13:25:41.759] D4 -> Open.
+[13:25:41.771] Valve Relay Board Y1 -> ON.
+[13:25:41.771] D1 -> Open.
+[13:25:41.783] Valve Relay Board Y3 -> ON.
+[13:25:41.783] D3 -> Open.
+[13:25:41.783] Wait 4.00 s.
+[13:25:45.798] Heater parameters sent: CH2, 4611 W.
+[13:25:45.809] Heater Relay Board Y7 -> ON.
+[13:25:45.809] Heater CH2, 4611 W, On, 0.50 s.
+[13:25:46.326] Heater Relay Board Y7 -> OFF.
+[13:25:46.326] Heater CH2, 0 W, Off, 0.20 s.
+[13:25:46.533] Heater parameters sent: CH4, 4611 W.
+[13:25:46.544] Heater Relay Board Y7 -> ON.
+[13:25:46.544] Heater CH4, 4611 W, On, 0.50 s.
+[13:25:47.060] Heater Relay Board Y7 -> OFF.
+[13:25:47.060] Heater CH4, 0 W, Off, 0.20 s.
+[13:25:47.267] Heater parameters sent: CH1, 4611 W.
+[13:25:47.278] Heater Relay Board Y7 -> ON.
+[13:25:47.278] Heater CH1, 4611 W, On, 0.50 s.
+[13:25:47.795] Heater Relay Board Y7 -> OFF.
+[13:25:47.795] Heater CH1, 0 W, Off, 0.20 s.
+[13:25:48.001] Heater parameters sent: CH3, 4611 W.
+[13:25:48.012] Heater Relay Board Y7 -> ON.
+[13:25:48.012] Heater CH3, 4611 W, On, 0.50 s.
+[13:25:48.513] Heater Relay Board Y7 -> OFF.
+[13:25:48.513] Heater CH3, 0 W, Off, 0.20 s.
+[13:25:48.705] Wait 165.20 s.
+[13:28:33.931] Valve Relay Board Y2 -> OFF.
+[13:28:33.931] D2 -> Close.
+[13:28:33.931] Wait 1.00 s.
+[13:28:34.946] Valve Relay Board Y4 -> OFF.
+[13:28:34.946] D4 -> Close.
+[13:28:34.946] Wait 1.00 s.
+[13:28:35.961] Valve Relay Board Y1 -> OFF.
+[13:28:35.961] D1 -> Close.
+[13:28:35.961] Wait 1.00 s.
+[13:28:36.976] Valve Relay Board Y3 -> OFF.
+[13:28:36.976] D3 -> Close.
+[13:28:36.976] Wait 9.00 s.
+[13:28:45.995] Heater parameters sent: CH2, 13277 W.
+[13:28:46.006] Heater Relay Board Y7 -> ON.
+[13:28:46.006] Heater CH2, 13277 W, On, 0.34 s.
+[13:28:46.351] Heater Relay Board Y7 -> OFF.
+[13:28:46.351] Heater CH2, 0 W, Off, 0.36 s.
+[13:28:46.729] Heater parameters sent: CH4, 13277 W.
+[13:28:46.740] Heater Relay Board Y7 -> ON.
+[13:28:46.740] Heater CH4, 13277 W, On, 0.34 s.
+[13:28:47.084] Heater Relay Board Y7 -> OFF.
+[13:28:47.084] Heater CH4, 0 W, Off, 0.36 s.
+[13:28:47.464] Heater parameters sent: CH1, 13277 W.
+[13:28:47.474] Heater Relay Board Y7 -> ON.
+[13:28:47.474] Heater CH1, 13277 W, On, 0.34 s.
+[13:28:47.819] Heater Relay Board Y7 -> OFF.
+[13:28:47.819] Heater CH1, 0 W, Off, 0.36 s.
+[13:28:48.198] Heater parameters sent: CH3, 13277 W.
+[13:28:48.209] Heater Relay Board Y7 -> ON.
+[13:28:48.209] Heater CH3, 13277 W, On, 0.34 s.
+[13:28:48.553] Heater Relay Board Y7 -> OFF.
+[13:28:48.553] Heater CH3, 0 W, Off, 0.36 s.
+[13:28:48.917] Wait 13.20 s.
+[13:29:02.132] Valve Relay Board Y2 -> ON.
+[13:29:02.132] D2 -> Open.
+[13:29:02.144] Valve Relay Board Y4 -> ON.
+[13:29:02.144] D4 -> Open.
+[13:29:02.155] Valve Relay Board Y1 -> ON.
+[13:29:02.155] D1 -> Open.
+[13:29:02.167] Valve Relay Board Y3 -> ON.
+[13:29:02.167] D3 -> Open.
+[13:29:02.167] Wait 4.00 s.
+[13:29:06.183] Heater parameters sent: CH2, 4611 W.
+[13:29:06.194] Heater Relay Board Y7 -> ON.
+[13:29:06.194] Heater CH2, 4611 W, On, 0.50 s.
+[13:29:06.694] Heater Relay Board Y7 -> OFF.
+[13:29:06.694] Heater CH2, 0 W, Off, 0.20 s.
+[13:29:06.902] Heater parameters sent: CH4, 4611 W.
+[13:29:06.913] Heater Relay Board Y7 -> ON.
+[13:29:06.913] Heater CH4, 4611 W, On, 0.50 s.
+[13:29:07.414] Heater Relay Board Y7 -> OFF.
+[13:29:07.414] Heater CH4, 0 W, Off, 0.20 s.
+[13:29:07.621] Heater parameters sent: CH1, 4611 W.
+[13:29:07.632] Heater Relay Board Y7 -> ON.
+[13:29:07.632] Heater CH1, 4611 W, On, 0.50 s.
+[13:29:08.133] Heater Relay Board Y7 -> OFF.
+[13:29:08.133] Heater CH1, 0 W, Off, 0.20 s.
+[13:29:08.340] Heater parameters sent: CH3, 4611 W.
+[13:29:08.351] Heater Relay Board Y7 -> ON.
+[13:29:08.351] Heater CH3, 4611 W, On, 0.50 s.
+[13:29:08.868] Heater Relay Board Y7 -> OFF.
+[13:29:08.868] Heater CH3, 0 W, Off, 0.20 s.
+[13:29:09.059] Wait 165.20 s.
+[13:31:54.286] Valve Relay Board Y2 -> OFF.
+[13:31:54.286] D2 -> Close.
+[13:31:54.286] Wait 1.00 s.
+[13:31:55.300] Valve Relay Board Y4 -> OFF.
+[13:31:55.300] D4 -> Close.
+[13:31:55.300] Wait 1.00 s.
+[13:31:56.316] Valve Relay Board Y1 -> OFF.
+[13:31:56.316] D1 -> Close.
+[13:31:56.316] Wait 1.00 s.
+[13:31:57.332] Valve Relay Board Y3 -> OFF.
+[13:31:57.332] D3 -> Close.
+[13:31:57.332] Wait 9.00 s.
+[13:32:06.350] Heater parameters sent: CH2, 13277 W.
+[13:32:06.361] Heater Relay Board Y7 -> ON.
+[13:32:06.361] Heater CH2, 13277 W, On, 0.34 s.
+[13:32:06.705] Heater Relay Board Y7 -> OFF.
+[13:32:06.705] Heater CH2, 0 W, Off, 0.36 s.
+[13:32:07.085] Heater parameters sent: CH4, 13277 W.
+[13:32:07.095] Heater Relay Board Y7 -> ON.
+[13:32:07.095] Heater CH4, 13277 W, On, 0.34 s.
+[13:32:07.440] Heater Relay Board Y7 -> OFF.
+[13:32:07.440] Heater CH4, 0 W, Off, 0.36 s.
+[13:32:07.819] Heater parameters sent: CH1, 13277 W.
+[13:32:07.830] Heater Relay Board Y7 -> ON.
+[13:32:07.830] Heater CH1, 13277 W, On, 0.34 s.
+[13:32:08.174] Heater Relay Board Y7 -> OFF.
+[13:32:08.174] Heater CH1, 0 W, Off, 0.36 s.
+[13:32:08.554] Heater parameters sent: CH3, 13277 W.
+[13:32:08.564] Heater Relay Board Y7 -> ON.
+[13:32:08.564] Heater CH3, 13277 W, On, 0.34 s.
+[13:32:08.909] Heater Relay Board Y7 -> OFF.
+[13:32:08.909] Heater CH3, 0 W, Off, 0.36 s.
+[13:32:09.273] Wait 13.20 s.
+[13:32:22.487] Valve Relay Board Y2 -> ON.
+[13:32:22.487] D2 -> Open.
+[13:32:22.499] Valve Relay Board Y4 -> ON.
+[13:32:22.499] D4 -> Open.
+[13:32:22.511] Valve Relay Board Y1 -> ON.
+[13:32:22.511] D1 -> Open.
+[13:32:22.523] Valve Relay Board Y3 -> ON.
+[13:32:22.523] D3 -> Open.
+[13:32:22.523] Wait 4.00 s.
+[13:32:26.539] Heater parameters sent: CH2, 4611 W.
+[13:32:26.550] Heater Relay Board Y7 -> ON.
+[13:32:26.550] Heater CH2, 4611 W, On, 0.50 s.
+[13:32:27.066] Heater Relay Board Y7 -> OFF.
+[13:32:27.066] Heater CH2, 0 W, Off, 0.20 s.
+[13:32:27.273] Heater parameters sent: CH4, 4611 W.
+[13:32:27.284] Heater Relay Board Y7 -> ON.
+[13:32:27.284] Heater CH4, 4611 W, On, 0.50 s.
+[13:32:27.800] Heater Relay Board Y7 -> OFF.
+[13:32:27.800] Heater CH4, 0 W, Off, 0.20 s.
+[13:32:28.007] Heater parameters sent: CH1, 4611 W.
+[13:32:28.018] Heater Relay Board Y7 -> ON.
+[13:32:28.018] Heater CH1, 4611 W, On, 0.50 s.
+[13:32:28.519] Heater Relay Board Y7 -> OFF.
+[13:32:28.519] Heater CH1, 0 W, Off, 0.20 s.
+[13:32:28.726] Heater parameters sent: CH3, 4611 W.
+[13:32:28.737] Heater Relay Board Y7 -> ON.
+[13:32:28.737] Heater CH3, 4611 W, On, 0.50 s.
+[13:32:29.253] Heater Relay Board Y7 -> OFF.
+[13:32:29.253] Heater CH3, 0 W, Off, 0.20 s.
+[13:32:29.445] Wait 165.20 s.
+[13:35:14.669] Valve Relay Board Y2 -> OFF.
+[13:35:14.669] D2 -> Close.
+[13:35:14.670] Wait 1.00 s.
+[13:35:15.684] Valve Relay Board Y4 -> OFF.
+[13:35:15.684] D4 -> Close.
+[13:35:15.685] Wait 1.00 s.
+[13:35:16.699] Valve Relay Board Y1 -> OFF.
+[13:35:16.699] D1 -> Close.
+[13:35:16.699] Wait 1.00 s.
+[13:35:17.715] Valve Relay Board Y3 -> OFF.
+[13:35:17.715] D3 -> Close.
+[13:35:17.715] Wait 9.00 s.
+[13:35:26.734] Heater parameters sent: CH2, 13277 W.
+[13:35:26.744] Heater Relay Board Y7 -> ON.
+[13:35:26.744] Heater CH2, 13277 W, On, 0.34 s.
+[13:35:27.089] Heater Relay Board Y7 -> OFF.
+[13:35:27.089] Heater CH2, 0 W, Off, 0.36 s.
+[13:35:27.468] Heater parameters sent: CH4, 13277 W.
+[13:35:27.479] Heater Relay Board Y7 -> ON.
+[13:35:27.479] Heater CH4, 13277 W, On, 0.34 s.
+[13:35:27.823] Heater Relay Board Y7 -> OFF.
+[13:35:27.823] Heater CH4, 0 W, Off, 0.36 s.
+[13:35:28.202] Heater parameters sent: CH1, 13277 W.
+[13:35:28.213] Heater Relay Board Y7 -> ON.
+[13:35:28.213] Heater CH1, 13277 W, On, 0.34 s.
+[13:35:28.557] Heater Relay Board Y7 -> OFF.
+[13:35:28.557] Heater CH1, 0 W, Off, 0.36 s.
+[13:35:28.937] Heater parameters sent: CH3, 13277 W.
+[13:35:28.947] Heater Relay Board Y7 -> ON.
+[13:35:28.947] Heater CH3, 13277 W, On, 0.34 s.
+[13:35:29.292] Heater Relay Board Y7 -> OFF.
+[13:35:29.292] Heater CH3, 0 W, Off, 0.36 s.
+[13:35:29.656] Wait 13.20 s.
+[13:35:42.871] Valve Relay Board Y2 -> ON.
+[13:35:42.871] D2 -> Open.
+[13:35:42.884] Valve Relay Board Y4 -> ON.
+[13:35:42.884] D4 -> Open.
+[13:35:42.896] Valve Relay Board Y1 -> ON.
+[13:35:42.896] D1 -> Open.
+[13:35:42.907] Valve Relay Board Y3 -> ON.
+[13:35:42.907] D3 -> Open.
+[13:35:42.907] Wait 4.00 s.
+[13:35:46.937] Heater parameters sent: CH2, 4611 W.
+[13:35:46.948] Heater Relay Board Y7 -> ON.
+[13:35:46.948] Heater CH2, 4611 W, On, 0.50 s.
+[13:35:47.464] Heater Relay Board Y7 -> OFF.
+[13:35:47.464] Heater CH2, 0 W, Off, 0.20 s.
+[13:35:47.671] Heater parameters sent: CH4, 4611 W.
+[13:35:47.683] Heater Relay Board Y7 -> ON.
+[13:35:47.683] Heater CH4, 4611 W, On, 0.50 s.
+[13:35:48.199] Heater Relay Board Y7 -> OFF.
+[13:35:48.199] Heater CH4, 0 W, Off, 0.20 s.
+[13:35:48.406] Heater parameters sent: CH1, 4611 W.
+[13:35:48.417] Heater Relay Board Y7 -> ON.
+[13:35:48.417] Heater CH1, 4611 W, On, 0.50 s.
+[13:35:48.933] Heater Relay Board Y7 -> OFF.
+[13:35:48.933] Heater CH1, 0 W, Off, 0.20 s.
+[13:35:49.140] Heater parameters sent: CH3, 4611 W.
+[13:35:49.151] Heater Relay Board Y7 -> ON.
+[13:35:49.151] Heater CH3, 4611 W, On, 0.50 s.
+[13:35:49.667] Heater Relay Board Y7 -> OFF.
+[13:35:49.667] Heater CH3, 0 W, Off, 0.20 s.
+[13:35:49.859] Wait 165.20 s.
+[13:38:35.087] Valve Relay Board Y2 -> OFF.
+[13:38:35.087] D2 -> Close.
+[13:38:35.087] Wait 1.00 s.
+[13:38:36.101] Valve Relay Board Y4 -> OFF.
+[13:38:36.101] D4 -> Close.
+[13:38:36.101] Wait 1.00 s.
+[13:38:37.117] Valve Relay Board Y1 -> OFF.
+[13:38:37.117] D1 -> Close.
+[13:38:37.117] Wait 1.00 s.
+[13:38:38.132] Valve Relay Board Y3 -> OFF.
+[13:38:38.132] D3 -> Close.
+[13:38:38.132] Wait 9.00 s.
+[13:38:47.151] Heater parameters sent: CH2, 13277 W.
+[13:38:47.161] Heater Relay Board Y7 -> ON.
+[13:38:47.161] Heater CH2, 13277 W, On, 0.34 s.
+[13:38:47.506] Heater Relay Board Y7 -> OFF.
+[13:38:47.506] Heater CH2, 0 W, Off, 0.36 s.
+[13:38:47.885] Heater parameters sent: CH4, 13277 W.
+[13:38:47.896] Heater Relay Board Y7 -> ON.
+[13:38:47.896] Heater CH4, 13277 W, On, 0.34 s.
+[13:38:48.240] Heater Relay Board Y7 -> OFF.
+[13:38:48.240] Heater CH4, 0 W, Off, 0.36 s.
+[13:38:48.619] Heater parameters sent: CH1, 13277 W.
+[13:38:48.630] Heater Relay Board Y7 -> ON.
+[13:38:48.631] Heater CH1, 13277 W, On, 0.34 s.
+[13:38:48.975] Heater Relay Board Y7 -> OFF.
+[13:38:48.975] Heater CH1, 0 W, Off, 0.36 s.
+[13:38:49.354] Heater parameters sent: CH3, 13277 W.
+[13:38:49.364] Heater Relay Board Y7 -> ON.
+[13:38:49.364] Heater CH3, 13277 W, On, 0.34 s.
+[13:38:49.710] Heater Relay Board Y7 -> OFF.
+[13:38:49.710] Heater CH3, 0 W, Off, 0.36 s.
+[13:38:50.073] Wait 13.20 s.
+[13:39:03.287] Valve Relay Board Y2 -> ON.
+[13:39:03.287] D2 -> Open.
+[13:39:03.299] Valve Relay Board Y4 -> ON.
+[13:39:03.299] D4 -> Open.
+[13:39:03.311] Valve Relay Board Y1 -> ON.
+[13:39:03.311] D1 -> Open.
+[13:39:03.323] Valve Relay Board Y3 -> ON.
+[13:39:03.323] D3 -> Open.
+[13:39:03.323] Wait 4.00 s.
+[13:39:07.338] Heater parameters sent: CH2, 4611 W.
+[13:39:07.349] Heater Relay Board Y7 -> ON.
+[13:39:07.349] Heater CH2, 4611 W, On, 0.50 s.
+[13:39:07.866] Heater Relay Board Y7 -> OFF.
+[13:39:07.866] Heater CH2, 0 W, Off, 0.20 s.
+[13:39:08.073] Heater parameters sent: CH4, 4611 W.
+[13:39:08.084] Heater Relay Board Y7 -> ON.
+[13:39:08.084] Heater CH4, 4611 W, On, 0.50 s.
+[13:39:08.600] Heater Relay Board Y7 -> OFF.
+[13:39:08.600] Heater CH4, 0 W, Off, 0.20 s.
+[13:39:08.807] Heater parameters sent: CH1, 4611 W.
+[13:39:08.818] Heater Relay Board Y7 -> ON.
+[13:39:08.818] Heater CH1, 4611 W, On, 0.50 s.
+[13:39:09.319] Heater Relay Board Y7 -> OFF.
+[13:39:09.319] Heater CH1, 0 W, Off, 0.20 s.
+[13:39:09.526] Heater parameters sent: CH3, 4611 W.
+[13:39:09.537] Heater Relay Board Y7 -> ON.
+[13:39:09.537] Heater CH3, 4611 W, On, 0.50 s.
+[13:39:10.053] Heater Relay Board Y7 -> OFF.
+[13:39:10.053] Heater CH3, 0 W, Off, 0.20 s.
+[13:39:10.245] Wait 165.20 s.
+[13:41:55.459] Valve Relay Board Y2 -> OFF.
+[13:41:55.459] D2 -> Close.
+[13:41:55.459] Wait 1.00 s.
+[13:41:56.474] Valve Relay Board Y4 -> OFF.
+[13:41:56.474] D4 -> Close.
+[13:41:56.474] Wait 1.00 s.
+[13:41:57.489] Valve Relay Board Y1 -> OFF.
+[13:41:57.489] D1 -> Close.
+[13:41:57.489] Wait 1.00 s.
+[13:41:58.504] Valve Relay Board Y3 -> OFF.
+[13:41:58.504] D3 -> Close.
+[13:41:58.504] Wait 9.00 s.
+[13:42:07.523] Heater parameters sent: CH2, 13277 W.
+[13:42:07.533] Heater Relay Board Y7 -> ON.
+[13:42:07.533] Heater CH2, 13277 W, On, 0.34 s.
+[13:42:07.878] Heater Relay Board Y7 -> OFF.
+[13:42:07.878] Heater CH2, 0 W, Off, 0.36 s.
+[13:42:08.257] Heater parameters sent: CH4, 13277 W.
+[13:42:08.268] Heater Relay Board Y7 -> ON.
+[13:42:08.268] Heater CH4, 13277 W, On, 0.34 s.
+[13:42:08.612] Heater Relay Board Y7 -> OFF.
+[13:42:08.612] Heater CH4, 0 W, Off, 0.36 s.
+[13:42:08.991] Heater parameters sent: CH1, 13277 W.
+[13:42:09.002] Heater Relay Board Y7 -> ON.
+[13:42:09.002] Heater CH1, 13277 W, On, 0.34 s.
+[13:42:09.347] Heater Relay Board Y7 -> OFF.
+[13:42:09.347] Heater CH1, 0 W, Off, 0.36 s.
+[13:42:09.726] Heater parameters sent: CH3, 13277 W.
+[13:42:09.736] Heater Relay Board Y7 -> ON.
+[13:42:09.736] Heater CH3, 13277 W, On, 0.34 s.
+[13:42:10.081] Heater Relay Board Y7 -> OFF.
+[13:42:10.081] Heater CH3, 0 W, Off, 0.36 s.
+[13:42:10.445] Wait 13.20 s.
+[13:42:23.659] Valve Relay Board Y2 -> ON.
+[13:42:23.659] D2 -> Open.
+[13:42:23.671] Valve Relay Board Y4 -> ON.
+[13:42:23.672] D4 -> Open.
+[13:42:23.683] Valve Relay Board Y1 -> ON.
+[13:42:23.683] D1 -> Open.
+[13:42:23.695] Valve Relay Board Y3 -> ON.
+[13:42:23.695] D3 -> Open.
+[13:42:23.696] Wait 4.00 s.
+[13:42:27.725] Heater parameters sent: CH2, 4611 W.
+[13:42:27.736] Heater Relay Board Y7 -> ON.
+[13:42:27.736] Heater CH2, 4611 W, On, 0.50 s.
+[13:42:28.237] Heater Relay Board Y7 -> OFF.
+[13:42:28.237] Heater CH2, 0 W, Off, 0.20 s.
+[13:42:28.444] Heater parameters sent: CH4, 4611 W.
+[13:42:28.455] Heater Relay Board Y7 -> ON.
+[13:42:28.455] Heater CH4, 4611 W, On, 0.50 s.
+[13:42:28.971] Heater Relay Board Y7 -> OFF.
+[13:42:28.971] Heater CH4, 0 W, Off, 0.20 s.
+[13:42:29.178] Heater parameters sent: CH1, 4611 W.
+[13:42:29.189] Heater Relay Board Y7 -> ON.
+[13:42:29.189] Heater CH1, 4611 W, On, 0.50 s.
+[13:42:29.690] Heater Relay Board Y7 -> OFF.
+[13:42:29.690] Heater CH1, 0 W, Off, 0.20 s.
+[13:42:29.897] Heater parameters sent: CH3, 4611 W.
+[13:42:29.908] Heater Relay Board Y7 -> ON.
+[13:42:29.908] Heater CH3, 4611 W, On, 0.50 s.
+[13:42:30.409] Heater Relay Board Y7 -> OFF.
+[13:42:30.409] Heater CH3, 0 W, Off, 0.20 s.
+[13:42:30.600] Wait 165.20 s.
+[13:45:15.827] Valve Relay Board Y2 -> OFF.
+[13:45:15.827] D2 -> Close.
+[13:45:15.827] Wait 1.00 s.
+[13:45:16.842] Valve Relay Board Y4 -> OFF.
+[13:45:16.842] D4 -> Close.
+[13:45:16.842] Wait 1.00 s.
+[13:45:17.858] Valve Relay Board Y1 -> OFF.
+[13:45:17.858] D1 -> Close.
+[13:45:17.858] Wait 1.00 s.
+[13:45:18.873] Valve Relay Board Y3 -> OFF.
+[13:45:18.873] D3 -> Close.
+[13:45:18.873] Wait 9.00 s.
+[13:45:27.877] Heater parameters sent: CH2, 13277 W.
+[13:45:27.887] Heater Relay Board Y7 -> ON.
+[13:45:27.887] Heater CH2, 13277 W, On, 0.34 s.
+[13:45:28.231] Heater Relay Board Y7 -> OFF.
+[13:45:28.231] Heater CH2, 0 W, Off, 0.36 s.
+[13:45:28.611] Heater parameters sent: CH4, 13277 W.
+[13:45:28.621] Heater Relay Board Y7 -> ON.
+[13:45:28.621] Heater CH4, 13277 W, On, 0.34 s.
+[13:45:28.966] Heater Relay Board Y7 -> OFF.
+[13:45:28.966] Heater CH4, 0 W, Off, 0.36 s.
+[13:45:29.345] Heater parameters sent: CH1, 13277 W.
+[13:45:29.356] Heater Relay Board Y7 -> ON.
+[13:45:29.356] Heater CH1, 13277 W, On, 0.34 s.
+[13:45:29.700] Heater Relay Board Y7 -> OFF.
+[13:45:29.700] Heater CH1, 0 W, Off, 0.36 s.
+[13:45:30.079] Heater parameters sent: CH3, 13277 W.
+[13:45:30.090] Heater Relay Board Y7 -> ON.
+[13:45:30.090] Heater CH3, 13277 W, On, 0.34 s.
+[13:45:30.435] Heater Relay Board Y7 -> OFF.
+[13:45:30.435] Heater CH3, 0 W, Off, 0.36 s.
+[13:45:30.799] Wait 13.20 s.
+[13:45:44.013] Valve Relay Board Y2 -> ON.
+[13:45:44.013] D2 -> Open.
+[13:45:44.025] Valve Relay Board Y4 -> ON.
+[13:45:44.025] D4 -> Open.
+[13:45:44.037] Valve Relay Board Y1 -> ON.
+[13:45:44.037] D1 -> Open.
+[13:45:44.049] Valve Relay Board Y3 -> ON.
+[13:45:44.049] D3 -> Open.
+[13:45:44.049] Wait 4.00 s.
+[13:45:48.079] Heater parameters sent: CH2, 4611 W.
+[13:45:48.090] Heater Relay Board Y7 -> ON.
+[13:45:48.090] Heater CH2, 4611 W, On, 0.50 s.
+[13:45:48.591] Heater Relay Board Y7 -> OFF.
+[13:45:48.591] Heater CH2, 0 W, Off, 0.20 s.
+[13:45:48.798] Heater parameters sent: CH4, 4611 W.
+[13:45:48.809] Heater Relay Board Y7 -> ON.
+[13:45:48.809] Heater CH4, 4611 W, On, 0.50 s.
+[13:45:49.326] Heater Relay Board Y7 -> OFF.
+[13:45:49.326] Heater CH4, 0 W, Off, 0.20 s.
+[13:45:49.532] Heater parameters sent: CH1, 4611 W.
+[13:45:49.544] Heater Relay Board Y7 -> ON.
+[13:45:49.544] Heater CH1, 4611 W, On, 0.50 s.
+[13:45:50.060] Heater Relay Board Y7 -> OFF.
+[13:45:50.060] Heater CH1, 0 W, Off, 0.20 s.
+[13:45:50.267] Heater parameters sent: CH3, 4611 W.
+[13:45:50.278] Heater Relay Board Y7 -> ON.
+[13:45:50.278] Heater CH3, 4611 W, On, 0.50 s.
+[13:45:50.779] Heater Relay Board Y7 -> OFF.
+[13:45:50.779] Heater CH3, 0 W, Off, 0.20 s.
+[13:45:50.971] Wait 165.20 s.
+[13:48:36.186] Valve Relay Board Y2 -> OFF.
+[13:48:36.186] D2 -> Close.
+[13:48:36.187] Wait 1.00 s.
+[13:48:37.200] Valve Relay Board Y4 -> OFF.
+[13:48:37.200] D4 -> Close.
+[13:48:37.200] Wait 1.00 s.
+[13:48:38.215] Valve Relay Board Y1 -> OFF.
+[13:48:38.215] D1 -> Close.
+[13:48:38.215] Wait 1.00 s.
+[13:48:39.216] Valve Relay Board Y3 -> OFF.
+[13:48:39.216] D3 -> Close.
+[13:48:39.216] Wait 9.00 s.
+[13:48:48.220] Heater parameters sent: CH2, 13277 W.
+[13:48:48.231] Heater Relay Board Y7 -> ON.
+[13:48:48.231] Heater CH2, 13277 W, On, 0.34 s.
+[13:48:48.576] Heater Relay Board Y7 -> OFF.
+[13:48:48.576] Heater CH2, 0 W, Off, 0.36 s.
+[13:48:48.955] Heater parameters sent: CH4, 13277 W.
+[13:48:48.965] Heater Relay Board Y7 -> ON.
+[13:48:48.965] Heater CH4, 13277 W, On, 0.34 s.
+[13:48:49.310] Heater Relay Board Y7 -> OFF.
+[13:48:49.310] Heater CH4, 0 W, Off, 0.36 s.
+[13:48:49.689] Heater parameters sent: CH1, 13277 W.
+[13:48:49.700] Heater Relay Board Y7 -> ON.
+[13:48:49.700] Heater CH1, 13277 W, On, 0.34 s.
+[13:48:50.044] Heater Relay Board Y7 -> OFF.
+[13:48:50.044] Heater CH1, 0 W, Off, 0.36 s.
+[13:48:50.423] Heater parameters sent: CH3, 13277 W.
+[13:48:50.434] Heater Relay Board Y7 -> ON.
+[13:48:50.434] Heater CH3, 13277 W, On, 0.34 s.
+[13:48:50.778] Heater Relay Board Y7 -> OFF.
+[13:48:50.778] Heater CH3, 0 W, Off, 0.36 s.
+[13:48:51.143] Wait 13.20 s.
+[13:49:04.359] Valve Relay Board Y2 -> ON.
+[13:49:04.359] D2 -> Open.
+[13:49:04.370] Valve Relay Board Y4 -> ON.
+[13:49:04.370] D4 -> Open.
+[13:49:04.383] Valve Relay Board Y1 -> ON.
+[13:49:04.383] D1 -> Open.
+[13:49:04.394] Valve Relay Board Y3 -> ON.
+[13:49:04.394] D3 -> Open.
+[13:49:04.395] Wait 4.00 s.
+[13:49:08.424] Heater parameters sent: CH2, 4611 W.
+[13:49:08.435] Heater Relay Board Y7 -> ON.
+[13:49:08.435] Heater CH2, 4611 W, On, 0.50 s.
+[13:49:08.951] Heater Relay Board Y7 -> OFF.
+[13:49:08.951] Heater CH2, 0 W, Off, 0.20 s.
+[13:49:09.158] Heater parameters sent: CH4, 4611 W.
+[13:49:09.169] Heater Relay Board Y7 -> ON.
+[13:49:09.169] Heater CH4, 4611 W, On, 0.50 s.
+[13:49:09.684] Heater Relay Board Y7 -> OFF.
+[13:49:09.684] Heater CH4, 0 W, Off, 0.20 s.
+[13:49:09.892] Heater parameters sent: CH1, 4611 W.
+[13:49:09.903] Heater Relay Board Y7 -> ON.
+[13:49:09.903] Heater CH1, 4611 W, On, 0.50 s.
+[13:49:10.404] Heater Relay Board Y7 -> OFF.
+[13:49:10.404] Heater CH1, 0 W, Off, 0.20 s.
+[13:49:10.612] Heater parameters sent: CH3, 4611 W.
+[13:49:10.623] Heater Relay Board Y7 -> ON.
+[13:49:10.623] Heater CH3, 4611 W, On, 0.50 s.
+[13:49:11.124] Heater Relay Board Y7 -> OFF.
+[13:49:11.124] Heater CH3, 0 W, Off, 0.20 s.
+[13:49:11.315] Wait 165.20 s.
+[13:51:56.531] Valve Relay Board Y2 -> OFF.
+[13:51:56.531] D2 -> Close.
+[13:51:56.531] Wait 1.00 s.
+[13:51:57.546] Valve Relay Board Y4 -> OFF.
+[13:51:57.546] D4 -> Close.
+[13:51:57.546] Wait 1.00 s.
+[13:51:58.561] Valve Relay Board Y1 -> OFF.
+[13:51:58.561] D1 -> Close.
+[13:51:58.561] Wait 1.00 s.
+[13:51:59.577] Valve Relay Board Y3 -> OFF.
+[13:51:59.577] D3 -> Close.
+[13:51:59.577] Wait 9.00 s.
+[13:52:08.581] Heater parameters sent: CH2, 13277 W.
+[13:52:08.592] Heater Relay Board Y7 -> ON.
+[13:52:08.592] Heater CH2, 13277 W, On, 0.34 s.
+[13:52:08.936] Heater Relay Board Y7 -> OFF.
+[13:52:08.937] Heater CH2, 0 W, Off, 0.36 s.
+[13:52:09.315] Heater parameters sent: CH4, 13277 W.
+[13:52:09.326] Heater Relay Board Y7 -> ON.
+[13:52:09.326] Heater CH4, 13277 W, On, 0.34 s.
+[13:52:09.670] Heater Relay Board Y7 -> OFF.
+[13:52:09.670] Heater CH4, 0 W, Off, 0.36 s.
+[13:52:10.050] Heater parameters sent: CH1, 13277 W.
+[13:52:10.060] Heater Relay Board Y7 -> ON.
+[13:52:10.060] Heater CH1, 13277 W, On, 0.34 s.
+[13:52:10.405] Heater Relay Board Y7 -> OFF.
+[13:52:10.405] Heater CH1, 0 W, Off, 0.36 s.
+[13:52:10.784] Heater parameters sent: CH3, 13277 W.
+[13:52:10.795] Heater Relay Board Y7 -> ON.
+[13:52:10.795] Heater CH3, 13277 W, On, 0.34 s.
+[13:52:11.139] Heater Relay Board Y7 -> OFF.
+[13:52:11.139] Heater CH3, 0 W, Off, 0.36 s.
+[13:52:11.503] Wait 13.20 s.
+[13:52:24.721] Valve Relay Board Y2 -> ON.
+[13:52:24.721] D2 -> Open.
+[13:52:24.733] Valve Relay Board Y4 -> ON.
+[13:52:24.733] D4 -> Open.
+[13:52:24.745] Valve Relay Board Y1 -> ON.
+[13:52:24.745] D1 -> Open.
+[13:52:24.757] Valve Relay Board Y3 -> ON.
+[13:52:24.757] D3 -> Open.
+[13:52:24.757] Wait 4.00 s.
+[13:52:28.787] Heater parameters sent: CH2, 4611 W.
+[13:52:28.798] Heater Relay Board Y7 -> ON.
+[13:52:28.798] Heater CH2, 4611 W, On, 0.50 s.
+[13:52:29.315] Heater Relay Board Y7 -> OFF.
+[13:52:29.315] Heater CH2, 0 W, Off, 0.20 s.
+[13:52:29.521] Heater parameters sent: CH4, 4611 W.
+[13:52:29.533] Heater Relay Board Y7 -> ON.
+[13:52:29.533] Heater CH4, 4611 W, On, 0.50 s.
+[13:52:30.033] Heater Relay Board Y7 -> OFF.
+[13:52:30.033] Heater CH4, 0 W, Off, 0.20 s.
+[13:52:30.240] Heater parameters sent: CH1, 4611 W.
+[13:52:30.252] Heater Relay Board Y7 -> ON.
+[13:52:30.252] Heater CH1, 4611 W, On, 0.50 s.
+[13:52:30.753] Heater Relay Board Y7 -> OFF.
+[13:52:30.753] Heater CH1, 0 W, Off, 0.20 s.
+[13:52:30.960] Heater parameters sent: CH3, 4611 W.
+[13:52:30.971] Heater Relay Board Y7 -> ON.
+[13:52:30.971] Heater CH3, 4611 W, On, 0.50 s.
+[13:52:31.472] Heater Relay Board Y7 -> OFF.
+[13:52:31.472] Heater CH3, 0 W, Off, 0.20 s.
+[13:52:31.663] Wait 165.20 s.
+[13:55:16.890] Valve Relay Board Y2 -> OFF.
+[13:55:16.890] D2 -> Close.
+[13:55:16.890] Wait 1.00 s.
+[13:55:17.905] Valve Relay Board Y4 -> OFF.
+[13:55:17.905] D4 -> Close.
+[13:55:17.905] Wait 1.00 s.
+[13:55:18.905] Valve Relay Board Y1 -> OFF.
+[13:55:18.905] D1 -> Close.
+[13:55:18.905] Wait 1.00 s.
+[13:55:19.906] Valve Relay Board Y3 -> OFF.
+[13:55:19.906] D3 -> Close.
+[13:55:19.906] Wait 9.00 s.
+[13:55:28.925] Heater parameters sent: CH2, 13277 W.
+[13:55:28.936] Heater Relay Board Y7 -> ON.
+[13:55:28.936] Heater CH2, 13277 W, On, 0.34 s.
+[13:55:29.280] Heater Relay Board Y7 -> OFF.
+[13:55:29.280] Heater CH2, 0 W, Off, 0.36 s.
+[13:55:29.659] Heater parameters sent: CH4, 13277 W.
+[13:55:29.670] Heater Relay Board Y7 -> ON.
+[13:55:29.670] Heater CH4, 13277 W, On, 0.34 s.
+[13:55:30.015] Heater Relay Board Y7 -> OFF.
+[13:55:30.015] Heater CH4, 0 W, Off, 0.36 s.
+[13:55:30.394] Heater parameters sent: CH1, 13277 W.
+[13:55:30.405] Heater Relay Board Y7 -> ON.
+[13:55:30.405] Heater CH1, 13277 W, On, 0.34 s.
+[13:55:30.749] Heater Relay Board Y7 -> OFF.
+[13:55:30.749] Heater CH1, 0 W, Off, 0.36 s.
+[13:55:31.129] Heater parameters sent: CH3, 13277 W.
+[13:55:31.139] Heater Relay Board Y7 -> ON.
+[13:55:31.139] Heater CH3, 13277 W, On, 0.34 s.
+[13:55:31.484] Heater Relay Board Y7 -> OFF.
+[13:55:31.484] Heater CH3, 0 W, Off, 0.36 s.
+[13:55:31.848] Wait 13.20 s.
+[13:55:45.063] Valve Relay Board Y2 -> ON.
+[13:55:45.063] D2 -> Open.
+[13:55:45.074] Valve Relay Board Y4 -> ON.
+[13:55:45.074] D4 -> Open.
+[13:55:45.086] Valve Relay Board Y1 -> ON.
+[13:55:45.086] D1 -> Open.
+[13:55:45.098] Valve Relay Board Y3 -> ON.
+[13:55:45.098] D3 -> Open.
+[13:55:45.098] Wait 4.00 s.
+[13:55:49.128] Heater parameters sent: CH2, 4611 W.
+[13:55:49.139] Heater Relay Board Y7 -> ON.
+[13:55:49.139] Heater CH2, 4611 W, On, 0.50 s.
+[13:55:49.655] Heater Relay Board Y7 -> OFF.
+[13:55:49.655] Heater CH2, 0 W, Off, 0.20 s.
+[13:55:49.862] Heater parameters sent: CH4, 4611 W.
+[13:55:49.873] Heater Relay Board Y7 -> ON.
+[13:55:49.873] Heater CH4, 4611 W, On, 0.50 s.
+[13:55:50.389] Heater Relay Board Y7 -> OFF.
+[13:55:50.389] Heater CH4, 0 W, Off, 0.20 s.
+[13:55:50.596] Heater parameters sent: CH1, 4611 W.
+[13:55:50.607] Heater Relay Board Y7 -> ON.
+[13:55:50.607] Heater CH1, 4611 W, On, 0.50 s.
+[13:55:51.124] Heater Relay Board Y7 -> OFF.
+[13:55:51.124] Heater CH1, 0 W, Off, 0.20 s.
+[13:55:51.331] Heater parameters sent: CH3, 4611 W.
+[13:55:51.342] Heater Relay Board Y7 -> ON.
+[13:55:51.342] Heater CH3, 4611 W, On, 0.50 s.
+[13:55:51.858] Heater Relay Board Y7 -> OFF.
+[13:55:51.858] Heater CH3, 0 W, Off, 0.20 s.
+[13:55:52.050] Wait 165.20 s.
+[13:58:37.275] Valve Relay Board Y2 -> OFF.
+[13:58:37.275] D2 -> Close.
+[13:58:37.275] Wait 1.00 s.
+[13:58:38.290] Valve Relay Board Y4 -> OFF.
+[13:58:38.290] D4 -> Close.
+[13:58:38.290] Wait 1.00 s.
+[13:58:39.305] Valve Relay Board Y1 -> OFF.
+[13:58:39.305] D1 -> Close.
+[13:58:39.305] Wait 1.00 s.
+[13:58:40.321] Valve Relay Board Y3 -> OFF.
+[13:58:40.321] D3 -> Close.
+[13:58:40.321] Wait 9.00 s.
+[13:58:49.339] Heater parameters sent: CH2, 13277 W.
+[13:58:49.350] Heater Relay Board Y7 -> ON.
+[13:58:49.350] Heater CH2, 13277 W, On, 0.34 s.
+[13:58:49.694] Heater Relay Board Y7 -> OFF.
+[13:58:49.694] Heater CH2, 0 W, Off, 0.36 s.
+[13:58:50.074] Heater parameters sent: CH4, 13277 W.
+[13:58:50.084] Heater Relay Board Y7 -> ON.
+[13:58:50.084] Heater CH4, 13277 W, On, 0.34 s.
+[13:58:50.429] Heater Relay Board Y7 -> OFF.
+[13:58:50.429] Heater CH4, 0 W, Off, 0.36 s.
+[13:58:50.808] Heater parameters sent: CH1, 13277 W.
+[13:58:50.819] Heater Relay Board Y7 -> ON.
+[13:58:50.819] Heater CH1, 13277 W, On, 0.34 s.
+[13:58:51.163] Heater Relay Board Y7 -> OFF.
+[13:58:51.163] Heater CH1, 0 W, Off, 0.36 s.
+[13:58:51.542] Heater parameters sent: CH3, 13277 W.
+[13:58:51.553] Heater Relay Board Y7 -> ON.
+[13:58:51.553] Heater CH3, 13277 W, On, 0.34 s.
+[13:58:51.898] Heater Relay Board Y7 -> OFF.
+[13:58:51.898] Heater CH3, 0 W, Off, 0.36 s.
+[13:58:52.262] Wait 13.20 s.
+[13:59:05.477] Valve Relay Board Y2 -> ON.
+[13:59:05.477] D2 -> Open.
+[13:59:05.489] Valve Relay Board Y4 -> ON.
+[13:59:05.489] D4 -> Open.
+[13:59:05.501] Valve Relay Board Y1 -> ON.
+[13:59:05.501] D1 -> Open.
+[13:59:05.513] Valve Relay Board Y3 -> ON.
+[13:59:05.513] D3 -> Open.
+[13:59:05.513] Wait 4.00 s.
+[13:59:09.543] Heater parameters sent: CH2, 4611 W.
+[13:59:09.554] Heater Relay Board Y7 -> ON.
+[13:59:09.554] Heater CH2, 4611 W, On, 0.50 s.
+[13:59:10.070] Heater Relay Board Y7 -> OFF.
+[13:59:10.070] Heater CH2, 0 W, Off, 0.20 s.
+[13:59:10.277] Heater parameters sent: CH4, 4611 W.
+[13:59:10.288] Heater Relay Board Y7 -> ON.
+[13:59:10.288] Heater CH4, 4611 W, On, 0.50 s.
+[13:59:10.804] Heater Relay Board Y7 -> OFF.
+[13:59:10.804] Heater CH4, 0 W, Off, 0.20 s.
+[13:59:11.011] Heater parameters sent: CH1, 4611 W.
+[13:59:11.023] Heater Relay Board Y7 -> ON.
+[13:59:11.023] Heater CH1, 4611 W, On, 0.50 s.
+[13:59:11.539] Heater Relay Board Y7 -> OFF.
+[13:59:11.539] Heater CH1, 0 W, Off, 0.20 s.
+[13:59:11.746] Heater parameters sent: CH3, 4611 W.
+[13:59:11.756] Heater Relay Board Y7 -> ON.
+[13:59:11.756] Heater CH3, 4611 W, On, 0.50 s.
+[13:59:12.273] Heater Relay Board Y7 -> OFF.
+[13:59:12.273] Heater CH3, 0 W, Off, 0.20 s.
+[13:59:12.465] Wait 165.20 s.
